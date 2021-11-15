@@ -1,1 +1,17 @@
+title: Net Zero Digital Research Infrastructure
+logo: /assets/net-zero-dri-logo.png
+author: Copyright © 2021 Project
+email: poppy.townsend@stfc.ac.uk
+description: >- # this means to ignore newlines until "baseurl:"
+  net-zero-dri - Net Zero Digital Research Infrastructure
+github_username:  net-zero-dri
+
+# Build settings
 theme: jekyll-theme-cayman
+
+header_pages:
+  - about.md
+  - overview.md
+  - dashboard.md
+  - releases.md
+  - contact.md
