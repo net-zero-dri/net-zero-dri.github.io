@@ -1,13 +1,13 @@
-title: ROOCS
-logo: /assets/roocs-logo.png
-author: Copyright © 2021 Project Roocs
-email: ag.stephens@stfc.ac.uk
+title: net-zero-dri
+logo: /assets/net-zero-dri-logo.png
+author: Copyright © 2021 Project
+email: poppy.townsend@stfc.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  roocs - remote operations on climate simulations
+  net-zero-dri - Net Zero Digital Research Infrastructure
 
-github_username:  roocs
+github_username:  net-zero-dri
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 
 header_pages:
   - about.md
