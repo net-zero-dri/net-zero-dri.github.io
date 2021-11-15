@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# ROOCS Website
 
-You can use the [editor on GitHub](https://github.com/net-zero-dri/net-zero-dri.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[![Build Status](https://travis-ci.org/roocs/roocs.github.io.svg?branch=master)](https://travis-ci.org/roocs/roocs.github.io)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*[ROOCS Website](https://roocs.github.io/)* is the front page for the roocs project.
 
-### Markdown
+## Contributing
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Contributions are welcome. Feel free to open a pull request with changes.
 
-```markdown
-Syntax highlighted code block
+### Running it Locally
 
-# Header 1
-## Header 2
-### Header 3
+It can be helpful to preview changes on your computer before opening a pull request. *ROOCS website* uses the [Jekyll static site generator](http://jekyllrb.com/). After forking or cloning the repository, perform the following steps to generate the site and preview it:
 
-- Bulleted
-- List
+- Make sure you have ruby installed on your computer. See https://www.ruby-lang.org/en/downloads/
+- `bundle install`
+- `bundle exec jekyll serve`
+- Point your browser at http://127.0.0.1:4000/
 
-1. Numbered
-2. List
+## Deployment
 
-**Bold** and _Italic_ and `Code` text
+Pull requests merged to the master branch are automatically deployed to the production website.
 
-[Link](url) and ![Image](src)
-```
+## License
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/net-zero-dri/net-zero-dri.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The content of this project itself is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/), and the underlying source code used to format and display that content is licensed under the [MIT license](LICENSE.txt).
