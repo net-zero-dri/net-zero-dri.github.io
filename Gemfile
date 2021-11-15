@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
-# Minima is a default theme for Jekyll sites.
-gem "minima"
+gem "cayman"
 
 group :development do
   gem 'jekyll', '~> 4.1.0'
