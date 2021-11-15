@@ -11,7 +11,4 @@ theme: jekyll-theme-cayman
 
 header_pages:
   - about.md
-  - overview.md
-  - dashboard.md
-  - releases.md
-  - contact.md
+
