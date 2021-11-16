@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ## What is the project about?
 
-We will provide a clear roadmap for [UK Research and Innovation](https://www.ukri.org/) to deliver carbon neutral [digital research infrastructure (DRI)](https://www.ukri.org/our-work/creating-world-class-research-and-innovation-infrastructure/digital-research-infrastructure/) by 2040 or earlier. 
+The net-zero-dri scoping poject will provide a clear roadmap for [UK Research and Innovation](https://www.ukri.org/) to deliver carbon neutral [digital research infrastructure (DRI)](https://www.ukri.org/our-work/creating-world-class-research-and-innovation-infrastructure/digital-research-infrastructure/) by 2040 or earlier. 
 
 
 ## Who is working on the project?
