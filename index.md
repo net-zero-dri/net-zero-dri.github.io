@@ -7,3 +7,4 @@ This scoping project will cover all the UKRI-owned and majority-funded infrastru
 
 It will provide a clear roadmap for how UKRI can take action to reduce the carbon emissions from data generation, analysis, storage and dissemination from digital infrastructure - such as supercomputers. Led by the project team at the [Centre for Environmental Data Analysis](https://www.ceda.ac.uk), the project will study how the entire UKRI DRI estate can deliver carbon neutral computing by 2040 or earlier. 
 
+![solar panels](/images/solar-panels-cropped.jpg){:class="img-responsive"}
