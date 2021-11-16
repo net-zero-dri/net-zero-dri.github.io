@@ -6,3 +6,4 @@ Across the nine organisations which make up [UK Research and Innovation](https:/
 This scoping project will cover all the UKRI-owned and majority-funded infrastructure, everything from the national supercomputing centres to the thousands of smartphones used by staff. 
 
 It will provide a clear roadmap for how UKRI can take action to reduce the carbon emissions from data generation, analysis, storage and dissemination from digital infrastructure - such as supercomputers. Led by the project team at the [Centre for Environmental Data Analysis](https://www.ceda.ac.uk), the project will study how the entire UKRI DRI estate can deliver carbon neutral computing by 2040 or earlier. 
+
