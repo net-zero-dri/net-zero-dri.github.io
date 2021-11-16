@@ -1,11 +1,8 @@
----
+ ---
 layout: home
 ---
-ROOCS is a project to develop data services in support of the [Copernicus Climate Change Service (C3S)](https://climate.copernicus.eu/). Led by the STFC [Centre for Environmental Data Analysis](https://www.ceda.ac.uk),
-ROOCS is providing a collection of tools to provide *data-aware* processing services
-of climate projections from CMIP5 and CORDEX.
+Across the nine organisations which make up [UK Research and Innovation](https://www.ukri.org/), there are an extensive range of computers and peripherals - known as [digital research infrastructure (DRI)](https://www.ukri.org/our-work/creating-world-class-research-and-innovation-infrastructure/digital-research-infrastructure/). UKRI is committed to becoming net zero by 2040. To support this goal, a scoping project has been awarded £1.8 million to investigate how UKRI can achieve net zero computing. 
 
-The main focus of the service is to reduce the volumes of data transferred by providing
-*data-reduction* processes that can be invoked directly from the C3S Climate Data Store (CDS).
+This scoping project will cover all the UKRI-owned and majority-funded infrastructure, everything from the national supercomputing centres to the thousands of smartphones used by staff. 
 
-The **aim of this portal** is to provide a set of links to the services/tools provided by ROOCS.
+It will provide a clear roadmap for how UKRI can take action to reduce the carbon emissions from data generation, analysis, storage and dissemination from digital infrastructure - such as supercomputers. Led by the project team at the [Centre for Environmental Data Analysis](https://www.ceda.ac.uk), the project will study how the entire UKRI DRI estate can deliver carbon neutral computing by 2040 or earlier. 
