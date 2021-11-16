@@ -1,8 +1,8 @@
-# ROOCS Website
+# Net Zero Digital Research Infrastructure (DRI) Scoping Project Website 
 
 [![Build Status](https://travis-ci.org/roocs/roocs.github.io.svg?branch=master)](https://travis-ci.org/roocs/roocs.github.io)
 
-*[ROOCS Website](https://roocs.github.io/)* is the front page for the roocs project.
+*[Net zero DRI Website](https://net-zero-dri.github.io/)* is the front page for the scoping project.
 
 ## Contributing
 
@@ -10,7 +10,7 @@ Contributions are welcome. Feel free to open a pull request with changes.
 
 ### Running it Locally
 
-It can be helpful to preview changes on your computer before opening a pull request. *ROOCS website* uses the [Jekyll static site generator](http://jekyllrb.com/). After forking or cloning the repository, perform the following steps to generate the site and preview it:
+It can be helpful to preview changes on your computer before opening a pull request. *Net zero DRI website* uses the [Jekyll static site generator](http://jekyllrb.com/). After forking or cloning the repository, perform the following steps to generate the site and preview it:
 
 - Make sure you have ruby installed on your computer. See https://www.ruby-lang.org/en/downloads/
 - `bundle install`
