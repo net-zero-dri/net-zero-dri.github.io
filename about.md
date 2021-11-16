@@ -3,20 +3,17 @@ layout: page
 title: About Us
 permalink: /about/
 ---
-# What is the project about?
+## What is the project about?
 
-We provide *data-aware* processing services of climate projections (like CMIP6 global data)
-for the [Climate Data Store](https://cds.climate.copernicus.eu) (CDS).
+We will provide a clear roadmap for [UK Research and Innovation](https://www.ukri.org/) to deliver carbon neutral [digital research infrastructure (DRI)](https://www.ukri.org/our-work/creating-world-class-research-and-innovation-infrastructure/digital-research-infrastructure/) by 2040 or earlier. 
+
 
 ## Who is working on the project?
 
-* [STFC/CEDA](http://www.ceda.ac.uk/)
-* [DKRZ](https://www.dkrz.de/)
+Staff from the [Centre for Environmental Data Analysis (CEDA)](http://www.ceda.ac.uk/). 
 
-## Which projects and groups do we work with?
+The core project team will lead an initial, 18-month UKRI-wide study to survey the digital carbon landscape, run a set of demonstrators and develop a roadmap to ensure that UKRI's data infrastructure can achieve net zero. Taking a systems-based approach, CEDA will work to develop adaptation strategies for the way data is conserved, analysed and managed. 
 
-* [IPSL](https://www.ipsl.fr/en)
-* [ESGF](https://esgf.llnl.gov/)
-* [Ouranos](https://github.com/Ouranosinc)
-* [CRIM](https://github.com/crim-ca)
-* [GeoPython](https://github.com/geopython)
+## When will the project start/end?
+
+The project started in November 2021 and will run for 18 months. 
