@@ -6,7 +6,9 @@ permalink: /overview/
 
 ROOCS has several components to provide *data-aware* processing on climate projections.
 
-![solar panels](/images/solar-panels-2-pexels-tom-fisk-9893727.jpg){:class="img-responsive"}
+![solar panels](/images/solar-panels-cropped.jpg){:class="img-responsive"}
+
+
 
 ## ROOCS components
 
