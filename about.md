@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About Us
+title: About
 permalink: /about/
 ---
 ## What is the project about?
 
-The net-zero-dri scoping poject will provide a clear roadmap for [UK Research and Innovation](https://www.ukri.org/) to deliver carbon neutral [digital research infrastructure (DRI)](https://www.ukri.org/our-work/creating-world-class-research-and-innovation-infrastructure/digital-research-infrastructure/) by 2040 or earlier. 
+The net-zero-dri scoping poject will provide a clear roadmap for [UK Research and Innovation](https://www.ukri.org/) to deliver carbon neutral [digital research infrastructure (DRI)](https://www.ukri.org/our-work/creating-world-class-research-and-innovation-infrastructure/digital-research-infrastructure/) by 2040 or earlier. You can find out more in the overview section of this website. 
 
 
 ## Who is working on the project?
@@ -22,3 +22,7 @@ The team will lead an initial, 18-month UKRI-wide study to survey the digital ca
 ## When will the project start/end?
 
 The project started in September 2021 and will run for 18 months. 
+
+## Who funded the project? 
+
+£1.8 million was awarded to the project from the [Natural Environment Research Council (NERC)](https://nerc.ukri.org/), on behalf of UKRI
