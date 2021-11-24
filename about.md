@@ -10,10 +10,15 @@ The net-zero-dri scoping poject will provide a clear roadmap for [UK Research an
 
 ## Who is working on the project?
 
-Staff from the [Centre for Environmental Data Analysis (CEDA)](http://www.ceda.ac.uk/). 
+Staff from the [Centre for Environmental Data Analysis (CEDA)](http://www.ceda.ac.uk/). The core project team includes:
+<p>Project Lead - Martin Juckes <br>
+Project Manager - Jen Bulpett <br>
+Science Officer - Charlotte Pascoe <br>
+Communications - Poppy Townsend <br>
+Technical lead - Ag Stephens <br></p>
 
-The core project team will lead an initial, 18-month UKRI-wide study to survey the digital carbon landscape, run a set of demonstrators and develop a roadmap to ensure that UKRI's data infrastructure can achieve net zero. Taking a systems-based approach, CEDA will work to develop adaptation strategies for the way data is conserved, analysed and managed. 
+The team will lead an initial, 18-month UKRI-wide study to survey the digital carbon landscape, run a set of demonstrators and develop a roadmap to ensure that UKRI's data infrastructure can achieve net zero. Taking a systems-based approach, CEDA will work to develop adaptation strategies for the way data is conserved, analysed and managed. 
 
 ## When will the project start/end?
 
-The project started in November 2021 and will run for 18 months. 
+The project started in September 2021 and will run for 18 months. 
