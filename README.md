@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/roocs/roocs.github.io.svg?branch=master)](https://travis-ci.org/roocs/roocs.github.io)
 
-*[Net zero DRI Website](https://net-zero-dri.github.io/)* is the front page for the scoping project.
+*[Net zero DRI Website](https://net-zero-dri.ceda.ac.uk/)* is the front page for the scoping project.
 
 ## Contributing
 
