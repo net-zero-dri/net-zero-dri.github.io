@@ -1,6 +1,3 @@
-
-# Targetting net zero computing
-
 Across the nine organisations which make up [UK Research and Innovation](https://www.ukri.org/), there are an extensive range of computers and peripherals - known as [digital research infrastructure (DRI)](https://www.ukri.org/our-work/creating-world-class-research-and-innovation-infrastructure/digital-research-infrastructure/). UKRI is committed to becoming net zero by 2040. 
 
 To support this goal, a scoping project funded by [NERC](https://nerc.ukri.org/), has been awarded £1.8 million to investigate how UKRI can achieve net zero computing. 
