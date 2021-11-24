@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-If you are interested in finding out more about the project please e-mail support@ceda.ac.uk
+If you are interested in finding out more about the project please e-mail <support@ceda.ac.uk>
 
 # Core project team
 
