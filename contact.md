@@ -7,8 +7,8 @@ If you are interested in finding out more about the project please e-mail suppor
 
 # Core project team
 
-Project Lead - Martin Juckes 
-Project Manager - Jen Bulpett
-Science Officer - Charlotte Pascoe 
-Communications - Poppy Townsend 
-Technical lead - Ag Stephens 
+<p>Project Lead - Martin Juckes <br>
+Project Manager - Jen Bulpett <br>
+Science Officer - Charlotte Pascoe <br>
+Communications - Poppy Townsend <br>
+Technical lead - Ag Stephens <br></p>
