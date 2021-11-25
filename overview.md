@@ -14,7 +14,7 @@ UKRI doesn't currently have a clear understanding about the carbon footprint of 
 ### Developing case studies
 The design of the mapping database will be informed by detailed analysis of exemplar national and international infrastructures. Exemplars will be selected on the basis of (1) national or international standing as infrastructure supporting excellent science or analogous non-research services and (2) easy availability of detailed information on carbon footprint associated with a range of services.
 
-![abstract-banner-image](images/abstract-lights-banner-GettyImages-1277341511-2.png){:class="img-responsive"} 
+![abstract-banner-image](images/jasmin-banner-bright_DSC7054.jpeg){:class="img-responsive"} 
 
 ### Bringing together experts 
 This project covers the entire UKRI digital research infrastructure estate - from supercomputers to the thousands of staff laptops. We will convene a *Net Zero DRI Consortium* with representatives from across UKRI to contribute both to the formulation of recommendations and the collection of evidence. This will ensure all areas of the organisation are covered by the project. 
