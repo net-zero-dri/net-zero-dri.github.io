@@ -8,6 +8,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username:  net-zero-dri
 # Build settings
 theme: minima
+google_tag_manager: true
 
 header_pages:
   - about.md
