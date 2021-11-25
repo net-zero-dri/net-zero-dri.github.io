@@ -1,3 +1,8 @@
+---
+layout: page
+title: UKRI Net Zero Digital Research Infrastructure Scoping Project
+permalink: /home/
+---
 
 ![abstract-banner-image](images/abstract-banner-GettyImages-1280385511-3.png){:class="img-responsive"} 
 
