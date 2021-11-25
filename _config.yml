@@ -1,9 +1,9 @@
-title: net-zero-dri
+title: net-zero-dri2
 logo: /images/netzero_logo_dark.png
 author: Copyright © 2021 Project
 email: support@ceda.ac.uk 
 description: >- # this means to ignore newlines until "baseurl:"
-  net-zero-dri - Net Zero UKRI Digital Research Infrastructure Scoping Project
+  net-zero-dri - UKRI Net Zero Digital Research Infrastructure Scoping Project
 
 github_username:  net-zero-dri
 # Build settings
