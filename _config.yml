@@ -9,6 +9,7 @@ github_username:  net-zero-dri
 # Build settings
 theme: minima
 google_tag_manager: true
+gtm_container: GTM-NDG2XX7
 
 header_pages:
   - about.md
