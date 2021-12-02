@@ -4,7 +4,7 @@ title: Events
 permalink: /events/
 ---
 
-### Open meetings (Friday 17th December 2021 or Monday 10th January 2022) 
+### Open meetings (17th December 2021 or 10th January 2022) 
 
 These meetings are open to anyone who wants to learn more about the project and what options are available for getting involved or being allocated funding. There are two dates to maximise options for attendance. [Further details here](/open-meetings/). 
 
