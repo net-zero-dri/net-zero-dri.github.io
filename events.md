@@ -6,7 +6,7 @@ title: Events
 
 ### Open meeting (Friday 17th December) - come find out what our project is going to do
 
-This meeting is open to anyone who wants to learn more about the project and what options are available for getting involved or being allocated funding. There are two dates where we will run this meeting to maximise options for attendance. 
+This meeting is open to anyone who wants to learn more about the project and what options are available for getting involved or being allocated funding. There are two dates where we will run this meeting to maximise options for attendance. [Further details here](/open-meetings/). 
 
 <details>
   <summary>Further details</summary>
