@@ -13,10 +13,10 @@ These meetings are open to anyone who wants to learn more about the project and 
 Anyone interested in contributing to the development of a UKRI roadmap for net zero digital research infrastructure
 
 **Purpose of meeting:**
-- introduce and describe the project objectives
-- facilitate discussion on different project activity areas
-- collect community recommendations for the project 
-- engage research community in the project
+- Introduce and describe the project objectives
+- Facilitate discussion on different project activity areas
+- Collect community recommendations for the project 
+- Engage research community in the project
 
 **Meeting structure:** 
 - Introduction presentation from the project team 
