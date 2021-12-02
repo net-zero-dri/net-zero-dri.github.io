@@ -38,6 +38,6 @@ Virtual event - hosted on Zoom. Joining instructions will be sent to registered 
 
 **How to register:** 
 
-December meeting - Link coming soon. 
+[December meeting - register here](https://net-zero-dri-open-meeting.eventbrite.co.uk/) - deadline to register is 16th December
 
-January meeting - Link coming soon. 
+[January meeting - register here](https://net-zero-dri-open-meeting-jan.eventbrite.co.uk/) - deadline to register is 7th January
