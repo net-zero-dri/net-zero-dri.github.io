@@ -4,8 +4,6 @@ title: Sandpit event
 permalink: /sandpit/
 ---
 
-### Sandpit event (TBC, February 2022)
-
 This 2 day event will be used to allocate the funding for involvement of the community in proof-of-concept projects and workshops. 
 
 **Purpose of meeting:**
