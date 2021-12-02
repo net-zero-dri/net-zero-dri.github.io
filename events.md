@@ -1,4 +1,8 @@
-## Events 
+---
+layout: page
+title: Events
+
+---
 
 ### Open meeting (Friday 17th December) - come find out what our project is going to do
 
