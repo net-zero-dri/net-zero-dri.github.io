@@ -25,7 +25,7 @@ The team will lead an initial, 18-month UKRI-wide study to survey the digital ca
 
 ## When will the project start/end?
 
-The project started in September 2021 and will run for 18 months. 
+The project started in November 2021 and will run for 17 months. 
 
 ## Who funded the project? 
 
