@@ -29,4 +29,4 @@ The project started in September 2021 and will run for 18 months.
 
 ## Who funded the project? 
 
-£1.86 million was awarded to the project from the [Natural Environment Research Council (NERC)](https://nerc.ukri.org/), on behalf of UKRI
+£1.86 million was awarded to the project from UKRI (administered by the [Natural Environment Research Council (NERC)](https://nerc.ukri.org/))
