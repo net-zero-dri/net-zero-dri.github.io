@@ -1,0 +1,23 @@
+title: UKRI Net Zero Digital Research Infrastructure Scoping Project
+logo: /images/netzero_logo_dark.png
+author: Copyright © 2021 Project
+email: support@ceda.ac.uk 
+description: >- # this means to ignore newlines until "baseurl:"
+  net-zero-dri - UKRI Net Zero Digital Research Infrastructure Scoping Project
+
+github_username:  net-zero-dri
+# Build settings
+theme: minima
+
+scholar:
+  style: modern-language-association
+
+# Google settings
+google_analytics: UA-86072804-1
+google_tag_manager: GTM-NDG2XX7
+
+header_pages:
+  - about.md
+  - overview.md
+  - events.md
+  - contact.md
