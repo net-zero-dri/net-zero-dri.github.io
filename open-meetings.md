@@ -6,9 +6,9 @@ permalink: /open-meetings/
 
 ## Resources from the meeting
 
-Slides: https://doi.org/10.5281/zenodo.5846587
+[Slides](https://doi.org/10.5281/zenodo.5846587)
 
-Recording: https://youtu.be/DjoFp8sH1QM
+[Recording](https://doi.org/10.5281/zenodo.5846587)
 
 ## Meeting details
 
