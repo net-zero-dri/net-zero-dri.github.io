@@ -4,7 +4,13 @@ title: Open meetings
 permalink: /open-meetings/
 ---
 
-### Held on Friday 17th December 2021 or Monday 10th January 2022
+## Resources from the meeting
+
+Slides: https://doi.org/10.5281/zenodo.5846587
+
+Recording: https://youtu.be/DjoFp8sH1QM
+
+## Meeting details
 
 These meetings are open to anyone who wants to learn more about the project and what options are available for getting involved or being allocated funding. There are two dates where we will run this meeting to maximise options for attendance. 
 
