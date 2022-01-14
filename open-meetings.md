@@ -8,13 +8,13 @@ permalink: /open-meetings/
 
 [Slides](https://doi.org/10.5281/zenodo.5846587)
 
-[Recording](https://doi.org/10.5281/zenodo.5846587)
+[Recording](https://doi.org/10.5281/zenodo.5846587) - this is from the January meeting
 
 ## Meeting details
 
-These meetings are open to anyone who wants to learn more about the project and what options are available for getting involved or being allocated funding. There are two dates where we will run this meeting to maximise options for attendance. 
+These meetings were open to anyone who wanted to learn more about the project and what options are available for getting involved or being allocated funding. There were two dates (December 2021 and January 2022) where we ran this meeting to maximise options for attendance. 
 
-**Who can come?**
+**Audience**
 
 Anyone interested in contributing to the development of a UKRI roadmap for net zero digital research infrastructure
 
@@ -29,21 +29,3 @@ Anyone interested in contributing to the development of a UKRI roadmap for net z
 - Breakout discussion in small groups (with the aim to come up with some recommendations for the project), facilitated by a project team member
 - Feedback recommendations to all
 - Final Q&A    
-
-**When?** 
-
-Friday 17th December 2021 14:00-16:00 (GMT) 
-
-OR 
-
-Monday 10th January 2022 10:30-12:30 (GMT)
-
-**Where?** 
-
-Virtual event - hosted on Zoom. Joining instructions will be sent to registered participants. 
-
-**How to register:** 
-
-[December meeting](https://net-zero-dri-open-meeting.eventbrite.co.uk/) - deadline to register is 9:00 (GMT) on 16th December
-
-[January meeting](https://net-zero-dri-open-meeting-jan.eventbrite.co.uk/) - deadline to register is 9:00 (GMT) on 7th January
