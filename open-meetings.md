@@ -8,7 +8,7 @@ permalink: /open-meetings/
 
 [Slides](https://doi.org/10.5281/zenodo.5846587)
 
-[Recording](https://doi.org/10.5281/zenodo.5846587) - this is from the January meeting
+[Recording](https://youtu.be/DjoFp8sH1QM) - this is from the January meeting
 
 ## Meeting details
 
