@@ -25,7 +25,7 @@ If you know of any literature (papers, websites, blogs, presentations, etc), tha
 
 **Share information about related activities**
 
-If you know of any related activities/projects (papers, websites, blogs, presentations, etc), that could be used as evidence in the project, please fill in [this form.](https://forms.gle/D7noUAjUtqMtSbCRA)
+If you know of any related activities/projects, that could help contribute to the project, please fill in [this form.](https://forms.gle/D7noUAjUtqMtSbCRA)
 
 **Subscribe to our email list**
 
