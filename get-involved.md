@@ -23,3 +23,14 @@ If you know of any literature (papers, websites, blogs, presentations, etc), tha
 
 If you know of any related activities/projects (papers, websites, blogs, presentations, etc), that could be used as evidence in the project, please fill in [this form.](https://forms.gle/D7noUAjUtqMtSbCRA)
 
+**Subscribe to our email list**
+
+Project updates, news and event details will be sent via an email list. Please email [support@ceda.ac.uk](mailto:support@ceda.ac.uk) if you would like to be added to the mailing list. 
+
+**Attend events**
+
+The project team will host various workshops/webinars throughout the project. Workshops will also be hosted by members of the community. Details of these will be added to the [events webpage](https://net-zero-dri.ceda.ac.uk/events/) and sent to the mailing list. 
+
+**Apply for funding - proof-of-concept studies and workshops**
+
+There is funding available in the project for the research community to undertake proof-of-concept studies or host workshops. A sandpit event will be run in early 2022 to allocate funds. Further details will be circulated in due course. 
