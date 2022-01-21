@@ -7,7 +7,9 @@ permalink: /get-involved/
 ## Who can contribute to the project? 
 The net-zero-dri project needs contributions from experts in the UK research community, industry partners and international stakeholders. 
 
-We are collecting evidence to inform and provide recommendations for how UKRI's digital reseach infrastructure can reach net zero. We do not see the net zero challenge as a purely technical problem. We also wish to address the patterns of user behaviour which can make efficient use of infrastructure and the kind of community engagement needed to overcome the immense challenges of a transition to a rigorous net zero target over a 15 to 20 year timescale. 
+We are collecting evidence to inform and provide recommendations for how UKRI's digital reseach infrastructure can reach net zero. We do not see the net zero challenge as a purely technical problem. 
+
+We also wish to address the patterns of user behaviour which can make efficient use of infrastructure and the kind of community engagement needed to overcome the immense challenges of a transition to a rigorous net zero target over a 15 to 20 year timescale. 
 
 This evidence will therefore need to come from experts across a broad range of areas, including, but not limited to: 
 * research computing architecture and hardware
