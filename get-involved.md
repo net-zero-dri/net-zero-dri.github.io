@@ -4,10 +4,14 @@ title: Get involved
 permalink: /get-involved/
 ---
 
-## Who can contribute to the project 
+## Who can contribute to the project? 
 The net-zero-dri project needs contributions from experts in the UK research community, industry partners and international stakeholders. 
 
-We are collecting evidence to inform and provide recommendations for how UKRI's digital reseach infrastructure can reach net zero. This evidence will need to come from a broad range of areas. Including, but not limited to: computing architecture and hardware, social sciences (specifically related to behaviour change), environmental science, etc. 
+We are collecting evidence to inform and provide recommendations for how UKRI's digital reseach infrastructure can reach net zero. This evidence will need to come from a broad range of areas, including, but not limited to: 
+* research computing architecture and hardware
+* social sciences (specifically related to behaviour change)
+* environmental science
+* etc. 
 
 ## How to get involved? 
 The evidence collected will take various forms, including direct quantitative evidence collected from current facilities, an extensive literature review, community workshops, proof-of-concept studies and other forms of expert consultation.  
@@ -25,7 +29,7 @@ If you know of any related activities/projects (papers, websites, blogs, present
 
 **Subscribe to our email list**
 
-Project updates, news and event details will be sent via an email list. Please email [support@ceda.ac.uk](mailto:support@ceda.ac.uk) if you would like to be added to the mailing list. 
+Project updates, news and event details will be sent via an email list. Please email [support@ceda.ac.uk](mailto:support@ceda.ac.uk) if you would like to subscribe. 
 
 **Attend events**
 
