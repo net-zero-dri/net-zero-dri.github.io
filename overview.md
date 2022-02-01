@@ -20,7 +20,7 @@ The design of the mapping database will be informed by detailed analysis of exem
 This project covers the entire UKRI digital research infrastructure estate - from supercomputers to the thousands of staff laptops. We will convene a *Net Zero DRI Consortium* with representatives from across UKRI to contribute both to the formulation of recommendations and the collection of evidence. This will ensure all areas of the organisation are covered by the project. 
 
 ### Exploring challenges and opportunities 
-A programme of workshops will be facilitated to cover the full range of challenges and opportunities around the Net Zero topic. The workshops will cover all the technical themes and gather documented evidence, based on practice and research. 
+A [programme of workshops](/workshops/) will be facilitated to cover the full range of challenges and opportunities around the Net Zero topic. The workshops will cover all the technical themes and gather documented evidence, based on practice and research. 
 
 Some example topics to be explored: 
 * Effective Computation: making each simulation count
