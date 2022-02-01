@@ -4,7 +4,6 @@ title: Resources
 permalink: /resources/
 ---
 
-## Overview
 This page will collate all resources created by the project e.g. presentations, reports, recordings. 
 
 **January 2022**
