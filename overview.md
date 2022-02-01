@@ -27,10 +27,14 @@ Some example topics to be explored:
 * Using cloud to enhance efficiency in use of carbon and other resources
 * Efficient management of data products 
 
+[Further information about the workshops here](/workshops/). 
+
 ![abstract-banner-image](images/bikes-banner-GettyImages-1307779142.jpeg){:class="img-responsive"} 
 
 ### Funding proof-of-concept studies 
-The project will fund ~5 proof-of-concept studies to analyse the implementation of carbon and energy efficiency measures in existing facilities and programmes. They will also determine potential advantages of additional measures or collaboration with existing UKRI funded activities, such as the STFC-led ‘Net-Zero Living Laboratory’.
+The project will fund ~5 [proof-of-concept studies](/proof-of-concept/) to analyse the implementation of carbon and energy efficiency measures in existing facilities and programmes. They will also determine potential advantages of additional measures or collaboration with existing UKRI funded activities, such as the STFC-led ‘Net-Zero Living Laboratory’. 
+
+[Further information about the proof-of-concept studies here](/proof-of-concept/).
 
 ### Investigating funding and system level views 
 Existing processes, such as procurement, don't take into account carbon costs. The Net Zero Consortium will conduct a series of meetings, with invited experts as appropriate, to assess the current funding framework for UKRI digital research infrastructure and review the processes in place for the funding of digital research infrastructure procurement, operation, and use. 
