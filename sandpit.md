@@ -4,11 +4,11 @@ title: Sandpit event
 permalink: /sandpit/
 ---
 
-This 2 day event will be used to allocate the funding for involvement of the community in proof-of-concept projects and workshops. 
+This 2 day event will be used to allocate the funding for involvement of the community in [proof-of-concept projects](proof-of-concept) and [workshops](/workshops/).
 
 **Purpose of meeting:**
 - discuss the allocation of 210k for workshops elicit expert information to feed into the roadmap 
-- discuss the allocation of 500k for for proof-of-concept projects
+- discuss the allocation of 500k for proof-of-concept projects
   
 **Who can come?**
 
@@ -28,7 +28,7 @@ To be confirmed. Likely to be virtual event with a mixture of presentations and 
 
 **When?** 
 
-2x consecutive days. In February 2022. Exact dates to be confirmed.   
+2x consecutive days. In Spring 2022. Exact dates to be confirmed.   
 
 **Where?** 
 
