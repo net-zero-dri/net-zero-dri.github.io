@@ -45,3 +45,7 @@ The project team will host various workshops/webinars throughout the project. Wo
 **Apply for funding - proof-of-concept studies and workshops**
 
 There is funding available in the project for the research community to undertake proof-of-concept studies or host workshops. A sandpit event will be run in early 2022 to allocate funds. Further details will be circulated in due course. 
+
+[Further information about the workshops here](/workshops/). 
+
+[Further information about the proof-of-concept studies here](/proof-of-concept/). 
