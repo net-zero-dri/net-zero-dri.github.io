@@ -49,3 +49,9 @@ There is funding available in the project for the research community to undertak
 [Further information about the workshops here](/workshops/). 
 
 [Further information about the proof-of-concept studies here](/proof-of-concept/). 
+
+**Apply for a summer placement with us**
+
+We’ve got two summer student placement opportunities to work with the UKRI Net Zero Digital Research Infrastructure Project. The 12 weeks summer placement student/s will join as a 'Net Zero Project Engagement Assistant'. Deadline to apply is 6th March. 
+
+[Further details and to apply here.](https://www.careersportal.co.uk/UKRI-careers/jobs/net-zero-project-engagement-assistant-summer-placement-1596)
