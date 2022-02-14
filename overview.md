@@ -6,7 +6,13 @@ permalink: /overview/
 
 The net-zero-dri project has several focus areas to ensure it provides a clear recommendation on how [UK Research and Innovation](https://www.ukri.org/) (UKRI) can achieve carbon neutral computing by 2040 (or earlier). 
 
-An overview of the general project areas are below. For further details about what is in the [project scope](/scope/) see here. 
+The project will: 
+
+* Collect evidence to inform UKRI Digital Research Infrastructure Investment decisions. 
+* Provide as recommendations for UKRI and their community with an outline roadmap for achieving carbon neutrality in their Digital Research Infrastructure by 2040 or sooner. 
+* Enable UKRI to play a positive and leading role in the national and global transition to a sustainable economy. 
+
+An overview of how the project will collect evidence is below. For further details about the [project scope](/scope/) see here. 
 
 ![abstract-banner-image](images/trees-banner-GettyImages-1173733640-2.png){:class="img-responsive"} 
 
