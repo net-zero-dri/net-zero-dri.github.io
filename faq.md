@@ -4,9 +4,7 @@ title: FAQs
 permalink: /faq/
 ---
 
-The UKRI Net Zero Digital Research Infrastructure (DRI) Scoping project is a complex, multi-disciplinary project. 
-
-This page describes the frequently asked questions. If you have any further questions, please [contact us](/contact/).
+The UKRI Net Zero Digital Research Infrastructure (DRI) Scoping project is a complex, multi-disciplinary project. This page describes the frequently asked questions. If you have any further questions, please [contact us](/contact/).
 
 *NOTE: In all these questions, it is important to realise that we are a UKRI funded project, but we **do not** speak on behalf of UKRI. The project will produce evidence and advice to feed into the UKRI decision making process. These answers are based on the project teams opinions/experience so far.* 
 
