@@ -4,7 +4,7 @@ Across the nine organisations which make up [UK Research and Innovation](https:/
 
 To support this goal, a scoping project funded by UKRI (administrated by [NERC](https://nerc.ukri.org/)), has been awarded £1.8 million to investigate how UKRI can achieve net zero computing. 
 
-This website will showcase the findings from the net-zero-dri scoping project. The project will cover all the UKRI-owned and majority-funded digital research infrastructure, everything from the national supercomputing centres to the thousands of smartphones used by staff. 
+This website will showcase the findings from the net-zero-dri project. The [scope of the project](/scope/) will cover all the UKRI-owned and majority-funded digital research infrastructure.
 
 It will provide a clear roadmap for how UKRI can take action to reduce the carbon emissions from data generation, analysis, storage and dissemination from digital infrastructure. Led by the project team at the [Centre for Environmental Data Analysis](https://www.ceda.ac.uk), the project will study how the entire UKRI DRI estate can deliver carbon neutral computing by 2040 or earlier. 
 
