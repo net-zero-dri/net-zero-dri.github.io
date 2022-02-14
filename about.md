@@ -9,8 +9,9 @@ permalink: /about/
 
 ## What is the project about?
 
-The net-zero-dri scoping poject will provide a clear roadmap for [UK Research and Innovation](https://www.ukri.org/) (UKRI) to deliver carbon neutral [digital research infrastructure (DRI)](https://www.ukri.org/our-work/creating-world-class-research-and-innovation-infrastructure/digital-research-infrastructure/) by 2040 or earlier. You can find out more in the [overview section](https://net-zero-dri.ceda.ac.uk/overview/) of this website. 
+The net-zero-dri scoping poject will gather evidence to develop a clear roadmap for [UK Research and Innovation](https://www.ukri.org/) (UKRI) to deliver carbon neutral [digital research infrastructure (DRI)](https://www.ukri.org/our-work/creating-world-class-research-and-innovation-infrastructure/digital-research-infrastructure/) by 2040 or earlier. 
 
+You can find out more in the [overview](/overview/) and [project scope](/scope/) sections of this website. 
 
 ## Who is working on the project?
 
