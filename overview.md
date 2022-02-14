@@ -4,7 +4,9 @@ title: Overview
 permalink: /overview/
 ---
 
-The net-zero-dri scoping project has several focus areas to ensure it provides a clear recommendation on how [UK Research and Innovation](https://www.ukri.org/) (UKRI) can achieve carbon neutral computing by 2040 (or earlier). Further information will be added to this website as the project progresses. 
+The net-zero-dri project has several focus areas to ensure it provides a clear recommendation on how [UK Research and Innovation](https://www.ukri.org/) (UKRI) can achieve carbon neutral computing by 2040 (or earlier). 
+
+An overview of the general project areas are below. For further details about what is in the [project scope](/scope/) see here. 
 
 ![abstract-banner-image](images/trees-banner-GettyImages-1173733640-2.png){:class="img-responsive"} 
 
