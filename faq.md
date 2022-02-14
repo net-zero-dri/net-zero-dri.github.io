@@ -23,13 +23,6 @@ The major UKRI owned machine rooms are run by the STFC Scientific Computing Depa
 Other research councils, particularly EPSRC and MRC fund infrastructure which is situated in machine rooms run by universities and other organisations (e.g. the Edinburgh Parallel Computing Centre (EPCC) hosts the ARCHER2 machine).  
 
 We are not talking about specific new machine rooms associated this project. We are talking about existing infrastructure, which is being knitted together into the UKRI Digital Research Infrastructure. It is conceivable that the roadmap to 2040 might involve some migration to new machine rooms, but also possible that the best approach is to exploit the existing buildings. 
-
-**Universities have mid-level HPC that isn't UKRI owned, but will be used on UKRI-funded projects. Are outputs from such projects counted in our carbon budget?**  
-Yes. Projects like this will be counted in terms of what UKRI is responsible for. 
-
-Different institutions obviously have their own policy towards net zero and we're not necessarily going to be collecting a detailed budget from everybody for everything they run, but we will want to have some idea of what their policies are and have consistency.  
-
-We want to avoid, as far as possible, having different policies in different institutions and having researchers having to jump between one policy and another depending on where they're working. 
  
 **Is creation of data centres covered?**  
 
@@ -42,9 +35,26 @@ A [policy note published in 2021](https://assets.publishing.service.gov.uk/gover
 
 ## Project scope   
 
+**What is in/out of scope for the project?**
+
+Further details can be [found here](/scope/). 
+
 **How will the project impact on UKRI decisions?** 
 
 Our project will be making recommendations based on the evidence that we gather. What happens next is likely to depend on the strength of evidence, the degree of community engagement that we can demonstrate, and the extent to which recommendations are well considered and practical, taking into account the complexity and distributed nature of UKRI decision making and their dependence on decisions made in Government. 
+
+**Are you including UKRI IT staff, travel and offices in the scope?**  
+
+Here we need to distinguish between DRI staff (who are running digital research infrastructures, like data centres) and IT staff (who are providing support for staff with their desktop or laptop computers and their office software). 
+
+The staff travel of DRI staff is in scope. The IT staff, on the other hand, are out of scope. 
+
+**Universities have mid-level HPC that isn't UKRI owned, but will be used on UKRI-funded projects. Are outputs from such projects counted in our carbon budget?**  
+Yes. Projects like this will be counted in terms of what UKRI is responsible for. 
+
+Different institutions obviously have their own policy towards net zero and we're not necessarily going to be collecting a detailed budget from everybody for everything they run, but we will want to have some idea of what their policies are and have consistency.  
+
+We want to avoid, as far as possible, having different policies in different institutions and having researchers having to jump between one policy and another depending on where they're working. 
 
 **At what point do embodied emissions get considered?**  
 
@@ -54,12 +64,6 @@ For the data centres, it appears that this is a not the largest part of the emis
 
 We need to consider it now because it's quite a challenging problem. We don't have a huge direct influence on the factories that are incurring these emissions, but we need to work on this. 
 
-**Are you including UKRI IT staff, travel and offices in the scope?**  
-
-Here we need to distinguish between DRI staff (who are running digital research infrastructures, like data centres) and IT staff (who are providing support for staff with their desktop or laptop computers and their office software). 
-
-The staff travel of DRI staff is in scope. The IT staff, on the other hand, are out of scope. 
-
 **What is the expected balance between (1) moving to net-zero sources, and (2) reducing consumption / increasing power efficiency?**  
 
 We think this is about even - but that's based on not having enough evidence to make a more detailed estimate. There should also be an option (3) for carbon offsetting and capture. The potential role of offsetting and capture is also very unclear.  
@@ -68,13 +72,13 @@ Moving to net zero sources is dependent, to a certain extent, on what happens in
 
 ## Community involvement 
 
-**How can we help with the literature survey, and provide pointers to related work and projects?**
-
-There are further details about this on the [Get involved](/get-involved/) webpage.  
-
 **How can I keep up to date with the projects progress?**
 
 We have a mailing list - please [contact us](/contact/) if you wish to be added. 
+
+**How can we help with the literature survey, and provide pointers to related work and projects?**
+
+There are further details about this on the [Get involved](/get-involved/) webpage.  
 
 ## General questions about net zero / definitions and UKRI's ambition
 
