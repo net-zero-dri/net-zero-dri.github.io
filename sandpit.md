@@ -4,7 +4,7 @@ title: Sandpit event
 permalink: /sandpit/
 ---
 
-This 2 day event will be used to allocate the funding for involvement of the community in [proof-of-concept studies](proof-of-concept) and [workshops](/workshops/).
+This 2 day event will be used to allocate the funding for involvement of the community in [proof-of-concept studies](/proof-of-concept/) and [workshops](/workshops/).
 
 **Purpose of meeting:**
 - discuss the allocation of 210k for workshops elicit expert information to feed into the roadmap 
