@@ -76,7 +76,7 @@ We have a mailing list - please [contact us](/contact/) if you wish to be added.
 
 ## General questions about net zero / definitions and UKRI's ambition
 
-*NOTE: In all these questions, it is important to realise that we are a UKRI funded project, but we **do not** speak on behalf of UKRI. The project will produce evidence and advise to feed into the UKRI decision making process. These answers are based on the project teams opinions/thoughts.* 
+*NOTE: In all these questions, it is important to realise that we are a UKRI funded project, but we **do not** speak on behalf of UKRI. The project will produce evidence and advice to feed into the UKRI decision making process. These answers are based on the project teams opinions/thoughts.* 
 
 **How is the project/UKRI defining net zero?**
 
