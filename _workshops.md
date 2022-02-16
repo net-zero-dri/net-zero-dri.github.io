@@ -48,8 +48,8 @@ The following list of potential topics is not intended to be exclusive, but to g
 1. Effective Computation: making each simulation count
     * When the racks in the machine room are running at full power running scientific software, are they doing useful work? What if John has a bright idea at 5pm on Friday and quickly sends off a set of jobs, and then finds on Monday the 8000 core hours need to be repeated because he mis-typed one number? What if Jane has her hard drive full of data that she wants to analyse, but never finds time? How can we help them to reduce the carbon footprint of their work?  What is the potential for reducing the resource evaporation factor (REF), the amount of resources which get used but do not contribute to any research outputs? Is there a role for Open Science, as applied to scientific software development, in increasing efficiency?
     * Feedback to users about their energy usage (e.g. this month, you used xxxMW.h for yyy jobs)
-    * And to PIs of projects, about their project as a whole
-    * And translate this to meaningful things (eg that is enough energy to run an average UK 2-person household for xxx months)
+       * And to PIs of projects, about their project as a whole
+       * And translate this to meaningful things (eg that is enough energy to run an average UK 2-person household for xxx months)
 
 1. Efficient management of data products 
     * Once a significant piece of work has been completed, will other scientists be able to re-use the results, or will they find it easier to re-run the simulation? What is the role of FAIR data principles in reducing redundancy (REDU)? 
