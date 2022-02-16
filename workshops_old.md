@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Workshops
-permalink: /workshops/
+permalink: /workshops_old/
 ---
 
 The UKRI Net Zero DRI Scoping project will fund a selection of proof-of-concept studies to provide evidence to support design of the UKRI Net Zero DRI Roadmap by:
