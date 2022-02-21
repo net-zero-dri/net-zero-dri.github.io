@@ -36,7 +36,7 @@ If you know of any related activities/projects, that could help contribute to th
 
 **Subscribe to our email list**
 
-Project updates, news and event details will be sent via an email list. Please email [support@ceda.ac.uk](mailto:support@ceda.ac.uk) if you would like to subscribe. 
+Project updates, news and event details will be sent via an email list - [sign up here](/subscribe/). Alternatively, you can email [support@ceda.ac.uk](mailto:support@ceda.ac.uk) to subscribe. 
 
 **Attend events**
 
