@@ -1,3 +1,5 @@
+If you want to find out more about our progress updates, details about ways you can get involved and key findings from the project - sign up to our mailing list below. 
+
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
