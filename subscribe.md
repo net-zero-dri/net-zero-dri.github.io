@@ -1,4 +1,4 @@
-If you want to find out more about our progress updates, details about ways you can get involved and key findings from the project - sign up to our mailing list below. 
+If you want to find out more about our progress updates, details about ways you can get involved and key findings from the project - sign up to our mailing list below. You can also [see all past emails here](https://us13.campaign-archive.com/home/?u=1cfa57a9f54737c238fcdcbb2&id=35f8280918).
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
