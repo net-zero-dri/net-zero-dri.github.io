@@ -29,6 +29,8 @@ This 2 day event will be used to allocate the funding for involvement of the com
 
 Details to be added in due course. 
 
+
+
 --- 
 
 ## Past events
