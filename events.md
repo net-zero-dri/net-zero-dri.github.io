@@ -23,7 +23,7 @@ Joining instructions are sent via the mailing list [(subscribe here)](/subscribe
 This 2 day event will be used to allocate the funding for involvement of the community in proof-of-concept projects and workshops. [Further details here](/sandpit/). 
 
 
-### Workshops (led by members of the research community, various dates between April - September 2022)
+### Workshops (led by members of the research community, dates TBC)
 
 Details to be added in due course. 
 
