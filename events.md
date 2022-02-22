@@ -17,16 +17,19 @@ The project team will share the projects recent updates and take questions from 
 
 Joining instructions are sent via the mailing list [(subscribe here)](/subscribe). If you do not wish to join the mailing list, [contact us](/contact/) for joining instructions. 
 
+---
 
 ### Sandpit event (TBC, Spring 2022)
 
 This 2 day event will be used to allocate the funding for involvement of the community in proof-of-concept projects and workshops. [Further details here](/sandpit/). 
 
+---
 
 ### Workshops (led by members of the research community, dates TBC)
 
 Details to be added in due course. 
 
+--- 
 
 ## Past events
 
