@@ -17,4 +17,4 @@ Overview presentation ([slides here](https://doi.org/10.5281/zenodo.5846587))
 **February 2022**
 
 * [Frequently Asked Questions](/faq/) published.  
-* First email sent to mailing list (22/02/22). [View the email here.](https://mailchi.mp/84b1ce5ee057/welcome-get-involved-upcoming-events-6032818) 
+* First email sent to mailing list. You can [view all emails sent here.](https://us13.campaign-archive.com/home/?u=1cfa57a9f54737c238fcdcbb2&id=35f8280918) 
