@@ -9,13 +9,14 @@ permalink: /events/
 
 We will host regular project update webinars on the following dates:  
 
-* 1st March 13:30 pm (UK time)
 * 12th April 10:00 am (UK time) 
 * 26th May 11:00 am (UK time) 
 
 The project team will share the projects recent updates and take questions from the audience. 
 
 Joining instructions are sent via the mailing list [(subscribe here)](/subscribe). If you do not wish to join the mailing list, [contact us](/contact/) for joining instructions. 
+
+Past webinar recordings are [on the resources page](/resources/). 
 
 ---
 
