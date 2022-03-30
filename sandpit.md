@@ -8,6 +8,8 @@ permalink: /sandpit/
 
 As part of the Net Zero Digital Research Infrastructure Scoping project, we invite researchers and practitioners to come together in two ‘sandpit’ style events. These sandpit events will be used to allocate the funding for involvement of the community in [proof-of-concept studies](/proof-of-concept/) and [workshops](/workshops/).
 
+The full [announcement of opportunity and how to apply can be found here](https://doi.org/10.5281/zenodo.6394480).  
+
 **Purpose:**
 
 The aim of the sandpits is for participants to network and leverage their experience and expertise to design collaborative proof-of-concept studies and community engagement workshops. Evidence gathered from the studies and workshops will be used to inform recommendations and map a pathway for the implementation of the UKRI Net Zero strategic ambitions within the Digital Research Infrastructure.   
