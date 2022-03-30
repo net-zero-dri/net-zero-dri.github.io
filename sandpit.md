@@ -17,8 +17,9 @@ The sandpit events are for allocating funds to both the proof-of-concept studies
 **When?**
 
 There will be two sandpit events: 
-Sandpit A from 10am-1pm on the 9th and 11th of May
-Sandpit B from 10am-1pm on the 23rd and 25th May
+
+* Sandpit A from 10am-1pm on the 9th and 11th of May
+* Sandpit B from 10am-1pm on the 23rd and 25th May
 
 Sandpit A will focus on community and organisational challenges such as: user facing services, data management, behaviour change, training, proportionality of energy use, who are the winners/losers, and monitoring and driving change.  
 
