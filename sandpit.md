@@ -39,8 +39,8 @@ The sandpits are open to researchers who are qualified to hold UKRI research gra
 
 **Deadlines to apply:**  
 
-Sandpit Application – 4pm on 25th April 2022 
-Full Proposal - 4pm on 13th June 2022 
+* Sandpit Application – 4pm on 25th April 2022 
+* Full Proposal - 4pm on 13th June 2022 
 
 **Further details:** 
 
