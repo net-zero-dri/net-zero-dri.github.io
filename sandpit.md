@@ -35,7 +35,7 @@ Successful applicants will collaboratively develop ideas for proposals during th
 
 **Application process**
 
-The sandpits are open to researchers who are qualified to hold UKRI research grants and their associates and collaborators. The full announcement of opportunity and how to apply can be found in [this document](https://doi.org/10.5281/zenodo.6394480).  
+The sandpits are open to researchers who are qualified to hold UKRI research grants and their associates and collaborators. The [full announcement of opportunity and how to apply can be found here](https://doi.org/10.5281/zenodo.6394480).  
 
 **Deadlines to apply:**  
 
