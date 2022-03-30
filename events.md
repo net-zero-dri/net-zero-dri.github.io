@@ -20,9 +20,9 @@ Past webinar recordings are [on the resources page](/resources/).
 
 ---
 
-### Sandpit event (TBC, Spring 2022)
+### Sandpit events - two events held in May 2022
 
-This 2 day event will be used to allocate the funding for involvement of the community in proof-of-concept projects and workshops. [Further details here](/sandpit/). 
+Two sandpit events will be used to allocate the funding for involvement of the community in proof-of-concept projects and workshops. [Further details here](/sandpit/). 
 
 ---
 
