@@ -14,7 +14,7 @@ The full [announcement of opportunity and how to apply can be found here](https:
 
 The aim of the sandpits is for participants to network and leverage their experience and expertise to design collaborative proof-of-concept studies and community engagement workshops. Evidence gathered from the studies and workshops will be used to inform recommendations and map a pathway for the implementation of the UKRI Net Zero strategic ambitions within the Digital Research Infrastructure.   
 
-The sandpit events are for allocating funds to both the proof-of-concept studies and community engagement workshops. Funding of £500k (80% FEC) will be available for up to 5 proof-of-concept studies, and £210 (80% FEC) for up to 8 community engagement workshops. 
+The sandpit events are for allocating funds to both the proof-of-concept studies and community engagement workshops. Funding of £500k (80% FEC) will be available for up to 5 proof-of-concept studies, and £210k (80% FEC) for up to 8 community engagement workshops. 
 
 **When?**
 
