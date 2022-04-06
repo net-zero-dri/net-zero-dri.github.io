@@ -8,7 +8,7 @@ permalink: /sandpit/
 
 As part of the Net Zero Digital Research Infrastructure Scoping project, we invite researchers and practitioners to come together in two ‘sandpit’ style events. These sandpit events will be used to allocate the funding for involvement of the community in [proof-of-concept studies](/proof-of-concept/) and [workshops](/workshops/).
 
-The full [announcement of opportunity and how to apply can be found here](https://doi.org/10.5281/zenodo.6394480).  
+The full [announcement of opportunity and how to apply can be found here](https://zenodo.org/record/6394481/files/Net%20Zero%20Sandpit%20AO.pdf?download=1) and [online registration is here](https://www.eventbrite.co.uk/e/net-zero-dri-sandpit-events-invitation-to-submit-a-proposal-tickets-308713790257).
 
 **Purpose:**
 
