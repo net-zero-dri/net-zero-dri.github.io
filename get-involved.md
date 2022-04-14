@@ -25,6 +25,13 @@ The evidence collected will take various forms, including direct quantitative ev
 
 At present, you can contribute to the project by: 
 
+**Apply for funding - proof-of-concept studies and workshops**
+
+There is funding available in the project for the research community to undertake [proof-of-concept studies](/proof-of-concept/) or host [workshops](/workshops/). A sandpit event will be run in early 2022 to allocate funds. 
+
+[Further details about the sandpit announcement of opportunity here](/sandpit/). Deadline to register your interest is 4pm on 25th April 2022. 
+
+
 **Tell us about relevant literature**
 
 If you know of any literature (papers, websites, blogs, presentations, etc), that could be used as evidence in the project, please fill in [this form.](https://forms.gle/r9KsFEBM2jvRG8HSA)
@@ -42,18 +49,4 @@ Alternatively, you can email [support@ceda.ac.uk](mailto:support@ceda.ac.uk) to 
 
 **Attend events**
 
-The project team will host various workshops/webinars throughout the project. Workshops will also be hosted by members of the community. Details of these will be added to the [events webpage](https://net-zero-dri.ceda.ac.uk/events/) and sent to the mailing list. 
-
-**Apply for funding - proof-of-concept studies and workshops**
-
-There is funding available in the project for the research community to undertake proof-of-concept studies or host workshops. A sandpit event will be run in early 2022 to allocate funds. Further details will be circulated in due course. 
-
-[Further information about the workshops here](/workshops/). 
-
-[Further information about the proof-of-concept studies here](/proof-of-concept/). 
-
-**Apply for a summer placement with us**
-
-We’ve got two summer student placement opportunities to work with the UKRI Net Zero Digital Research Infrastructure Project. The 12 weeks summer placement student/s will join as a 'Net Zero Project Engagement Assistant'. Deadline to apply is 6th March. 
-
-[Further details and to apply here.](https://www.careersportal.co.uk/UKRI-careers/jobs/net-zero-project-engagement-assistant-summer-placement-1596)
+The project team will host various online events throughout the project. Workshops will also be hosted by members of the community. Details of these will be added to the [events webpage](https://net-zero-dri.ceda.ac.uk/events/) and sent to the mailing list. 
