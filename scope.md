@@ -6,7 +6,7 @@ permalink: /scope/
 
 The UKRI Net Zero Digital Research Infrastructure Scoping Project will: 
 
-* Collect evidence to inform UKRI Digital Research Infrastructure Investment decisions. 
+* Collect evidence to inform UKRI Digital Research Infrastructure investment decisions. 
 * Provide as recommendations for UKRI and their community with an outline roadmap for achieving carbon neutrality in their Digital Research Infrastructure by 2040 or sooner. 
 * Enable UKRI to play a positive and leading role in the national and global transition to a sustainable economy. 
 
