@@ -29,7 +29,7 @@ At present, you can contribute to the project by:
 
 There is funding available in the project for the research community to undertake [proof-of-concept studies](/proof-of-concept/) or host [workshops](/workshops/). A sandpit event will be run in early 2022 to allocate funds. 
 
-[Further details about the sandpit announcement of opportunity here](/sandpit/). Deadline to register your interest is 4pm on 25th April 2022. 
+[Further details about the sandpit announcement of opportunity here](/sandpit/). The **deadline to register your interest has been extended to 1pm on 28th April 2022**. 
 
 
 **Tell us about relevant literature**
