@@ -9,7 +9,8 @@ permalink: /events/
 
 We will host regular project update webinars on the following dates:  
 
-* TBC - 26th May 11:00 am (UK time)
+* May webinar postponed due to staff unavailability
+* Next webinar date TBC, likely in late June 
 
 The project team will share the projects recent updates and take questions from the audience. 
 
