@@ -20,7 +20,8 @@ Staff from the [Centre for Environmental Data Analysis (CEDA)](http://www.ceda.a
 Project Manager - Jen Bulpett <br>
 Science Officer - Charlotte Pascoe <br>
 Communications - Poppy Townsend <br>
-Technical lead - Ag Stephens <br></p>
+Technical lead - Ag Stephens <br>
+Summer students (3 months) - Lucy Woodward and Sophie Mosselmans <br></p>
 
 The team will lead an initial, 18-month UKRI-wide study to survey the digital carbon landscape, run a set of demonstrators and develop a roadmap to ensure that UKRI's data infrastructure can achieve net zero. Taking a systems-based approach, CEDA will work to develop adaptation strategies for the way data is conserved, analysed and managed. 
 
