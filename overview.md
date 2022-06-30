@@ -9,15 +9,15 @@ The net-zero-dri project has several focus areas to ensure it provides a clear r
 The project will: 
 
 * Collect evidence to inform UKRI Digital Research Infrastructure Investment decisions. 
-* Provide as recommendations for UKRI and their community with an outline roadmap for achieving carbon neutrality in their Digital Research Infrastructure by 2040 or sooner. 
+* Provide as recommendations for UKRI and their community with an outline roadmap for achieving carbon neutrality in their DRI by 2040 or sooner. 
 * Enable UKRI to play a positive and leading role in the national and global transition to a sustainable economy. 
 
 An overview of how the project will collect evidence is below. For further details about the [project scope](/scope/) see here. 
 
 ![abstract-banner-image](images/trees-banner-GettyImages-1173733640-2.png){:class="img-responsive"} 
 
-### Mapping the current carbon landcape
-UKRI doesn't currently have a clear understanding about the carbon footprint of its digital research infrastructure estate. This project will design a detailed database/model which will help map what the current carbon landscape looks like. This will include detailed information, likely to be in a database form, that can be used to support modelling applications. It will also provide interactive visualisations and aggregations of the data - which will help UKRI's future understanding of how it can meet its net zero targets. 
+### Mapping the current carbon landscape
+UKRI doesn't currently have a clear understanding about the carbon footprint of its digital research infrastructure estate - this project aims to change that. We will design a model that maps out the current carbon landscape with detailed information, likely to be in a database form, which can be used to support modelling applications. It will also provide interactive visualisations and aggregations of the data to further UKRI's future understanding of how to meet its net zero targets. 
 
 ### Developing case studies
 The design of the mapping database will be informed by detailed analysis of exemplar national and international infrastructures. Exemplars will be selected on the basis of (1) national or international standing as infrastructure supporting excellent science or analogous non-research services and (2) easy availability of detailed information on carbon footprint associated with a range of services.
@@ -45,4 +45,4 @@ The project will fund ~5 [proof-of-concept studies](/proof-of-concept/) to analy
 [Further information about the proof-of-concept studies here](/proof-of-concept/).
 
 ### Investigating funding and system level views 
-Existing processes, such as procurement, don't take into account carbon costs. The Net Zero Consortium will conduct a series of meetings, with invited experts as appropriate, to assess the current funding framework for UKRI digital research infrastructure and review the processes in place for the funding of digital research infrastructure procurement, operation, and use. 
+Existing processes, such as procurement, don't take into account carbon costs. The Net Zero Consortium will conduct a series of meetings, inviting experts as appropriate, to assess the current funding framework for UKRI digital research infrastructure and review the processes in place for the funding of DRI procurement, operation, and use. 
