@@ -7,3 +7,6 @@ The UKRI Net Zero DRI Scoping Project is collecting robust evidence and formulat
 
 To celebrate #netzeroweek2022, read more about the DRI Scoping Project and our partner organisations in our [Net Zero Week article](/article/).
 
+![abstract-banner-image](images/Quote from report tweet graphic (1).png){:class="img-responsive"} 
+
+Alt text: Image of a sunset over a wind farm with a quote from our Net Zero Interim Report: "The potential influence of UKRI science on national and global attitudes to sustainability is immense."
