@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Net Zero Week Article
-permalink: /news/article
+permalink: /news/project-partners/
 ---
 
 ## Partnering up to reach net zero computing
