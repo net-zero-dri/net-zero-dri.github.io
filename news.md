@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 ---
 
-To celebrate [#netzeroweek2022](https://twitter.com/cedanews) read more about the DRI Scoping Project and our partner organisations in our [Net Zero Week article](/news/project-partners/).
+To celebrate [#netzeroweek2022](https://twitter.com/cedanews), read more about the DRI Scoping Project and our partner organisations in our [Net Zero Week article](/news/project-partners/).
 
 ![abstract-banner-image](images/quote-tweet-graphic.png){:class="img-responsive"} 
 
