@@ -4,7 +4,7 @@ title: Introducing the Net Zero Project Partners
 permalink: /news/project-partners/
 ---
 
-# *Partnering up to reach net zero computing*
+# Partnering up to reach net zero computing
 
 [Digital research infrastructure (DRI)](https://www.ukri.org/what-we-offer/creating-world-class-research-and-innovation-infrastructure/digital-research-infrastructure/) ranges from supercomputers to data archives, from software to the people using and maintaining it. These infrastructures are essential for many scientific studies that are looking into the most pressing issues our society faces. Operating and using DRI has a carbon impact largely due to energy consumption and the embodied carbon from the manufacturing footprint of computer hardware. The carbon impact needs to be assessed across all of the UK Research and Innovation (UKRI) community if we are going to reach our net zero goals by 2040 (or sooner). This is a huge task that requires collaboration and partnerships to be formed across all UKRI sectors. The [UKRI Net Zero DRI Scoping Project](https://net-zero-dri.ceda.ac.uk/) is building a community of experts to help tackle the task - 18 institutions have recently been made project partners. 
 
