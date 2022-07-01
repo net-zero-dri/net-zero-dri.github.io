@@ -3,7 +3,7 @@ layout: post
 title: 'Partnering up to reach net zero computing'
 date: '2022-07-01 15:13:00'
 categories: general
-permalink: /blog/project-partners/
+permalink: /news/project-partners/
 ---
 _Celebrating [net zero week 2022](https://netzeroweek.com/) by announcing our project partners!_
 
