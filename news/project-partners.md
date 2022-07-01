@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introducing the Net Zero Project Partners
-permalink: /news/project-partners/
+permalink: /news/old-project-partners/
 ---
 
 # Partnering up to reach net zero computing
