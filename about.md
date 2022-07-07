@@ -23,11 +23,11 @@ Communications - Poppy Townsend <br>
 Technical lead - Ag Stephens <br>
 Summer students (3 months) - Lucy Woodward and Sophie Mosselmans <br></p>
 
-The team will lead an initial, 18-month UKRI-wide study to survey the digital carbon landscape, run a set of demonstrators and develop a roadmap to ensure that UKRI's data infrastructure can achieve net zero. Taking a systems-based approach, CEDA will work to develop adaptation strategies for the way data is conserved, analysed and managed. 
+The team will lead an initial, 19-month UKRI-wide study to survey the digital carbon landscape, run a set of demonstrators and develop a roadmap to ensure that UKRI's data infrastructure can achieve net zero. Taking a systems-based approach, CEDA will work to develop adaptation strategies for the way data is conserved, analysed and managed. 
 
 ## When will the project start/end?
 
-The project started in November 2021 and will run for 17 months. 
+The project started in November 2021 and will run for 19 months. 
 
 ## Who funded the project? 
 
