@@ -5,18 +5,18 @@ permalink: /events/
 ---
 ## Upcoming events
 
-### Progress webinars (occuring approximately monthly)
+### Progress webinars
 
-We will host regular project update webinars on the following dates:  
+We host project update webinars approximately monthly. You can watch the [webinars here](/resources/)
 
-* May webinar postponed due to staff unavailability
-* Next webinar date TBC, likely in late June 
+* January 2022 - Overview and aims of project
+* March 2022 - Progress update & how can you get involved with the project?
+* April 2022 - Interim findings based on literature survey, Consortium building & announcement of sandpit event opportunity
+
 
 The project team will share the projects recent updates and take questions from the audience. 
 
 Joining instructions are sent via the mailing list [(subscribe here)](/subscribe). If you do not wish to join the mailing list, [contact us](/contact/) for joining instructions. 
-
-Past webinar recordings are [on the resources page](/resources/). 
 
 ---
 
@@ -26,10 +26,9 @@ Two sandpit events will be used to allocate the funding for involvement of the c
 
 ---
 
-### Workshops (led by members of the research community, dates TBC)
+### Workshops (led by members of the research community)
 
 Details to be added in due course. 
-
 
 
 --- 
@@ -38,4 +37,5 @@ Details to be added in due course.
 
 ### Open meetings (17th December 2021 or 10th January 2022) 
 
-These meetings are open to anyone who wants to learn more about the project and what options are available for getting involved or being allocated funding. There are two dates to maximise options for attendance. [Further details here](/open-meetings/). 
+These meetings were open to anyone who wants to learn more about the project and what options are available for getting involved or being allocated funding. There are two dates to maximise options for attendance. [Further details here](/open-meetings/). 
+Refer back to this page or subscribe to our mailing list for future meeting updates.
