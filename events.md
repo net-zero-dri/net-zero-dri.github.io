@@ -4,7 +4,9 @@ title: Events
 permalink: /events/
 ---
 ## Upcoming events
-* Information on upcoming events to follow.
+Information on upcoming events to follow.
+* Computing Insight UK (CIUK) conference in Manchester, December 2022. 
+* Workshops - dates tbc but likely to be in Autumn 2022.
 
 ### Progress webinars
 
