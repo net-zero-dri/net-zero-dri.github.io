@@ -7,12 +7,12 @@ permalink: /resources/
 This page points towards further pages where you can learn more about the UKRI Net Zero Scoping Project. <br><br>
 *Information on...*<br>
 
-* Project scope [here](/scope/)
-* Proof-of-concept studies [here](/proof-of-concept/)
-* Sandpit event [here](/sandpit/)
-* Workshops [here](/workshops/)
-* FAQs page [here](/faq/)
-* Events information or to watch progress webinars [here](/events/) <br><br>
+* [Project scope](/scope/)
+* [Proof-of-concept studies](/proof-of-concept/)
+* [Sandpit events](/sandpit/)
+* [Workshops](/workshops/)
+* [FAQs page](/faq/)
+* [Events](/events/) information or to watch progress [webinars](/events/) <br><br>
 
 **January 2022**
 
