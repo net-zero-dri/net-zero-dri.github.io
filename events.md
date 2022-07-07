@@ -10,7 +10,7 @@ Information on upcoming events to follow.
 
 ### Progress webinars
 
-We host project update webinars approximately monthly. You can watch the [webinars here.](/resources/)
+We host project update webinars approximately monthly.
 
 ***January 2022*** <br>
 Overview and aims of project. ([Slides here](https://doi.org/10.5281/zenodo.5846587)) <br>
