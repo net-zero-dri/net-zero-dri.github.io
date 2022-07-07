@@ -12,19 +12,23 @@ Information on upcoming events to follow.
 
 We host project update webinars approximately monthly. You can watch the [webinars here](/resources/)
 
-* January 2022 - Overview and aims of project
-  Overview presentation ([slides here](https://doi.org/10.5281/zenodo.5846587)) 
+* January 2022 - Overview and aims of project. ([Slides here](https://doi.org/10.5281/zenodo.5846587)) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DjoFp8sH1QM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 * March 2022 - Progress update & how can you get involved with the project? ([Slides here](https://doi.org/10.5281/zenodo.6320839)) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dtYP4iRMm9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
 * April 2022 - Interim findings based on literature survey, Consortium building & announcement of sandpit event opportunity. ([Slides here](https://doi.org/10.5281/zenodo.6461181)) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NpUAvLFgYOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 The project team share the projects recent updates and take questions from the audience in the webinars.
+
 
 Joining instructions are sent via the mailing list [(subscribe here)](/subscribe). If you do not wish to join the mailing list, [contact us](/contact/) for joining instructions. 
 
