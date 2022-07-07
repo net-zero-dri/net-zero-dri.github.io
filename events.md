@@ -15,14 +15,14 @@ We host project update webinars approximately monthly. You can watch the [webina
 ***January 2022*** <br>
 Overview and aims of project. ([Slides here](https://doi.org/10.5281/zenodo.5846587)) <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DjoFp8sH1QM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DjoFp8sH1QM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>
 
 
 
 ***March 2022*** <br>
 Progress update & how can you get involved with the project? ([Slides here](https://doi.org/10.5281/zenodo.6320839)) <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dtYP4iRMm9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dtYP4iRMm9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>
 
 
 
@@ -30,7 +30,7 @@ Progress update & how can you get involved with the project? ([Slides here](http
 Interim findings based on literature survey, Consortium building & announcement of sandpit event opportunity. ([Slides here](https://doi.org/10.5281/zenodo.6461181)) <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NpUAvLFgYOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>
-The project team share the projects recent updates and take questions from the audience in the webinars.<br></p>
+The project team share the projects recent updates and take questions from the audience in the webinars.<br>
 
 
 Joining instructions are sent via the mailing list [(subscribe here)](/subscribe). If you do not wish to join the mailing list, [contact us](/contact/) for joining instructions. 
