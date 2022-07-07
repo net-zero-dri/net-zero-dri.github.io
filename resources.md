@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-This page points towards further pages where you can learn more about the UKRI Net Zero Scoping Project. <br><br>
+This page points towards further pages where you can learn more about the UKRI Net Zero DRI Scoping Project. <br><br>
 *Information on...*<br>
 
 * [Project scope](/scope/)
