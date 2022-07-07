@@ -45,6 +45,7 @@ Two sandpit events will be used to allocate the funding for involvement of the c
 
 ### Workshops (led by members of the research community)
 
+A series of workshops will be organised within the scoping project in order to broaden discussion and gather evidence from a wide range of sources. The hosting of workshops will be outsourced in order to engage a range of organisations in the process. A budget of £210k is reserved to fund this activity. <br>
 Details to be added in due course. Likely to be Autumn 2022.
 
 
