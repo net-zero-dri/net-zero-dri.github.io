@@ -4,7 +4,15 @@ title: Resources
 permalink: /resources/
 ---
 
-This page will collate all resources created by the project e.g. presentations, reports, recordings. 
+This page points towards further pages where you can learn more about the project. <br>
+*Information on...*<br>
+
+* Project scope [here](/scope/)
+* Proof-of-concept studies [here](/proof-of-concept/)
+* Sandpit event [here](/sandpit/)
+* Workshops [here](/workshops/)
+* FAQs page [here](/faq/)
+* Events information or to watch progress webinars [here](/events/)
 
 **January 2022**
 
