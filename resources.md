@@ -12,7 +12,7 @@ This page points towards further pages where you can learn more about the UKRI N
 * Sandpit event [here](/sandpit/)
 * Workshops [here](/workshops/)
 * FAQs page [here](/faq/)
-* Events information or to watch progress webinars [here](/events/)
+* Events information or to watch progress webinars [here](/events/) <br><br>
 
 **January 2022**
 
