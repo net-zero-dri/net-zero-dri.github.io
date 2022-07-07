@@ -57,7 +57,7 @@ Details to be added in due course. Likely to be Autumn 2022.
 These meetings were open to anyone who wants to learn more about the project and what options are available for getting involved or being allocated funding. There are two dates to maximise options for attendance. [Further details here](/open-meetings/). 
 Refer back to this page or subscribe to our mailing list for future meeting updates.
 
-### Mailing List (February 2022)
+### Mailing List Set Up (February 2022)
 
 [Frequently Asked Questions](/faq/) published.
 First email sent to mailing list. You can [view all emails sent here.](https://us13.campaign-archive.com/home/?u=1cfa57a9f54737c238fcdcbb2&id=35f8280918) 
