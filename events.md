@@ -48,7 +48,7 @@ Two sandpit events will be used to allocate the funding for involvement of the c
 Details to be added in due course. Likely to be Autumn 2022.
 
 
---- 
+--- <br>
 
 ## Past events
 
