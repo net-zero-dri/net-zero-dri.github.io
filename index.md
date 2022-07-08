@@ -1,4 +1,8 @@
-### The Net Zero Digital Research Infrastructure Scoping Project ###
+---
+layout: page
+title: The Net Zero Digital Research Infrastructure Scoping Project
+permalink: /index/
+---
 
 [UK Research and Innovation](https://www.ukri.org/) (UKRI) is committed to becoming **net zero by 2040**. Across our nine organisations, there are an extensive range of computers and peripherals - known as [digital research infrastructure (DRI)](https://www.ukri.org/our-work/creating-world-class-research-and-innovation-infrastructure/digital-research-infrastructure/). 
 
