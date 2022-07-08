@@ -8,11 +8,14 @@ The UKRI Net Zero Digital Research Infrastructure (DRI) Scoping project is a com
 
 *NOTE: it is important to realise that we are a UKRI funded project, but we **do not** speak on behalf of UKRI. The project will produce evidence and advice to feed into the UKRI decision making process. These answers are based on the project teams opinions/experience so far.* 
 
-## General questions about UKRI DRI  
+## UKRI DRI  
 
 **What is Digital Research Infrastructure?**
+DRI is everything from software to data storage, from networks to the developers. It's essential for our scientific research, but has a significant carbon footprint that we aim to scope out in this project.
 
 You can find a description on the [UKRI website](https://www.ukri.org/our-work/creating-world-class-research-and-innovation-infrastructure/digital-research-infrastructure/).
+
+![abstract-banner-image](images/DRI-tweet-graphic.png){:class="img-responsive"}
 
 **Where are the digital research infrastructures based?** 
 
@@ -22,7 +25,7 @@ The major UKRI owned machine rooms are run by the STFC Scientific Computing Depa
 
 Other research councils, particularly EPSRC and MRC fund infrastructure which is situated in machine rooms run by universities and other organisations (e.g. the Edinburgh Parallel Computing Centre (EPCC) hosts the ARCHER2 machine).  
 
-We are not talking about specific new machine rooms associated this project. We are talking about existing infrastructure, which is being knitted together into the UKRI Digital Research Infrastructure. It is conceivable that the roadmap to 2040 might involve some migration to new machine rooms, but also possible that the best approach is to exploit the existing buildings. 
+However, *we are not just talking about specific new machine rooms associated this project*. We are talking about existing infrastructure, which is being knitted together into the UKRI Digital Research Infrastructure. It is conceivable that the roadmap to 2040 might involve some migration to new machine rooms, but also possible that the best approach is to exploit the existing buildings. 
  
 **Is creation of data centres covered?**  
 
@@ -80,7 +83,7 @@ We have a mailing list - please [contact us](/contact/) if you wish to be added.
 
 There are further details about this on the [Get involved](/get-involved/) webpage.  
 
-## General questions about net zero / definitions and UKRI's ambition
+## Net zero & UKRI's ambition
 
 *NOTE: it is important to realise that we are a UKRI funded project, but we **do not** speak on behalf of UKRI. The project will produce evidence and advice to feed into the UKRI decision making process. These answers are based on the project teams opinions/experience so far.* 
 
