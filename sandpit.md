@@ -27,7 +27,7 @@ Successful applicants were invited to collaboratively develop ideas for proposal
 
 ## Outcomes
 
-We have currently funded six projects - 5 proof-of-concept studies and 1 workshop series. Detailed information can be found in our [**'Project Partners'** blog post.](/posts/project-partners/)
+We have currently funded six projects - 5 proof-of-concept studies and 1 workshop series. Detailed information can be found in our [**'Project Partners'** blog post.](/_posts/2022-07-01-project-partners/)
 
 ![Mindmap on top of image of tree canopy. Central text reads 'UKRI Funded Sandpit Projects'. The projects are 'Empowering Stakeholders Workshop series', 'Value and Net Zero Decision-Making', 'Learning from the Big Picture for DRI Transformation', 'Energy-aware heterogeneous computing at scale', 'HPC Job Efficiency & Energy Usage' and 'IRIS Carbon Audit Snapshot'.](/images/sandpit-projects-graphic.png)
 
