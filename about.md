@@ -13,7 +13,7 @@ The net-zero-dri scoping project will gather evidence to develop a clear roadmap
 
 You can find out more in the [overview](/overview/) and [project scope](/scope/) sections of this website. 
 
-![abstract-banner-image](images/quote-tweet-graphic.png "Image of a sunset over a wind farm with a quote from our Net Zero Interim Report: "The potential influence of UKRI science on national and global attitudes to sustainability is immense."")
+!["Image of a sunset over a wind farm with a quote from our Net Zero Interim Report: "The potential influence of UKRI science on national and global attitudes to sustainability is immense."](/images/quote-tweet-graphic.png)
 
 ## Who is working on the project?
 
@@ -30,7 +30,7 @@ The team will lead an initial, 19-month UKRI-wide study to survey the digital ca
 ## When will the project start/end?
 
 The project started in November 2021 and will run for 19 months. <br>
-![abstract-banner-image](images/figure2.png){:class="img-responsive"} 
+![DRI figure](images/figure2.png){:class="img-responsive"} 
 
 ## Who funded the project? 
 
