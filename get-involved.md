@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Get involved 👋
+title: Get involved
 permalink: /get-involved/
 ---
 
@@ -17,7 +17,7 @@ This evidence will therefore need to come from experts across a broad range of a
 * environmental science
 * arts and humanities 
 
-If you would like to get involved, but are not sure how/if your expertise fits in, **please get in [touch!](mailto:support@ceda.ac.uk)**
+If you would like to get involved, but are not sure how/if your expertise fits in, **please get in [touch!](mailto:support@ceda.ac.uk)**👋
 
 ## How to get involved? 
 *At present, you can contribute to the project by:*
