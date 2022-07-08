@@ -10,6 +10,14 @@ The aim of the sandpit events was for participants to network and leverage their
 
 Funding of £500k (80% FEC) was available for up to 5 proof-of-concept studies, and £210k (80% FEC) for up to 8 community engagement workshops. 
 
+
+## Outcomes
+
+We have currently funded six projects - 5 proof-of-concept studies and 1 workshop series. Detailed information can be found in our [**'Project Partners'** blog post.](/_posts/2022-07-01-project-partners/)
+
+![Mindmap on top of image of tree canopy. Central text reads 'UKRI Funded Sandpit Projects'. The projects are 'Empowering Stakeholders Workshop series', 'Value and Net Zero Decision-Making', 'Learning from the Big Picture for DRI Transformation', 'Energy-aware heterogeneous computing at scale', 'HPC Job Efficiency & Energy Usage' and 'IRIS Carbon Audit Snapshot'.](/images/sandpit-projects-graphic.png)
+
+
 ## Details
 
 There were two sandpit events: 
@@ -24,13 +32,6 @@ Sandpit B focused on **technical and operational challenges** such as: hardware 
 The sandpits will be online activities, taking place on Zoom.
 
 Successful applicants were invited to collaboratively develop ideas for proposals during the sandpit and to submit outline proposals for the consideration of a panel of experts.
-
-## Outcomes
-
-We have currently funded six projects - 5 proof-of-concept studies and 1 workshop series. Detailed information can be found in our [**'Project Partners'** blog post.](/_posts/2022-07-01-project-partners/)
-
-![Mindmap on top of image of tree canopy. Central text reads 'UKRI Funded Sandpit Projects'. The projects are 'Empowering Stakeholders Workshop series', 'Value and Net Zero Decision-Making', 'Learning from the Big Picture for DRI Transformation', 'Energy-aware heterogeneous computing at scale', 'HPC Job Efficiency & Energy Usage' and 'IRIS Carbon Audit Snapshot'.](/images/sandpit-projects-graphic.png)
-
 
 **Further details:** 
 
