@@ -20,7 +20,7 @@ This evidence will therefore need to come from experts across a broad range of a
 If you would like to get involved, but are not sure how/if your expertise fits in, **please get in [touch!](mailto:support@ceda.ac.uk)**
 
 ## How to get involved? 
-At present, you can contribute to the project by: 
+*At present, you can contribute to the project by:*
 
 #### Telling us about relevant literature ####
 
