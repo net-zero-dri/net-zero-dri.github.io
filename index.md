@@ -7,4 +7,4 @@ The [scope of the project](/scope/) will cover all the **UKRI-owned and majority
 It will produce a clear **roadmap** for how UKRI can take action to reduce the carbon emissions from data generation, analysis, storage and dissemination from DRI. Led by the project team at the [Centre for Environmental Data Analysis](https://www.ceda.ac.uk), the project will study how the entire UKRI DRI estate can deliver **carbon neutral computing by 2040 or earlier.**
 
 
-!["Image of a sunset over a wind farm with a quote from our Net Zero Interim Report: "The potential influence of UKRI science on national and global attitudes to sustainability is immense."](/images/quote-tweet-graphic.png)
+![Image of a sunset over a wind farm with a quote from our Net Zero Interim Report: "The potential influence of UKRI science on national and global attitudes to sustainability is immense."](/images/quote-tweet-graphic.png)
