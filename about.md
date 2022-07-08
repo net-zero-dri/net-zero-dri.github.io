@@ -13,6 +13,8 @@ The net-zero-dri scoping project will gather evidence to develop a clear roadmap
 
 You can find out more in the [overview](/overview/) and [project scope](/scope/) sections of this website. 
 
+![abstract-banner-image](images/quote-tweet-graphic.png "Image of a sunset over a wind farm with a quote from our Net Zero Interim Report: "The potential influence of UKRI science on national and global attitudes to sustainability is immense."")
+
 ## Who is working on the project?
 
 Staff from the [Centre for Environmental Data Analysis (CEDA)](http://www.ceda.ac.uk/). The core project team includes:
