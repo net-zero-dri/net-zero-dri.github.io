@@ -42,3 +42,10 @@ Progress webinar ([slides here](https://doi.org/10.5281/zenodo.6461181))
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NpUAvLFgYOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+**July 2022**
+
+Overview of the Project Scope, Ambitions and Progress to celebrate Net Zero Week in the UKRI Wednesday Webinar
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ZL704l_p-Mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
