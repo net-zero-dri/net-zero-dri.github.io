@@ -4,7 +4,7 @@ title: Proof-of-concept studies
 permalink: /proof-of-concept/
 ---
 
-***The below text was used as information to prompt ideas ahead of our sandpit events.***
+***The below text was used as information to prompt ideas ahead of our [sandpit events in May 2022.](/sandpit/)***
 
 The UKRI Net Zero DRI Scoping project will fund a selection of proof-of-concept studies to provide evidence to support design of the UKRI Net Zero DRI Roadmap by:
 * analysing the implementation of carbon and energy efficiency measures in existing data centres, and 
