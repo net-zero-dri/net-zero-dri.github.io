@@ -4,6 +4,8 @@ title: Workshops
 permalink: /workshops/
 ---
 
+**The below text was used as information to prompt ideas ahead of our sandpit events.**
+
 ## Aims
 
 A series of workshops will be organised within the scoping project in order to...
