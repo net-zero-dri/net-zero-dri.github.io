@@ -4,7 +4,7 @@ title: Workshops
 permalink: /workshops/
 ---
 
-***The below text was used as information to prompt ideas ahead of our sandpit events.***
+***The below text was used as information to prompt ideas ahead of our [sandpit events in May 2022.](/sandpit/)***
 
 ## Aims
 
