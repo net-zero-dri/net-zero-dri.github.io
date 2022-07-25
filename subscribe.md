@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: forward
+target: /subscribe-form.html
 title: subscribe
 permalink: /subscribe/
 ---
