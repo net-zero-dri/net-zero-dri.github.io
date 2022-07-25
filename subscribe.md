@@ -1,8 +1,7 @@
 ---
 layout: forward
 target: /subscribe-form.html
-title: subscribe
+title: Subscribe
 permalink: /subscribe/
 ---
 
-We are forwarding you to the [subscription form](/subscribe-form.html).
