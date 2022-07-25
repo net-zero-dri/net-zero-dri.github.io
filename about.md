@@ -18,7 +18,8 @@ You can find out more in the [overview](/overview/) and [project scope](/scope/)
 
 Staff from the [Centre for Environmental Data Analysis (CEDA)](http://www.ceda.ac.uk/). The core project team includes:
 <p>Project Lead - Martin Juckes <br>
-Project Manager - Jen Bulpett <br>
+Senior Project Manager - Jen Bulpett <br>
+Project Manager - Katie Cartmell <br>
 Science Officer - Charlotte Pascoe <br>
 Communications - Poppy Townsend <br>
 Technical lead - Ag Stephens <br>
