@@ -1,5 +1,5 @@
 ---
 layout: forward
-target: /subscribe.html
+target: /subscribe-form.html
 ---
-We are forwarding you to the [subscription form](/subscribe.html).
+We are forwarding you to the [subscription form](/subscribe-form.html).
