@@ -42,7 +42,7 @@ Technical lead - Ag Stephens <br>
 <img align = 'left' src="/images/agphoto.png" width="100" height="100">
  As well as being technical lead on this project, Ag oversees the data pipeline that delivers Petabytes of climate simulations through the Model Intercomparison Projects (such as CMIP5/6) and looks after the UK Climate Projections User Interface which is managed by CEDA and runs on the JASMIN platform. Ag has a keen interest in developing better tools for improving data curation, management and delivery. He also oversees the CEDA training programme.
  
-Summer students (3 months) - Lucy Woodward (left) and Sophie Mosselmans (right) <br></p>
+Summer students - Lucy Woodward (left) and Sophie Mosselmans (right) <br></p>
 <img align = 'left' src="/images/lucyphoto.png" width="100" height="100">
 <img align = 'right' src="/images/sophiephoto.png" width="100" height="100">
 Lucy is a 4th year MSci Physics student at the University of Nottingham with a strong interest in careers in science communication and climate solutions. Sophie is studing her MSci in Physics at Imperial College London and has previously done strategic communications work with the Global Returns Project. They are both supporting Poppy Townsend and the wider team from June to September, before returning to university for their final years.
