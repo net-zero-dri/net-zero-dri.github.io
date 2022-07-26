@@ -20,7 +20,7 @@ Staff from the [Centre for Environmental Data Analysis (CEDA)](http://www.ceda.a
 <p>Project Lead - Martin Juckes <br>
 Senior Project Manager - Jen Bulpett <br>
  
- ![DRP figure](/images/katiephoto.png | width=100)
+ ![DRP figure](/images/katiephoto.png)
  
 Project Manager - Katie Cartmell <br>
 Science Officer - Charlotte Pascoe <br>
