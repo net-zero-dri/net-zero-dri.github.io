@@ -19,6 +19,7 @@ You can find out more in the [overview](/overview/) and [project scope](/scope/)
 Staff from the [Centre for Environmental Data Analysis (CEDA)](http://www.ceda.ac.uk/). The core project team includes:
 <p>Project Lead - Martin Juckes <br>
 <img align = 'left' src="/images/martinphoto.png" width="100" height="100">
+Dr Martin Jukes is the Head of Atmospheric Science and Research and deputy head of CEDA. 
  
 Senior Project Manager - Jen Bulpett <br>
 <img align = 'left' src="/images/jenphoto.png" width="100" height="100">
@@ -30,6 +31,7 @@ Katie joined CEDA in March 2022 as a Project Manager. She previously worked at R
  
 Science Officer - Charlotte Pascoe <br>
 <img align = 'left' src="/images/charlottephoto.png" width="100" height="100">
+Charlotte has extensive experience of the development and application of data models for climate science. Her work has supported model documentation for both the CMIP5 and CMIP6 climate model intercomparison projects. She is an associate member of the IPCC-Data Task Group and works on the IPCC Data Distribution Centre where the focus of her work is making climate data available to the wider climate science community.
  
  
 Communications - Poppy Townsend <br>
@@ -43,7 +45,6 @@ Technical lead - Ag Stephens <br>
 Summer students (3 months) - Lucy Woodward and Sophie Mosselmans <br></p>
 <img align = 'left' src="/images/lucyphoto.png" width="100" height="100">
 <img align = 'left' src="/images/sophiephoto.png" width="100" height="100">
-Lucy and Sophie are both going into their fourth year of an MSci in Physics. 
 
 The team will lead an initial, 19-month UKRI-wide study to survey the digital carbon landscape, run a set of demonstrators and develop a roadmap to ensure that UKRI's data infrastructure can achieve net zero. Taking a systems-based approach, CEDA will work to develop adaptation strategies for the way data is conserved, analysed and managed. 
 
