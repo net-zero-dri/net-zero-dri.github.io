@@ -19,7 +19,7 @@ You can find out more in the [overview](/overview/) and [project scope](/scope/)
 Staff from the [Centre for Environmental Data Analysis (CEDA)](http://www.ceda.ac.uk/). The core project team includes:
 <p>Project Lead - Martin Juckes <br>
 <img align = 'left' src="/images/martinphoto.png" width="100" height="100">
-Dr Martin Jukes is the Head of Atmospheric Science and Research and deputy head of CEDA. 
+Dr Martin Jukes is the Head of Atmospheric Science and Research and deputy head of CEDA. Dr Martin Jukes is the Head of Atmospheric Science and Research and deputy head of CEDA.
  
 Senior Project Manager - Jen Bulpett <br>
 <img align = 'left' src="/images/jenphoto.png" width="100" height="100">
@@ -27,7 +27,7 @@ Jennifer joined CEDA in 2019 and works as a project manager across a number of d
  
 Project Manager - Katie Cartmell <br>
 <img align = 'left' src="/images/katiephoto.png" width="100" height="100">
-Katie joined CEDA in March 2022 as a Project Manager. She previously worked at RAL Space as a Project Support Officer. 
+Katie joined CEDA in March 2022 as a Project Manager. She previously worked at RAL Space as a Project Support Officer. Katie joined CEDA in March 2022 as a Project Manager. She previously worked at RAL Space as a Project Support Officer. 
  
 Science Officer - Charlotte Pascoe <br>
 <img align = 'left' src="/images/charlottephoto.png" width="100" height="100">
@@ -45,6 +45,7 @@ Technical lead - Ag Stephens <br>
 Summer students (3 months) - Lucy Woodward and Sophie Mosselmans <br></p>
 <img align = 'left' src="/images/lucyphoto.png" width="100" height="100">
 <img align = 'left' src="/images/sophiephoto.png" width="100" height="100">
+Lucy is a 4th year MSci Physics student at the University of Nottingham with a strong interest in careers in science communication and climate solutions. Sophie is studing her MSci in Physics at Imperial College London and has previously done strategic communications work with the Global Returns Project. 
 
 The team will lead an initial, 19-month UKRI-wide study to survey the digital carbon landscape, run a set of demonstrators and develop a roadmap to ensure that UKRI's data infrastructure can achieve net zero. Taking a systems-based approach, CEDA will work to develop adaptation strategies for the way data is conserved, analysed and managed. 
 
