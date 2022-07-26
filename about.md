@@ -23,7 +23,7 @@ Senior Project Manager - Jen Bulpett <br>
 
  
 Project Manager - Katie Cartmell <br>
-![photo of katie]<img align = 'left' src="/images/katiephoto.png" width="100" height="100">
+<img align = 'left' src="/images/katiephoto.png" width="100" height="100">
 Science Officer - Charlotte Pascoe <br>
 Communications - Poppy Townsend <br>
 Technical lead - Ag Stephens <br>
