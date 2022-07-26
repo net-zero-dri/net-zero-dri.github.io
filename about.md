@@ -17,7 +17,7 @@ You can find out more in the [overview](/overview/) and [project scope](/scope/)
 ## Who is working on the project?
 
 Staff from the [Centre for Environmental Data Analysis (CEDA)](http://www.ceda.ac.uk/). The core project team includes:
-<p>
+
 **Project Lead - Martin Juckes** <br>
 <img align = 'left' src="/images/martinphoto.png" width="100" height="100">
 Dr Martin Jukes is the Head of Atmospheric Science and Research and deputy head of CEDA. Dr Martin Jukes is the Head of Atmospheric Science and Research and deputy head of CEDA.
