@@ -60,6 +60,7 @@ As well as being technical lead on this project, Ag oversees the data pipeline t
 Lucy is a 4th year MSci Physics student at the University of Nottingham with a strong interest in careers in science communication and climate solutions. Sophie is studing her MSci in Physics at Imperial College London and has previously done strategic communications work with the Global Returns Project. 
 <br>
 
+
 ## When will the project start/end?
 
 The project started in November 2021 and will run for 19 months. <br>
