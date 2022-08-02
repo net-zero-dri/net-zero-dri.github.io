@@ -16,11 +16,15 @@ You can find out more in the [overview](/overview/) and [project scope](/scope/)
 
 ## Who is working on the project?
 
-Staff from the [Centre for Environmental Data Analysis (CEDA)](http://www.ceda.ac.uk/). The core project team includes:
+Staff from the [Centre for Environmental Data Analysis (CEDA)](http://www.ceda.ac.uk/). 
+
+The team will lead an initial, 19-month UKRI-wide study to survey the digital carbon landscape, run a set of demonstrators and develop a roadmap to ensure that UKRI's data infrastructure can achieve net zero. Taking a systems-based approach, CEDA will work to develop adaptation strategies for the way data is conserved, analysed and managed. 
+
+The core project team includes:
 
 **Project Lead - Martin Juckes** <br>
 <img align = 'left' src="/images/martinphoto.png" width="100" height="100">
-Dr Martin Jukes is the Head of Atmospheric Science and Research and deputy head of CEDA. He is the project lead for the Net Zero Digital Infrastructure Project. 
+Dr Martin Jukes is the Head of Atmospheric Science and Research and deputy head of CEDA. He is the project lead for the Net Zero Digital Researh Infrastructure Scoping Project. Martin has vast experience in the climate and atmospheric communities - including working with the Intergovernmental Panel on Climate Change. 
 <br>
 
  
@@ -31,7 +35,7 @@ Jennifer joined CEDA in 2019 and works as a project manager across a number of d
  
 **Project Manager - Katie Cartmell** <br>
 <img align = 'left' src="/images/katiephoto.png" width="100" height="100">
-Katie joined CEDA in March 2022 as a Project Manager. She previously worked at RAL Space as a Project Support Officer. She is currently working as both the Project Manager for this Net Zero Project and a Horizon Project.  Her reponsibilites include managing and coordinating the Project Schedule, Risks & Issues, Milestones, Finances, Contracts and Stakeholder management.
+Katie joined CEDA in March 2022 as a Project Manager. She previously worked at RAL Space as a Project Support Officer. She is currently working as both the Project Manager for this Net Zero Project and a Horizon Project.  Her reponsibilites include managing and coordinating the Project Schedule, Risks & Issues, Milestones, Finances, Contracts and Stakeholder Management.
 <br>
  
 **Science Officer - Charlotte Pascoe** <br>
@@ -42,12 +46,12 @@ Charlotte has extensive experience of the development and application of data mo
  
 **Communications - Poppy Townsend** <br>
 <img align = 'left' src="/images/poppyphoto.png" width="100" height="100">
-Poppy’s role as Communications Manager is to promote the work of the Net Zero Scoping Project. Poppy's previous role at CEDA was as a Data Scientist, responsible for providing data management support to researchers, predominantly for projects funded by the Natural Environment Research Council. Poppy holds a MSc in Science Communication from UWE Bristol and a BSc in Ocean Science from Plymouth University.
+Poppy’s role as Communications Manager is to promote the work of the Net Zero DRI Scoping Project. Poppy's previous role at CEDA was as a Data Scientist, responsible for providing data management support to researchers, predominantly for projects funded by the Natural Environment Research Council. Poppy holds a MSc in Science Communication from UWE Bristol and a BSc in Ocean Science from Plymouth University.
 <br>
  
 **Technical lead - Ag Stephens** <br>
 <img align = 'left' src="/images/agphoto.png" width="100" height="100">
- As well as being technical lead on this project, Ag oversees the data pipeline that delivers Petabytes of climate simulations through the Model Intercomparison Projects (such as CMIP5/6) and looks after the UK Climate Projections User Interface which is managed by CEDA and runs on the JASMIN platform. Ag has a keen interest in developing better tools for improving data curation, management and delivery. He also oversees the CEDA training programme.
+As well as being technical lead on this project, Ag oversees the data pipeline that delivers Petabytes of climate simulations through the Model Intercomparison Projects (such as CMIP5/6) and looks after the UK Climate Projections User Interface which is managed by CEDA and runs on the JASMIN platform. Ag has a keen interest in developing better tools for improving data curation, management and delivery. He also oversees the CEDA training programme.
 <br>
  
 **Summer students - Lucy Woodward** (left) and **Sophie Mosselmans** (right) <br>
@@ -55,8 +59,6 @@ Poppy’s role as Communications Manager is to promote the work of the Net Zero 
 <img align = 'right' src="/images/sophiephoto.png" width="100" height="100">
 Lucy is a 4th year MSci Physics student at the University of Nottingham with a strong interest in careers in science communication and climate solutions. Sophie is studing her MSci in Physics at Imperial College London and has previously done strategic communications work with the Global Returns Project. 
 <br>
-
-The team will lead an initial, 19-month UKRI-wide study to survey the digital carbon landscape, run a set of demonstrators and develop a roadmap to ensure that UKRI's data infrastructure can achieve net zero. Taking a systems-based approach, CEDA will work to develop adaptation strategies for the way data is conserved, analysed and managed. 
 
 ## When will the project start/end?
 
