@@ -24,7 +24,7 @@ The core project team includes:
 
 **Project Lead - Martin Juckes** <br>
 <img align = 'left' src="/images/martinphoto.png" width="100" height="100">
-Dr Martin Jukes is the Head of Atmospheric Science and Research and deputy head of CEDA. He is the project lead for the Net Zero Digital Researh Infrastructure Scoping Project. Martin has vast experience in the climate and atmospheric communities - including working with the Intergovernmental Panel on Climate Change. 
+Dr Martin Juckes is the Head of Atmospheric Science and Research and deputy head of CEDA. He is the project lead for the Net Zero Digital Researh Infrastructure Scoping Project. Martin has vast experience in the climate and atmospheric communities - including working with the Intergovernmental Panel on Climate Change. 
 <br>
 
  
