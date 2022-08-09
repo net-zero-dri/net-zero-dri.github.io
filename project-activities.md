@@ -11,3 +11,13 @@ We've partnered with 19 institutions to carry out proof-of-concept studies and w
 
 
 Learn more about each partner project via these pages...
+
+**Sandpit Projects**
+
+[ARINZRIT: Learning from the Big Picture: Applying Responsible Innovation to the Net Zero Research Infrastructure transformation](/arinzrit/) <br>
+[ENERGETIC: ENergy-aware hEteRoGenEous compuTIng at sCale](/energetic/) <br>
+[GO ZERO: Giving Voice to, and Empowering Stakeholders of UKRI DRI: A Net Zero Workshop Series](/go-zero/) <br>
+[HPC JEEP: HPC job efficiency and energy usage: monitoring and reporting](/hpc-jeep/)
+[IRISCAST: IRIS-Carbon-Audit-SnapshoT](/iriscast/) <br>
+[VALUE: ‘Value’ and Net Zero Decision-Making](/value/) <br>
+[CQuanDRI: Quantifying the Carbon Emissions of Digital Research Infrastructure](/cquandri/)
