@@ -4,4 +4,4 @@ title: ARINZRIT
 permalink: project-activities/arinzrit/
 ---
 
-![project-activities](images/1.png){:class="img-responsive"} 
+![arinzrit](/images/1.png){:class="img-responsive"} 
