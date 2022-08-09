@@ -1,0 +1,153 @@
+/* General styles */
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+  font-size: 100%;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 70%;
+  height: 65%;
+}
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  width: 33.33%;
+  height: 100%;
+  padding: 1rem 2.5rem;
+}
+
+.sedans {
+  background-color: hsl(31, 77%, 52%);
+  border-radius: 8px 0 0 8px;
+}
+.sedans .btn:hover a {
+  color: hsl(31, 77%, 52%);
+}
+
+.suvs {
+  background-color: hsl(184, 100%, 22%);
+}
+.suvs .btn:hover a {
+  color: hsl(184, 100%, 22%);
+}
+
+.luxury {
+  background-color: hsl(179, 100%, 13%);
+  border-radius: 0 8px 8px 0;
+}
+.luxury .btn:hover a {
+  color: hsl(179, 100%, 13%);
+}
+
+h2 {
+  font-family: "Big Shoulders Display", cursive;
+  font-size: 2rem;
+  font-weight: 700;
+  color: hsl(0, 0%, 95%);
+}
+.main-content {
+  height: 50%;
+}
+section p {
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 15px;
+  color: hsla(0, 0%, 100%, 0.75);
+  line-height: 1.5rem;
+}
+.btn {
+  width: 55%;
+  border: 2px solid hsl(0, 0%, 95%);
+  text-align: center;
+  padding: 0.5rem 0;
+  border-radius: 25px;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+.btn a {
+  font-weight: 400;
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 0.75rem;
+  text-decoration: none;
+  color: hsl(0, 0%, 95%);
+  transition: all 0.5s;
+}
+.btn:hover {
+  background-color: hsl(0, 0%, 95%);
+}
+
+.attribution {
+  position: relative;
+  top: 45px;
+  font-weight: 400;
+  font-family: "Lexend Deca", sans-serif;
+}
+.attribution a {
+  font-weight: 700;
+  text-decoration: none;
+  color: hsl(184, 100%, 22%);
+}
+.attribution a:hover {
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 768px) {
+  .wrapper {
+    height: 80rem;
+  }
+  .container {
+    flex-basis: 90%;
+    height: 80%;
+    flex-direction: column;
+  }
+  section {
+    width: 100%;
+    height: 100%;
+  }
+
+  .sedans {
+    border-radius: 8px 8px 0 0;
+  }
+  .luxury {
+    border-radius: 0 0 8px 8px;
+  }
+  .main-content {
+    height: auto;
+  }
+  .title {
+    margin: 0.5rem 0;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .main-content p {
+    font-size: 12px;
+  }
+  .btn {
+    width: 80%;
+  }
+}
