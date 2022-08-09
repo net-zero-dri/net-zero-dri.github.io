@@ -9,3 +9,5 @@ We've partnered with 19 institutions to carry out proof-of-concept studies and w
 
 ![project-activities](images/project-activities-canva.svg){:class="img-responsive"} 
 
+
+Learn more about each partner project via these pages...
