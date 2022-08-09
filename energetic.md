@@ -4,4 +4,4 @@ title: ENERGETIC
 permalink: project-activities/energetic/
 ---
 
-![arinzrit](/images/2.png){:class="img-responsive"
+![energetic](/images/2.png){:class="img-responsive"}
