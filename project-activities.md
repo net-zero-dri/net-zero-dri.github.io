@@ -13,14 +13,21 @@ We've partnered with 19 institutions to carry out proof-of-concept studies and w
 **Sandpit Projects** <br>
 Learn more about each partner projects by clicking the logos...
 
-[<img align = 'left' img src="/images/logos.png" width="250" height="250" alt="ARINZRIT">](/arinzrit/)
-[<img align = 'center' img src="/images/logo2.png" width="250" height="250" alt="ENERGETIC">](/energetic/)
-[<img align = 'right' img src="/images/logo3.png" width="250" height="250" alt="GO ZERO">](/go-zero/) <br>
+[<img align = 'left' img src="/images/logos.png" width="200" height="200" alt="ARINZRIT">](/arinzrit/)
+[<img align = 'center' img src="/images/logo2.png" width="200" height="200" alt="ENERGETIC">](/energetic/)
+[<img align = 'right' img src="/images/logo3.png" width="200" height="200" alt="GO ZERO">](/go-zero/) <br>
 
-[<img align = 'left' img src="/images/logo4.png" width="250" height="250" alt="HPC JEEP">](/hpc-jeep/)
-[<img align = 'center' img src="/images/logo5.png" width="250" height="250" alt="IRISCAST">](/iriscast/)
-[<img align = 'right' img src="/images/logo6.png" width="250" height="250" alt="VALUE">](/value/) <br>
+[<img align = 'left' img src="/images/logo4.png" width="200" height="200" alt="HPC JEEP">](/hpc-jeep/)
+[<img align = 'center' img src="/images/logo5.png" width="200" height="200" alt="IRISCAST">](/iriscast/)
+[<img align = 'right' img src="/images/logo6.png" width="200" height="200" alt="VALUE">](/value/) <br>
 
-[<img align = 'left' img src="/images/logo7.png" width="250" height="250" alt="CQUANDRI">](/cquandri/) <br>
+[<img align = 'left' img src="/images/logo7.png" width="200" height="200" alt="CQUANDRI">](/cquandri/) <br>
 
-**Consortium Projects**<br>
+**Consortium Projects** <br>
+  
+In-depth case studies: JASMIN, JADE, Scafell Pike
+In depth case study: ARCHER2
+Mapping the DRI
+Providing advice and expertise on roadmap development  
+Providing expertise on sustainable computing 
+Implicit Associations and User Behaviour Survey 
