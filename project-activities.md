@@ -10,9 +10,8 @@ We've partnered with 19 institutions to carry out proof-of-concept studies and w
 ![project-activities](images/project-activities-canva.svg){:class="img-responsive"} 
 
 
-Learn more about each partner project via these pages...
-
 **Sandpit Projects** <br>
+Learn more about each partner projects by clicking the logos...
 
 [<img align = 'left' img src="/images/logos.png" width="300" height="300" alt="ARINZRIT">](/arinzrit/)
 [<img align = 'centre' img src="/images/logo2.png" width="300" height="300" alt="ENERGETIC">](/energetic/)
@@ -21,6 +20,9 @@ Learn more about each partner project via these pages...
 [<img align = 'left' img src="/images/logo4.png" width="300" height="300" alt="HPC JEEP">](/hpc-jeep/)
 [<img align = 'centre' img src="/images/logo5.png" width="300" height="300" alt="IRISCAST">](/iriscast/)
 [<img align = 'right' img src="/images/logo6.png" width="300" height="300" alt="VALUE">](/value/) <br>
+
+[<img align = 'left' img src="/images/logo7.png" width="300" height="300" alt="CQUANDRI">](/cquandri/)
+
 
 
 [ARINZRIT: Learning from the Big Picture: Applying Responsible Innovation to the Net Zero Research Infrastructure transformation](/arinzrit/) <br>
