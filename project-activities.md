@@ -24,7 +24,7 @@ Learn more about each partner projects by clicking the logos...
 [<img align = 'left' img src="/images/logo7.png" width="200" height="200" alt="CQUANDRI">](/cquandri/) <br> 
 </p>
 
-
+&nbsp;<br>
 
 **Consortium Projects** <br>
   
