@@ -14,9 +14,9 @@ We've partnered with 19 institutions to carry out proof-of-concept studies and w
 Learn more about each partner projects by clicking the logos...
 
 <p float="left">
-  [<img src="/images/logos.png" width="200" height="200" alt="ARINZRIT">](/arinzrit/)
-  [<img src="/images/logo2.png" width="200" height="200" alt="ENERGETIC">](/energetic/)
-  [<img src="/images/logo3.png" width="200" height="200" alt="GO ZERO">](/go-zero/) 
+  [[<img src="/images/logos.png" width="200" height="200" alt="ARINZRIT">](/arinzrit/)]
+  [<img img src="/images/logo2.png" width="200" height="200" alt="ENERGETIC">](/energetic/)
+  [<img src="/images/logo3.png" width="200" height="200" alt="GO ZERO">](/go-zero/)
 </p>
 
 
