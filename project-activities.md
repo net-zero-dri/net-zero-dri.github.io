@@ -12,7 +12,7 @@ We've partnered with 19 institutions to carry out proof-of-concept studies and w
 
 **Sandpit Projects** <br>
 Learn more about each partner projects by clicking the logos...
-
+&nbsp;<br>
 <p float="right">
  
 [<img src="/images/logos.png" width="200" height="200" alt="ARINZRIT">](/arinzrit/)
