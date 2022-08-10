@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project Activities
+title: Jasmin Case Study
 permalink: /jasmin/
 ---
 
