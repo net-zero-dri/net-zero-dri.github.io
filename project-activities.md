@@ -12,7 +12,16 @@ We've partnered with 19 institutions to carry out proof-of-concept studies and w
 
 Learn more about each partner project via these pages...
 
-**Sandpit Projects**
+**Sandpit Projects** <br>
+
+[<img align = 'left' img src="/images/logos.png" width="300" height="300" alt="ARINZRIT">](/arinzrit/)
+[<img align = 'centre' img src="/images/logo2.png" width="300" height="300" alt="ENERGETIC">](/energetic/)
+[<img align = 'right' img src="/images/logo3.png" width="300" height="300" alt="GO ZERO">](/go-zero/) <br>
+
+[<img align = 'left' img src="/images/logo4.png" width="300" height="300" alt="HPC JEEP">](/hpc-jeep/)
+[<img align = 'centre' img src="/images/logo5.png" width="300" height="300" alt="IRISCAST">](/iriscast/)
+[<img align = 'right' img src="/images/logo6.png" width="300" height="300" alt="VALUE">](/value/) <br>
+
 
 [ARINZRIT: Learning from the Big Picture: Applying Responsible Innovation to the Net Zero Research Infrastructure transformation](/arinzrit/) <br>
 [ENERGETIC: ENergy-aware hEteRoGenEous compuTIng at sCale](/energetic/) <br>
