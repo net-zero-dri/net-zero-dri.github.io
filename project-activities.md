@@ -13,6 +13,13 @@ We've partnered with 19 institutions to carry out proof-of-concept studies and w
 **Sandpit Projects** <br>
 Learn more about each partner projects by clicking the logos...
 
+<p float="left">
+  [img src="/images/logos.png" width="200" height="200" alt="ARINZRIT">](/arinzrit/)
+  [img src="/images/logo2.png" width="200" height="200" alt="ENERGETIC">](/energetic/)
+  [ img src="/images/logo3.png" width="200" height="200" alt="GO ZERO">](/go-zero/) 
+</p>#
+
+
 [<img align = 'left' img src="/images/logos.png" width="200" height="200" alt="ARINZRIT">](/arinzrit/)
 [<img align = 'center' img src="/images/logo2.png" width="200" height="200" alt="ENERGETIC">](/energetic/)
 [<img align = 'right' img src="/images/logo3.png" width="200" height="200" alt="GO ZERO">](/go-zero/) <br>
