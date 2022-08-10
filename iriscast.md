@@ -1,7 +1,7 @@
 ---
 layout: page
 title: IRISCAST
-permalink: project-activities/iriscast/
+permalink: /iriscast/
 ---
 
 ![iriscast](/images/5.png){:class="img-responsive"}
