@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project Activities
+title: Archer Case Study
 permalink: /archer/
 ---
 
