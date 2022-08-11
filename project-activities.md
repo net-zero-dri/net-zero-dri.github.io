@@ -25,6 +25,15 @@ Learn more about each partner projects by clicking the logos...
 [<img src="/images/logo7.png" width="200" height="200" alt="CQUANDRI">](/cquandri/)
 
 &nbsp;<br>
+
+ARINZRIT: Learning from the Big Picture: Applying Responsible Innovation to the Net Zero Research Infrastructure Transformation - [find out more here](/arinzrit/) <br>
+ENERGETIC: ENergy-aware hEteRoGenEous compuTIng at sCale - [find out more here](/energetic/) <br>
+GO ZERO: Giving Voice to, and Empowering Stakeholders of UKRI DRI: A Net Zero Workshop Series - [find out more here](/go-zero/) <br>
+HPC JEEP: HPC job efficiency and energy usage: monitoring and reporting - [find out more here](/hpc-jeep/) <br>
+IRISCAST: IRIS Carbon Audit SnapshoT - [find out more here](/iriscast/) <br>
+VALUE: ‘Value’ and Net Zero Decision Making - [find out more here](/value/) <br>
+CQuanDRI: Quantifying the Carbon Emissions of Digital Research Infrastructure - [find out more here](/cquandri/) <br>
+
 &nbsp;<br>
 &nbsp;<br>
 
