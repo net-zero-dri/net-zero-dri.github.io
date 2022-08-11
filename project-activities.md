@@ -27,7 +27,12 @@ Learn more about each partner projects by clicking the logos...
 &nbsp;<br>
 
 **Consortium Projects** <br>
-  
+
+[<img src="/images/jasmin.png" width="200" height="200" alt="Jasmin, Jade & Scafell Pike">](/jasmin/)
+[<img src="/images/archer.png" width="200" height="200" alt="Archer 2">](/archer/)
+[<img src="/images/mapping.png" width="200" height="200" alt="Mapping the DRI">](/mapping/)
+
+
 In-depth case studies: JASMIN, JADE, Scafell Pike - [find out more here](/jasmin/) <br>
 In depth case study: ARCHER2 - [find out more here](/archer/) <br>
 Mapping the DRI - [find out more here](/mapping/) <br>
