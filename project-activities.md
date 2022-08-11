@@ -30,8 +30,10 @@ Learn more about each partner projects by clicking the logos...
 
 [<img src="/images/jasmin.png" width="200" height="200" alt="Jasmin, Jade & Scafell Pike">](/jasmin/)
 [<img src="/images/archer.png" width="200" height="200" alt="Archer 2">](/archer/)
-[<img src="/images/mapping.png" width="200" height="200" alt="Mapping the DRI">](/mapping/)
-
+[<img src="/images/mapping.png" width="200" height="200" alt="Mapping the DRI">](/mapping/) <br>
+[<img src="/images/roadmap.png" width="200" height="200" alt="Roadmap Development">](/roadmap-development/)
+[<img src="/images/sustainable.png" width="200" height="200" alt="Sustainable Computing">](/sustainable-computing/)
+[<img src="/images/survey.png" width="200" height="200" alt="User Behaviour Survey">](/user-behaviour-survey/) <br>
 
 In-depth case studies: JASMIN, JADE, Scafell Pike - [find out more here](/jasmin/) <br>
 In depth case study: ARCHER2 - [find out more here](/archer/) <br>
