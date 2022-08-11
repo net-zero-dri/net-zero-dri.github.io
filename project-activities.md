@@ -16,11 +16,11 @@ Learn more about each partner projects by clicking the logos...
 
 [<img src="/images/logos.png" width="200" height="200" alt="ARINZRIT">](/arinzrit/)
 [<img src="/images/logo2.png" width="200" height="200" alt="ENERGETIC">](/energetic/)
-[<img src="/images/logo3.png" width="200" height="200" alt="GO ZERO">](/go-zero/)
-[<img src="/images/logo4.png" width="200" height="200" alt="HPC JEEP">](/hpc-jeep/) <br>
+[<img src="/images/logo3.png" width="200" height="200" alt="GO ZERO">](/go-zero/) <br>
+[<img src="/images/logo4.png" width="200" height="200" alt="HPC JEEP">](/hpc-jeep/) 
 [<img src="/images/logo5.png" width="200" height="200" alt="IRISCAST">](/iriscast/)
-[<img src="/images/logo6.png" width="200" height="200" alt="VALUE">](/value/)
-[<img src="/images/logo7.png" width="200" height="200" alt="CQUANDRI">](/cquandri/) <br>
+[<img src="/images/logo6.png" width="200" height="200" alt="VALUE">](/value/) <br>
+[<img src="/images/logo7.png" width="200" height="200" alt="CQUANDRI">](/cquandri/)
 
 &nbsp;<br>
 &nbsp;<br>
