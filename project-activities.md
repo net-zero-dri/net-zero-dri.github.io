@@ -17,9 +17,11 @@ Learn more about each partner projects by clicking the logos...
 [<img src="/images/logos.png" width="200" height="200" alt="ARINZRIT">](/arinzrit/)
 [<img src="/images/logo2.png" width="200" height="200" alt="ENERGETIC">](/energetic/)
 [<img src="/images/logo3.png" width="200" height="200" alt="GO ZERO">](/go-zero/) <br>
+&nbsp;<br>
 [<img src="/images/logo4.png" width="200" height="200" alt="HPC JEEP">](/hpc-jeep/) 
 [<img src="/images/logo5.png" width="200" height="200" alt="IRISCAST">](/iriscast/)
 [<img src="/images/logo6.png" width="200" height="200" alt="VALUE">](/value/) <br>
+&nbsp;<br>
 [<img src="/images/logo7.png" width="200" height="200" alt="CQUANDRI">](/cquandri/)
 
 &nbsp;<br>
@@ -31,9 +33,11 @@ Learn more about each partner projects by clicking the logos...
 [<img src="/images/jasmin.png" width="200" height="200" alt="Jasmin, Jade & Scafell Pike">](/jasmin/)
 [<img src="/images/archer.png" width="200" height="200" alt="Archer 2">](/archer/)
 [<img src="/images/mapping.png" width="200" height="200" alt="Mapping the DRI">](/mapping/) <br>
+&nbsp;<br>
 [<img src="/images/roadmap.png" width="200" height="200" alt="Roadmap Development">](/roadmap-development/)
 [<img src="/images/sustainable.png" width="200" height="200" alt="Sustainable Computing">](/sustainable-computing/)
 [<img src="/images/survey.png" width="200" height="200" alt="User Behaviour Survey">](/user-behaviour-survey/) <br>
+&nbsp;<br>
 
 In-depth case studies: JASMIN, JADE, Scafell Pike - [find out more here](/jasmin/) <br>
 In depth case study: ARCHER2 - [find out more here](/archer/) <br>
