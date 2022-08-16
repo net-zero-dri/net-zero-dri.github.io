@@ -51,7 +51,6 @@ Poppy’s role as Communications Manager is to promote the work of the Net Zero 
  
 **Technical lead - Ag Stephens** <br>
 <img align = 'left' src="/images/Ag Stephens - profile - 2021.jpg" width="100" height="100">
-<br>
 As well as being technical lead on this project, Ag oversees the data pipeline that delivers Petabytes of climate simulations through the Model Intercomparison Projects (such as CMIP5/6) and looks after the UK Climate Projections User Interface which is managed by CEDA and runs on the JASMIN platform. Ag has a keen interest in developing better tools for improving data curation, management and delivery. He also oversees the CEDA training programme.
 <br>
  
