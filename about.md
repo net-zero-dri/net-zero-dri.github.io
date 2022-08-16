@@ -45,7 +45,7 @@ Charlotte has extensive experience of the development and application of data mo
  
  
 **Communications - Poppy Townsend** <br>
-<img align = 'left' src="/images/poppyphoto.png" width="100" height="100">
+<img align = 'left' src="/images/poppy.jgp" width="100" height="100">
 Poppy’s role as Communications Manager is to promote the work of the Net Zero DRI Scoping Project. Poppy's previous role at CEDA was as a Data Scientist, responsible for providing data management support to researchers, predominantly for projects funded by the Natural Environment Research Council. Poppy holds a MSc in Science Communication from UWE Bristol and a BSc in Ocean Science from Plymouth University.
 <br>
  
