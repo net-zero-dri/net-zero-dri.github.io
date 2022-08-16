@@ -45,12 +45,13 @@ Charlotte has extensive experience of the development and application of data mo
  
  
 **Communications - Poppy Townsend** <br>
-<img align = 'left' src="/images/poppy.jpg" width="130" height="100">
+<img align = 'left' src="/images/poppy.jpg" width="120" height="100">
 Poppy’s role as Communications Manager is to promote the work of the Net Zero DRI Scoping Project. Poppy's previous role at CEDA was as a Data Scientist, responsible for providing data management support to researchers, predominantly for projects funded by the Natural Environment Research Council. Poppy holds a MSc in Science Communication from UWE Bristol and a BSc in Ocean Science from Plymouth University.
 <br>
  
 **Technical lead - Ag Stephens** <br>
-<img align = 'left' src="/images/agphoto.png" width="100" height="100">
+<img align = 'left' src="/images/Ag Stephens - profile - 2021.jpg" width="100" height="100">
+<br>
 As well as being technical lead on this project, Ag oversees the data pipeline that delivers Petabytes of climate simulations through the Model Intercomparison Projects (such as CMIP5/6) and looks after the UK Climate Projections User Interface which is managed by CEDA and runs on the JASMIN platform. Ag has a keen interest in developing better tools for improving data curation, management and delivery. He also oversees the CEDA training programme.
 <br>
  
