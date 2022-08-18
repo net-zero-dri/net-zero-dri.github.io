@@ -39,17 +39,23 @@ CQuanDRI: Quantifying the Carbon Emissions of Digital Research Infrastructure - 
 
 **Consortium Projects** <br>
 
-[<img src="/images/jasmin.png" width="200" height="200" alt="Jasmin, Jade & Scafell Pike">](/jasmin/)
-[<img src="/images/archer.png" width="200" height="200" alt="Archer 2">](/archer/)
-[<img src="/images/mapping.png" width="200" height="200" alt="Mapping the DRI">](/mapping/) <br>
+[<img src="/images/jasmin.png" width="200" height="200" alt="JASMIN (SUPERCOMPUTER) - An in depth case study">](/jasmin/)
+[<img src="/images/jade.png" width="200" height="200" alt="JADE (AI Focus) - An in depth case study">](/jade/)
+[<img src="/images/scafell-pike.png" width="200" height="200" alt="SCAFELL PIKE (SUPERCOMPUTER)- An in depth case study">](/scafell-pike/) <br>
 &nbsp;<br>
-[<img src="/images/roadmap.png" width="200" height="200" alt="Roadmap Development">](/roadmap-development/)
+[<img src="/images/archer.png" width="200" height="200" alt="Archer 2">](/archer/)
+[<img src="/images/mapping.png" width="200" height="200" alt="Mapping the DRI">](/mapping/)
+[<img src="/images/roadmap.png" width="200" height="200" alt="Roadmap Development">](/roadmap-development/)<br>
+&nbsp;<br>
 [<img src="/images/sustainable.png" width="200" height="200" alt="Sustainable Computing">](/sustainable-computing/)
 [<img src="/images/survey.png" width="200" height="200" alt="User Behaviour Survey">](/user-behaviour-survey/) <br>
 &nbsp;<br>
 
-In-depth case studies: JASMIN, JADE, Scafell Pike - [find out more here](/jasmin/) <br>
-In depth case study: ARCHER2 - [find out more here](/archer/) <br>
+In-depth case studies: 
+  JASMIN - [find out more here](/jasmin/) <br>
+  JADE - [find out more here](/jade/) <br>
+  Scafell Pike - [find out more here](/scafell-pike/) <br>
+  ARCHER2 - [find out more here](/archer/) <br>
 Mapping the DRI - [find out more here](/mapping/) <br>
 Providing advice and expertise on roadmap development - [find out more here](/roadmap-development/) <br>
 Providing expertise on sustainable computing - [find out more here](/sustainable-computing/) <br>
