@@ -40,8 +40,8 @@ CQuanDRI: Quantifying the Carbon Emissions of Digital Research Infrastructure - 
 **Consortium Projects** <br>
 
 [<img src="/images/jasmin.png" width="200" height="200" alt="JASMIN (SUPERCOMPUTER) - An in depth case study">](/jasmin/)
-[<img src="/images/jade.png" width="200" height="200" alt="JADE (AI Focus) - An in depth case study">](/jade/)
-[<img src="/images/scafell-pike.png" width="200" height="200" alt="SCAFELL PIKE (SUPERCOMPUTER)- An in depth case study">](/scafell-pike/) <br>
+[<img src="/images/scafell-pike.png" width="200" height="200" alt="SCAFELL PIKE (SUPERCOMPUTER)- An in depth case study">](/scafell-pike/)
+[<img src="/images/jade.png" width="200" height="200" alt="JADE (AI Focus) - An in depth case study">](/jade/) <br>
 &nbsp;<br>
 [<img src="/images/archer.png" width="200" height="200" alt="Archer 2">](/archer/)
 [<img src="/images/mapping.png" width="200" height="200" alt="Mapping the DRI">](/mapping/)
@@ -53,9 +53,10 @@ CQuanDRI: Quantifying the Carbon Emissions of Digital Research Infrastructure - 
 
 In-depth case studies: <br>
    - JASMIN - [find out more here](/jasmin/) <br>
-   - JADE - [find out more here](/jade/) <br>
    - Scafell Pike - [find out more here](/scafell-pike/) <br>
+   - JADE - [find out more here](/jade/) <br>
    - ARCHER2 - [find out more here](/archer/) <br>
+&nbsp;<br>
 Mapping the DRI - [find out more here](/mapping/) <br>
 Providing advice and expertise on roadmap development - [find out more here](/roadmap-development/) <br>
 Providing expertise on sustainable computing - [find out more here](/sustainable-computing/) <br>
