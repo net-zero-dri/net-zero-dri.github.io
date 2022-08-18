@@ -51,11 +51,11 @@ CQuanDRI: Quantifying the Carbon Emissions of Digital Research Infrastructure - 
 [<img src="/images/survey.png" width="200" height="200" alt="User Behaviour Survey">](/user-behaviour-survey/) <br>
 &nbsp;<br>
 
-In-depth case studies: 
-  JASMIN - [find out more here](/jasmin/) <br>
-  JADE - [find out more here](/jade/) <br>
-  Scafell Pike - [find out more here](/scafell-pike/) <br>
-  ARCHER2 - [find out more here](/archer/) <br>
+In-depth case studies: <br>
+   - JASMIN - [find out more here](/jasmin/) <br>
+   - JADE - [find out more here](/jade/) <br>
+   - Scafell Pike - [find out more here](/scafell-pike/) <br>
+   - ARCHER2 - [find out more here](/archer/) <br>
 Mapping the DRI - [find out more here](/mapping/) <br>
 Providing advice and expertise on roadmap development - [find out more here](/roadmap-development/) <br>
 Providing expertise on sustainable computing - [find out more here](/sustainable-computing/) <br>
