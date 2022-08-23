@@ -17,8 +17,8 @@ This project aims to map the broader landscape of: <br>
 ![arinzrit](/images/1.png){:class="img-responsive"} 
 
 
-**Representatives:**
-Adrian Friday, University of Lancaster
-Chris Preist, University of Bristol
-Simon Lambert, STFC
-Adrian Jackson, University of Edinburgh
+**Representatives:** <br>
+Adrian Friday, University of Lancaster <br>
+Chris Preist, University of Bristol <br>
+Simon Lambert, STFC <br>
+Adrian Jackson, University of Edinburgh <br>
