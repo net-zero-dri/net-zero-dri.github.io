@@ -4,4 +4,4 @@ title: GO ZERO
 permalink: /go-zero/
 ---
 
-![arinzrit](/images/3.png){:class="img-responsive"}
+![Go Zero - A Net Zero Workshop Series](/images/3.png){:class="img-responsive"}
