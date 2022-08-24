@@ -63,3 +63,10 @@ The project team share the projects recent updates and take questions from the a
 
 Joining instructions are sent via the mailing list [(subscribe here)](/subscribe). If you do not wish to join the mailing list, [contact us](/contact/) for joining instructions. 
 
+
+
+**July 2022**
+
+Overview of the Project Scope, Ambitions and Progress to celebrate Net Zero Week in the UKRI Wednesday Webinar. ([Slides here](https://doi.org/10.5281/zenodo.6827837))
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZL704l_p-Mk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
