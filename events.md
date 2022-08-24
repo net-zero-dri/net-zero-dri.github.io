@@ -38,7 +38,7 @@ Two sandpit events were used to bring together new ideas and to allocate the fun
 
 #### Progress webinars
 
-We host project update webinars approximately monthly.
+We host regular project update webinars - recordings of past events are below.
 
 ***January 2022*** <br>
 Overview and aims of project. ([Slides here](https://doi.org/10.5281/zenodo.5846587)) <br>
