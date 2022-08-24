@@ -11,13 +11,19 @@ This project will lead a series of participatory workshops which will be underta
 ![Go Zero - A Net Zero Workshop Series](/images/3.png){:class="img-responsive"}
 
 ## Go Zero Workshop Series
-REGISTER TO ATTEND HERE by the 14th September : [click to express your interest in attending the workshops!](https://businessschoolusers.fra1.qualtrics.com/jfe/form/SV_cARwBUsnzvjLTKe)
+**REGISTER TO ATTEND HERE by the 14th September** : [click to express your interest in attending the workshops!](https://businessschoolusers.fra1.qualtrics.com/jfe/form/SV_cARwBUsnzvjLTKe)
 
 The Go Zero Team are hosting a series of three workshops to connect and enthuse the UKRI research community and empower stakeholders to take ownership of the path to net zero. <br>
 
-Attendance at all three workshops is required. These will take place at **13:00- 17:00** on the following dates... <br>
+Attendance at **all three** workshops is required. These will take place at **13:00- 17:00** on the following dates... <br>
 - Wednesday 5th October 2022
 - Wednesday 19th October 2022
 - Wednesday 2nd November 2022
 
 ![Workshop Series Advert](/images/gozeroadvert.png){:class="img-responsive"}
+
+**What's involved in each workshop?**
+
+-  WORKSHOP 1: Where does the energy consumption come from and how can it be made more efficient?
+-  WORKSHOP 2: What to do with the fossil fuel left over/how to limit unavoided emissions and what behaviour change solutions exist to meet climate targets?
+-  WORKSHOP 3: What are key actions (by 2025, 2030, 2035, 2040) to meet net zero targets?
