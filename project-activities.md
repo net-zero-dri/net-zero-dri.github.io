@@ -9,8 +9,13 @@ We've partnered with 19 institutions to carry out proof-of-concept studies and w
 
 ![project-activities](images/project-activities-canva.svg){:class="img-responsive"} 
 
+## Core Project Team Outputs  <br>
 
-**Sandpit Projects** <br>
+Read our Interim Report and more by clicking on the image: <br>
+
+[<img src="/images/project-reports.png" width="400" height="200" alt="Project Reports - key reports and documents from the core project team">](/reports/) <br>
+
+## Sandpit Projects <br>
 
 Learn more about each partner projects by clicking the logos...
 
@@ -37,7 +42,7 @@ CQuanDRI: Quantifying the Carbon Emissions of Digital Research Infrastructure - 
 &nbsp;<br>
 &nbsp;<br>
 
-**Consortium Projects** <br>
+## Consortium Projects <br>
 
 [<img src="/images/jasmin.png" width="200" height="200" alt="JASMIN (SUPERCOMPUTER) - An in depth case study">](/jasmin/)
 [<img src="/images/scafell-pike.png" width="200" height="200" alt="SCAFELL PIKE (SUPERCOMPUTER)- An in depth case study">](/scafell-pike/)
