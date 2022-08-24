@@ -4,7 +4,17 @@ title: Events
 permalink: /events/
 ---
 ## 📅 Upcoming events
+#### Progress webinar - Friday 9th September at 11:30am (GMT)
+We are hosting a webinar to share and discuss the findings of our first interim report.
 
+The interim report is about to be published (link added soon). The document shares recommendations from an extensive literature review and will form the basis of our Final Report, due to be released next summer.
+
+This webinar will cover the following:
+* The key recommendations from the interim report
+* Discussion about the findings
+* Information about future events and activities
+
+Please [register to attend](https://www.eventbrite.co.uk/e/webinar-net-zero-dri-scoping-project-registration-406802305647) the event. 
 
 #### Computing Insight UK (CIUK) conference in Manchester, December 2022. 
 Information to follow.
