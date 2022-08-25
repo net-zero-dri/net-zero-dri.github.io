@@ -13,7 +13,7 @@ An Interim Report called [‘Complexity, Challenges and Opportunities for Carbon
 
 We invite the community to read the report and **welcome further discussion from interested parties in a webinar** hosted by the UKRI Net Zero DRI Scoping Project Team. The **webinar is on Friday 9th September at 11:30am** – [register to attend here.](https://www.eventbrite.co.uk/e/webinar-net-zero-dri-scoping-project-registration-406802305647)  
 
-**This webinar will cover the following: 
+**This webinar will cover the following:** 
 - The key recommendations from the Interim Report 
 - Discussion about the findings 
 - Information about future events and activities. 
