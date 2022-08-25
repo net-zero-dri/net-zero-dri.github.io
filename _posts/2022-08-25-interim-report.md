@@ -31,7 +31,7 @@ The key initial recommendations in the report cover ten themes (see Figure 1). S
 
 Further workshops and technical studies in the remaining 9 months of the project will lead to additional recommendations. 
 
-[<img src="/images/interim-report.png" width="566" height="800" alt="Interim Report: Key Recommendation Themes">](/https://twitter.com/cedanews/) <br>
+[<img src="/images/interim-report-overview.png" width="566" height="800" alt="Interim Report: Key Recommendation Themes">](/https://twitter.com/cedanews/) <br>
 *Figure 1: an infographic that summarises the interim report’s key recommendations.*
 
  
