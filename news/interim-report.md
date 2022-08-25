@@ -13,7 +13,7 @@ An Interim Report called [‘Complexity, Challenges and Opportunities for Carbon
 
 We invite the community to read the report and **welcome further discussion from interested parties in a webinar** hosted by the UKRI Net Zero DRI Scoping Project Team. The **webinar is on Friday 9th September at 11:30am** – [register to attend here.](https://www.eventbrite.co.uk/e/webinar-net-zero-dri-scoping-project-registration-406802305647)  
 
-This webinar will cover the following: 
+**This webinar will cover the following: 
 - The key recommendations from the Interim Report 
 - Discussion about the findings 
 - Information about future events and activities. 
@@ -32,30 +32,30 @@ The key initial recommendations in the report cover ten themes (see Figure 1). S
 
 Further workshops and technical studies in the remaining 9 months of the project will lead to additional recommendations. 
 
-[<img src="/images/interim-report.png" width="707" height="1000" alt="Interim Report: Key Recommendation Themes">](/https://twitter.com/cedanews/) <br>
+[<img src="/images/interim-report.png" width="566" height="800" alt="Interim Report: Key Recommendation Themes">](/https://twitter.com/cedanews/) <br>
 *Figure 1: an infographic that summarises the interim report’s key recommendations.*
 
  
-### Example of a challenge addThe Rebound Effect 
+### Example of a challenge addressed in the Interim Report: The Rebound Effect 
 One example of a consideration that the project has identified that must be accounted for in the net zero DRI roadmap is **the rebound effect.** This refers to the phenomenon that when systems expand in capacity or become more efficient, the user behaviour is to again use up all available storage space, rather than maintaining the existing level of productivity. While efficiency savings are paramount for the transition to net zero DRI, the report explains that there must be a framework to enable the conversion of efficiency gains into carbon savings. If this is not achieved, there is high risk of expanding demand and greater resource usage. The project’s interim recommendation is that the introduction of new technologies should be matched by appropriate training and user support. Concepts such as offsetting appropriately, sequestration and making policies mandatory in a similar way to Health and Safety policies are also explained in detail.  
 
  
 
-The [Interim Report](https://doi.org/10.5281/zenodo.7016951) is an extensive document but is split into manageable sections:  
+### The [Interim Report](https://doi.org/10.5281/zenodo.7016951) is an extensive document but is split into manageable sections:  
 
-Executive Summary – this summarises the projects recommendations (based on the findings in the rest of the report)   
+**Executive Summary** – this summarises the projects recommendations (based on the findings in the rest of the report)   
 
-Synthesis – this section provides a synthesis of the key areas covered in the literature review, with links to more detailed discussion of individual papers in subsequent chapters.  
+**Synthesis** – this section provides a synthesis of the key areas covered in the literature review, with links to more detailed discussion of individual papers in subsequent chapters.  
 
-Introduction – outlines the context and aims of the report/project  
+**Introduction** – outlines the context and aims of the report/project  
 
-Background - this section frames the wider problem and provides context (based on literature) 
+**Background** - this section frames the wider problem and provides context (based on literature) 
 
-Key findings – this expands on the details discussed in earlier chapters 
+**Key findings** – this expands on the details discussed in earlier chapters 
 
  
 
-**The project will produce two more reports:**  <br>
+### The project will produce two more reports:  <br>
 
 - A 2nd interim report (due in early 2023) - this will provide initial recommendations based on the evidence collected by the project partners (such as the proof-of-concept studies)  
 
