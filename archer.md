@@ -10,6 +10,6 @@ The team will contribute to the design of a questionnaire which will be used to 
  
 Furthermore, the team may contribute to data gathering, by talking to service managers to fill in the questionnaire - this will provide input for the mapping activity. This analysis will also research plans for the future to improve the energy efficiency of this facility. 
 
-![TIER SYSTEM](/images/tier_system.png){:class="img-responsive"}
+![TIER SYSTEM](/images/tier_system.png)
 
 Institutions involved: Edinburgh Parallel Computing Centre at Edinburgh Universit
