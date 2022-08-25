@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Interim Report Publication
-permalink: /news/interim-report/
+permalink: /news/interim-report-2/
 ---
 
 ## Publishing our Interim Report 
