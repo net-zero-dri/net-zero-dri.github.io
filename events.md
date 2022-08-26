@@ -16,12 +16,23 @@ This webinar will cover the following:
 
 Please [register to attend](https://www.eventbrite.co.uk/e/webinar-net-zero-dri-scoping-project-registration-406802305647) the event. 
 
+
+#### Go Zero Workshop Series - October/November 2022
+One of our project partners, the Go Zero team, are hosting a series of three workshops in Autumn 2022 aimed at: 
+* People who use digital research infrastructure, at any stage in their research / research-related career
+* People who manage, maintain and operate digital research infrastructure
+* People who fund digital research infrastructure
+
+The online workshops are designed to:
+* connect and enthuse the UK research community in order to meet the net zero challenge facing digital research infrastructure
+* empower stakeholders to take ownership of the path to net zero 
+
+Join us and benefit from a chance to shape the future of UKRI’s net zero work, give your views, receive up to £190 in incentives, and network with others!
+
+[Find out more and how to apply here.](https://net-zero-dri.ceda.ac.uk/go-zero/)
+
 #### Computing Insight UK (CIUK) conference in Manchester, December 2022. 
 Information to follow.
-
-#### Workshops (led by members of the research community)
-A series of workshops will be organised within the scoping project in order to broaden discussion and gather evidence from a wide range of sources. The hosting of workshops will be outsourced in order to engage a range of organisations in the process. <br>
-Details to be added in due course. Likely to be Autumn 2022.
 
 ---
 ## 📅 Past events
