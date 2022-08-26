@@ -7,7 +7,7 @@ permalink: /events/
 #### Progress webinar - Friday 9th September at 11:30am (GMT)
 We are hosting a webinar to share and discuss the findings of our first interim report.
 
-The interim report is about to be published (link added soon). The document shares recommendations from an extensive literature review and will form the basis of our Final Report, due to be released next summer.
+Our [interim report has been published](https://net-zero-dri.ceda.ac.uk/reports/). The document shares recommendations from an extensive literature review and will form the basis of our Final Report, due to be released next summer.
 
 This webinar will cover the following:
 * The key recommendations from the interim report
