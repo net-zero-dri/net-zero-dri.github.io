@@ -5,7 +5,7 @@ date: '2022-08-31 16:20:00'
 categories: general
 permalink: /news/workshop-series/
 ---
-_We invite the community to join an online workshop series which will be hosted by the [Go Zero team](https://net-zero-dri.ceda.ac.uk/go-zero/) (part of the UKRI Net Zero DRI project)._
+_We invite the community to **join an online workshop** series which will be hosted by the [Go Zero team](https://net-zero-dri.ceda.ac.uk/go-zero/) (part of the UKRI Net Zero DRI project)._
 
 The evidence collected from these online discussions will inform recommendations for how UKRI can reach net zero [digital research infrastructure](https://www.ukri.org/what-we-offer/creating-world-class-research-and-innovation-infrastructure/digital-research-infrastructure/). 
 
