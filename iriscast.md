@@ -19,3 +19,4 @@ Jonathan Hays, Queen Mary University of London <br>
 Nicholas Walton, University of Cambridge <br>
 Adrian Jackson, University of Edinburgh <br>
 
+[DOI: 10.5281/zenodo.6787626](https://zenodo.org/record/6787626/)
