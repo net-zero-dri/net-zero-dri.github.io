@@ -3,6 +3,7 @@ layout: page
 title: CQuanDRI
 permalink: /cquandri/
 ---
+### CQuanDRI = Carbon Quandry with Digital Research Infrastructure (DRI)
 
 **What’s the scope of this work?** <br>
 This project will provide a measurement trace that captures the sustainability aspects in the operation of a DRI service, including dependencies between different indicators (e.g. data flow, power consumption, and carbon intensity). 
