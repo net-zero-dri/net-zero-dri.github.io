@@ -19,25 +19,15 @@ Read our Interim Report and more by clicking on the image: <br>
 
 Learn more about each partner projects by clicking the logos...
 
-[<img src="/images/arinzrit.png" width="200" height="200" alt="ARINZRIT">](/arinzrit/)
-[<img src="/images/energetic.png" width="200" height="200" alt="ENERGETIC">](/energetic/)
-[<img src="/images/go-zero.png" width="200" height="200" alt="GO ZERO">](/go-zero/) <br>
+[<img src="/images/arinzrit.png" width="200" height="200" alt="ARINZRIT: Learning from the Big Picture: Applying Responsible Innovation to the Net Zero Research Infrastructure Transformation">](/arinzrit/)
+[<img src="/images/energetic.png" width="200" height="200" alt="ENERGETIC: ENergy-aware hEteRoGenEous compuTIng at sCale">](/energetic/)
+[<img src="/images/go-zero.png" width="200" height="200" alt="GO ZERO: Giving Voice to, and Empowering Stakeholders of UKRI DRI: A Net Zero Workshop Series">](/go-zero/) <br>
 &nbsp;<br>
-[<img src="/images/hpc-jeep.png" width="200" height="200" alt="HPC JEEP">](/hpc-jeep/) 
-[<img src="/images/iriscast.png" width="200" height="200" alt="IRISCAST">](/iriscast/)
-[<img src="/images/value.png" width="200" height="200" alt="VALUE">](/value/) <br>
+[<img src="/images/hpc-jeep.png" width="200" height="200" alt="HPC JEEP: HPC job efficiency and energy usage: monitoring and reporting">](/hpc-jeep/) 
+[<img src="/images/iriscast.png" width="200" height="200" alt="IRISCAST: IRIS Carbon Audit SnapshoT">](/iriscast/)
+[<img src="/images/value.png" width="200" height="200" alt="VALUE: ‘Value’ and Net Zero Decision Making">](/value/) <br>
 &nbsp;<br>
-[<img src="/images/cquandri.png" width="200" height="200" alt="CQUANDRI">](/cquandri/)
-
-&nbsp;<br>
-
-ARINZRIT: Learning from the Big Picture: Applying Responsible Innovation to the Net Zero Research Infrastructure Transformation - [find out more here](/arinzrit/) <br>
-ENERGETIC: ENergy-aware hEteRoGenEous compuTIng at sCale - [find out more here](/energetic/) <br>
-GO ZERO: Giving Voice to, and Empowering Stakeholders of UKRI DRI: A Net Zero Workshop Series - [find out more here](/go-zero/) <br>
-HPC JEEP: HPC job efficiency and energy usage: monitoring and reporting - [find out more here](/hpc-jeep/) <br>
-IRISCAST: IRIS Carbon Audit SnapshoT - [find out more here](/iriscast/) <br>
-VALUE: ‘Value’ and Net Zero Decision Making - [find out more here](/value/) <br>
-CQuanDRI: Quantifying the Carbon Emissions of Digital Research Infrastructure - [find out more here](/cquandri/) <br>
+[<img src="/images/cquandri.png" width="200" height="200" alt="CQUANDRI: Quantifying the Carbon Emissions of Digital Research Infrastructure">](/cquandri/)
 
 &nbsp;<br>
 &nbsp;<br>
@@ -55,14 +45,3 @@ CQuanDRI: Quantifying the Carbon Emissions of Digital Research Infrastructure - 
 [<img src="/images/sustainable.png" width="200" height="200" alt="Sustainable Computing">](/sustainable-computing/)
 [<img src="/images/survey.png" width="200" height="200" alt="User Behaviour Survey">](/user-behaviour-survey/) <br>
 &nbsp;<br>
-
-In-depth case studies: <br>
-   - JASMIN - [find out more here](/jasmin/) <br>
-   - Scafell Pike - [find out more here](/scafell-pike/) <br>
-   - JADE - [find out more here](/jade/) <br>
-   - ARCHER2 - [find out more here](/archer/) <br>
-&nbsp;<br>
-Mapping the DRI - [find out more here](/mapping/) <br>
-Providing advice and expertise on roadmap development - [find out more here](/roadmap-development/) <br>
-Providing expertise on sustainable computing - [find out more here](/sustainable-computing/) <br>
-Implicit Associations and User Behaviour Survey - [find out more here](/user-behaviour-survey/) <br>
