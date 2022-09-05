@@ -9,4 +9,4 @@ Edge Hill University will contribute on outreach to the broad community, relucta
 Institutions involved: Edge Hill University
 
 <br>
-![DRI figure](images/user_behaviour_for_website.png){:class="img-responsive"} 
+!(images/user_behaviour_for_website.png){:class="img-responsive"} 
