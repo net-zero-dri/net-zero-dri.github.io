@@ -9,4 +9,4 @@ Edge Hill University will contribute on outreach to the broad community, relucta
 Institutions involved: Edge Hill University
 
 <br>
-!(/images/userwebsite.png/){:class="img-responsive"} 
+<img src="/images/userwebsite.png" width="800" height="450" alt="User Behaviour Survey">
