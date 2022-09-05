@@ -7,3 +7,6 @@ permalink: /user-behaviour-survey/
 Edge Hill University will contribute on outreach to the broad community, reluctant stakeholders and probing implicit attitudes through a user and stakeholder survey.
 
 Institutions involved: Edge Hill University
+
+<br>
+![DRI figure](images/user_behaviour_for_website.png){:class="img-responsive"} 
