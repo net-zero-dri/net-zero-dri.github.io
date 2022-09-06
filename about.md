@@ -22,7 +22,7 @@ The team will lead an initial, 19-month UKRI-wide study to survey the digital ca
 
 The core project team includes:
 
-**Project Lead - Martin Jukes** <br>
+**Project Lead - Martin Juckes** <br>
 Dr Martin Jukes is the Head of Atmospheric Science and Research and deputy head of CEDA. He is the project lead for the Net Zero Digital Researh Infrastructure Scoping Project. Martin has vast experience in the climate and atmospheric communities - including working with the Intergovernmental Panel on Climate Change. 
 <br>
 
@@ -40,7 +40,7 @@ Charlotte has extensive experience of the development and application of data mo
 <br>
  
  
-**Communications - Poppy Townsend** <br>
+**Communications Officer - Poppy Townsend** <br>
 Poppy’s role as Communications Manager is to promote the work of the Net Zero DRI Scoping Project. Poppy's previous role at CEDA was as a Data Scientist, responsible for providing data management support to researchers, predominantly for projects funded by the Natural Environment Research Council. Poppy holds a MSc in Science Communication from UWE Bristol and a BSc in Ocean Science from Plymouth University.
 <br>
  
@@ -48,7 +48,7 @@ Poppy’s role as Communications Manager is to promote the work of the Net Zero 
 As well as being technical lead on this project, Ag oversees the data pipeline that delivers Petabytes of climate simulations through the Model Intercomparison Projects (such as CMIP5/6) and looks after the UK Climate Projections User Interface which is managed by CEDA and runs on the JASMIN platform. Ag has a keen interest in developing better tools for improving data curation, management and delivery. He also oversees the CEDA training programme.
 <br>
  
-**Summer placement students - Lucy Woodward** and **Sophie Mosselmans**  
+**Summer placement students (Communications Assistants) - Lucy Woodward** and **Sophie Mosselmans**  
 Lucy is a 4th year MSci Physics student at the University of Nottingham with strong interests in science communication, podcasting and climate solutions. Sophie is studying her MSci in Physics at Imperial College London and has previously done strategic communications work with the Global Returns Project. 
 <br>
 
