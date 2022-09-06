@@ -48,8 +48,8 @@ Poppy’s role as Communications Manager is to promote the work of the Net Zero 
 As well as being technical lead on this project, Ag oversees the data pipeline that delivers Petabytes of climate simulations through the Model Intercomparison Projects (such as CMIP5/6) and looks after the UK Climate Projections User Interface which is managed by CEDA and runs on the JASMIN platform. Ag has a keen interest in developing better tools for improving data curation, management and delivery. He also oversees the CEDA training programme.
 <br>
  
-**Summer students - Lucy Woodward** and **Sophie Mosselmans**  
-Lucy is a 4th year MSci Physics student at the University of Nottingham with a strong interest in careers in science communication and climate solutions. Sophie is studing her MSci in Physics at Imperial College London and has previously done strategic communications work with the Global Returns Project. 
+**Summer placement students - Lucy Woodward** and **Sophie Mosselmans**  
+Lucy is a 4th year MSci Physics student at the University of Nottingham with strong interests in science communication, podcasting and climate solutions. Sophie is studying her MSci in Physics at Imperial College London and has previously done strategic communications work with the Global Returns Project. 
 <br>
 
 
