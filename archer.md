@@ -12,4 +12,4 @@ Furthermore, the team may contribute to data gathering, by talking to service ma
 
 ![TIER SYSTEM](/images/tier_system.png)
 
-Institutions involved: Edinburgh Parallel Computing Centre at Edinburgh Universit
+Institutions involved: Edinburgh Parallel Computing Centre at Edinburgh University
