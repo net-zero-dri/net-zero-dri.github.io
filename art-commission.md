@@ -13,7 +13,7 @@ We envisage the artwork design and making process will **stimulate conversations
 
 ## Timeline
 - Monday 5th September: Opportunity announced
-- **Friday 7th September: Deadline for proposals**
+- **Friday 7th October: Deadline for proposals**
 - Friday 14th October: Ideas Lab (shortlisted proposals will be invited)
 - Tuesday 18th October: Decision made
 - Tuesday 1st November: Work commences
