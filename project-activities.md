@@ -43,5 +43,6 @@ Learn more about each partner projects by clicking the logos...
 [<img src="/images/roadmap.png" width="200" height="200" alt="Roadmap Development">](/roadmap-development/)<br>
 &nbsp;<br>
 [<img src="/images/sustainable.png" width="200" height="200" alt="Sustainable Computing">](/sustainable-computing/)
-[<img src="/images/survey.png" width="200" height="200" alt="User Behaviour Survey">](/user-behaviour-survey/) <br>
+[<img src="/images/survey.png" width="200" height="200" alt="User Behaviour Survey">](/user-behaviour-survey/)
+[<img src="/images/artist-commission.png" width="200" height="200" alt="Artist Commission">](/art-commission/) <br>
 &nbsp;<br>
