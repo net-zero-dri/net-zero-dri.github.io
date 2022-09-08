@@ -58,6 +58,10 @@ Lucy is a 4th year MSci Physics student at the University of Nottingham with str
 The project started in November 2021 and will run for 19 months. <br>
 ![DRI figure](images/Figure-2-v4.png){:class="img-responsive"} 
 
+## QR Code
+
+![DRI figure](images/netzero_qr.png){:class="img-responsive"}
+
 ## Who funded the project? 
 
 £1.86 million was awarded to the project from UKRI (administered by the [Natural Environment Research Council (NERC)](https://nerc.ukri.org/))
