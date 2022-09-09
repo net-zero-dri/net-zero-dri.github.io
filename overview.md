@@ -14,12 +14,14 @@ The project will:
 
 An overview of how the project will collect evidence is below. For further details about the [project scope](/scope/) see here. 
 
-![abstract-banner-image](images/trees-banner-GettyImages-1173733640-2.png){:class="img-responsive"} 
+## What is Digital Research Infrastructure?
+![abstract-banner-image](images/DRI-tweet-graphic.png){:class="img-responsive"} 
+
+## How will the work be carried out?
+*For detailed information about each piece of work, visit [the project activities page.](/project-activities/)*
 
 ### Mapping the current carbon landscape
 UKRI doesn't currently have a clear understanding about the carbon footprint of its digital research infrastructure estate - this project aims to change that. We will design a model that maps out the current carbon landscape with detailed information, likely to be in a database form, which can be used to support modelling applications. It will also provide interactive visualisations and aggregations of the data to further UKRI's future understanding of how to meet its net zero targets.
-
-![abstract-banner-image](images/DRI-tweet-graphic.png){:class="img-responsive"}
 
 ### Developing case studies
 The design of the mapping database will be informed by detailed analysis of exemplar national and international infrastructures. Exemplars will be selected on the basis of (1) national or international standing as infrastructure supporting excellent science or analogous non-research services and (2) easy availability of detailed information on carbon footprint associated with a range of services.
@@ -48,3 +50,5 @@ The project will fund ~5 [proof-of-concept studies](/proof-of-concept/) to analy
 
 ### Investigating funding and system level views 
 Existing processes, such as procurement, don't take into account carbon costs. The Net Zero Consortium will conduct a series of meetings, inviting experts as appropriate, to assess the current funding framework for UKRI digital research infrastructure and review the processes in place for the funding of DRI procurement, operation, and use. 
+
+![abstract-banner-image](images/trees-banner-GettyImages-1173733640-2.png){:class="img-responsive"} 
