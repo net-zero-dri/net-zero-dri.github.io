@@ -11,7 +11,7 @@ This project will lead a series of participatory workshops which will be underta
 ![Go Zero - A Net Zero Workshop Series](/images/3.png){:class="img-responsive"}
 
 ## Go Zero Workshop Series
-**REGISTER TO ATTEND HERE by the 14th September** : [click to express your interest in attending the workshops!](https://businessschoolusers.fra1.qualtrics.com/jfe/form/SV_cARwBUsnzvjLTKe)
+**REGISTER TO ATTEND HERE by the <font color="red"> 21st September (AMENDED deadline) </font>** : [click to express your interest in attending the workshops!](https://businessschoolusers.fra1.qualtrics.com/jfe/form/SV_cARwBUsnzvjLTKe)
 
 The Go Zero Team are hosting a series of three workshops to connect and enthuse the UKRI research community and empower stakeholders to take ownership of the path to net zero. <br>
 
