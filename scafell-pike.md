@@ -3,7 +3,7 @@ layout: page
 title: Scafell Pike Case Study
 permalink: /scafell-pike/
 ---
-[Scafell Pike](https://www.hartree.stfc.ac.uk/Pages/Our-systems-and-platforms.aspx) is an STFC facility that is listed in the Top500 and Green500 lists of global supercomputers [Add link]. We will conduct a set of interviews with the managers of the Scafell Pike facility (STFC Digital Infrastructure). These will explore the structure, purpose, practices and use of the facility. Questions will probe into the various aspects related to energy efficiency and usage. We will explore how change can be helped and hindered, user behaviour, future trends and the properties of Scafell Pike that are unique and are in common with other facilities.
+[Scafell Pike](https://www.hartree.stfc.ac.uk/Pages/Our-systems-and-platforms.aspx) is an STFC facility that is listed in the Top500 and Green500 lists of global supercomputers. We will conduct a set of interviews with the managers of the Scafell Pike facility (STFC Digital Infrastructure). These will explore the structure, purpose, practices and use of the facility. Questions will probe into the various aspects related to energy efficiency and usage. We will explore how change can be helped and hindered, user behaviour, future trends and the properties of Scafell Pike that are unique and are in common with other facilities.
 
 The main output will be a written report which syntheses the key findings from the interviews. This will feed into a general report about all 4 of the in-depth case studies.
 
