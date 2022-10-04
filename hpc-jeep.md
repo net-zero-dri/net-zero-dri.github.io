@@ -22,5 +22,4 @@ Andy Turner, University of Edinburgh <br>
 Project reference document here: [DOI: 10.5281/zenodo.6787599](https://zenodo.org/record/6787599/)
 
 **Outputs:** <br>
-HPC-JEEP's [first report has been published] (https://doi.org/10.5281/zenodo.7128628) and [the supporting dataset is also available] 
-(https://doi.org/10.5281/zenodo.7128645).
+HPC-JEEP's [first report has been published](https://doi.org/10.5281/zenodo.7128628) and [the supporting dataset is also available].(https://doi.org/10.5281/zenodo.7128645).
