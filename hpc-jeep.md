@@ -19,4 +19,10 @@ This project will look at what level of energy and efficiency information can be
 Alastair Basden, Durham University <br>
 Andy Turner, University of Edinburgh <br>
 
-[DOI: 10.5281/zenodo.6787599](https://zenodo.org/record/6787599/)
+Project reference document here: [DOI: 10.5281/zenodo.6787599](https://zenodo.org/record/6787599/)
+
+**Outputs:** <br>
+HPC-JEEP first report published at:
+https://doi.org/10.5281/zenodo.7128628 <br>
+and the supporting dataset at:
+https://doi.org/10.5281/zenodo.7128645 <br>
