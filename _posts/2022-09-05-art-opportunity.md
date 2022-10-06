@@ -38,7 +38,7 @@ The purpose of the online event is to communicate our project’s final recommen
 The event will include people from a range of backgrounds, roles and responsibilities. People’s knowledge about the digital research infrastructure net zero roadmap is likely to be very varied – some people will have actually been doing the work, others may only have just heard about it. The final artwork will be a way to communicate about the project to these people. 
 
 ### How to apply?
-£25,000 of funding is available. Proposals from artists, arts collectives, or teams of makers are encouraged to be submitted for consideration by Friday 14 October 2022 at 12:00pm (GMT). 
+£25,000 of funding is available. Proposals from artists, arts collectives, or teams of makers are encouraged to be submitted for consideration **by Friday 14 October 2022 at 12:00pm (GMT).** 
 
 Take a look at [the briefing document](https://docs.google.com/document/d/1D9Gwl5vvrz2bYJkC_SXDSdmh4Ypa20CD7eX36uRuHYU/edit?usp=sharing/), which includes full details about the opportunity, budget, timescales and how to apply. 
 
