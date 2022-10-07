@@ -27,7 +27,7 @@ Our roadmap towards carbon neutral digital research infrastructure will involve 
 
 We see great potential and value in a role for the arts within the net zero digital research infrastructure transformation.
 
-We envisage the artwork design and making process will stimulate engaging conversations across the research community. As part of the commission we anticipate conversations to be facilitated by, or in collaboration with, the commissioned artist or maker. 
+We envisage the artwork design and making process will stimulate and strengthen engagement with the project and the net zero challenge. As part of the commission we anticipate conversations to be facilitated by, or in collaboration with, the commissioned artist or maker. 
 
 We hope the final artwork, and the processes by which it was created, encourages people to look at the challenge of net zero for digital research infrastructure from a fresh perspective and inspire collective action. 
 
