@@ -23,3 +23,5 @@ Project reference document here: [DOI: 10.5281/zenodo.6787599](https://zenodo.or
 
 **Outputs:** <br>
 HPC-JEEP's [first report has been published](https://doi.org/10.5281/zenodo.7128628) and [the supporting dataset is also available](https://doi.org/10.5281/zenodo.7128645).
+
+Blog post by Andy Turner - [Software power draw on ARCHER2 - the benefits of being an RSE](https://www.archer2.ac.uk/news/2022/10/10/ARCHER2CodePowerRSE.html)
