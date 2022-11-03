@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'workshop on the funding of digital research infrastructure procurement'
+title: 'Workshop on the funding of digital research infrastructure procurement'
 date: '2022-09-05 14:00:00'
 categories: By Invitation
 permalink: /news/procurement-workshop/
