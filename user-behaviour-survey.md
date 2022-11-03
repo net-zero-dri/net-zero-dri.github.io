@@ -10,6 +10,8 @@ The survey will cover aspects to do with running software and writing code, stor
 
 The information gathered by the survey will help the project to understand how DRI is used and enable it to recommend appropriately targeted policy interventions.
 
+**The survey launched in early November. [Find out more about the survey, including who should fill it in.](https://net-zero-dri.ceda.ac.uk/news/behaviour-survey/) The survey deadline is Wednesday 23 November 2022.** 
+
 Institutions involved: Edge Hill University
 
 <br>
