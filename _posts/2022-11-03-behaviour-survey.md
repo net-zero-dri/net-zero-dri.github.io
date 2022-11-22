@@ -40,4 +40,4 @@ There is no mechanism to go back to previous pages once you have started the sur
 
 All of your responses will be completely anonymous, and you will not be asked to provide any identifiable information.
 
-The deadline for completing the survey is Wednesday 23 November 2022. [Take part here](https://edgehillpsychology.eu.qualtrics.com/jfe/form/SV_erqaYxB9f2Y7bXU). 
+The deadline for completing the survey is Friday 9 December 2022. [Take part here](https://edgehillpsychology.eu.qualtrics.com/jfe/form/SV_erqaYxB9f2Y7bXU). 
