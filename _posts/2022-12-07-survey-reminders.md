@@ -8,7 +8,7 @@ permalink: /news/survey-reminders/
 
 We have two surveys that we need the research community to complete. They won't take long - and will help us to produce a roadmap for reaching net zero digital research infrastructure.
 
-## Survey 1: motivators and barriers to sustainable digital research infrastructure
+### Survey 1: motivators and barriers to sustainable digital research infrastructure
 
 *Last chance to complete - closing on Friday 9 December!*
 
@@ -16,7 +16,7 @@ We want to understand how you make use of digital resources - [help us by fillin
 
 You can find several recent posts on our [Twitter page](https://twitter.com/cedanews) - please share widely! 
 
-## Survey 2: research computing practices survey
+### Survey 2: research computing practices survey
 
 The [UKRI Net Zero Digital Research Infrastructure Scoping Project](https://net-zero-dri.ceda.ac.uk/) aims to create a roadmap to achieving net zero computing by 2040. To that end, we need data on all digital research activity carried out with UKRI funding. 
 
