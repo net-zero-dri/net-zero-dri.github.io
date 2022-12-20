@@ -9,7 +9,7 @@ permalink: /events/
 
 We are holding two webinars to share the outcomes of work undertaken by our project partners. These pieces of work have been undertaken by over 40 researchers from 20 different institutions over the last ~6 months. Both webinars are intended to provide an opportunity for the wider research community to engage with and discuss the project outcomes.
 
-**Please hold dates (registration information to follow)**. 
+**Please [register to attend here](https://www.eventbrite.co.uk/e/net-zero-dri-project-partners-webinars-registration-490456527677)**. 
 
 The webinars have been divided according to two themes reflected in the findings and recommendations of the projects:  
 
