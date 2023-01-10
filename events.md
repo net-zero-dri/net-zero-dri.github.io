@@ -5,7 +5,7 @@ permalink: /events/
 ---
 ## 📅 Upcoming events
 
-### Project Partner Webinars – Findings and Recommendations  
+### Project Partner Webinars – January/February 2023
 
 We are holding two webinars to share the outcomes of work undertaken by our project partners. These pieces of work have been undertaken by over 40 researchers from 20 different institutions over the last ~6 months. Both webinars are intended to provide an opportunity for the wider research community to engage with and discuss the project outcomes.
 
@@ -18,7 +18,7 @@ The webinars have been divided according to two themes reflected in the findings
 
 ---
 
-### Creative Workshops  
+### Creative Workshops – January/February 2023
 
 We have [commissioned artist Paul Millhouse-Smith](https://net-zero-dri.ceda.ac.uk/art-commission/) to deliver a large-scale art-work in response to the core ambitions - and challenges - associated with the net zero agenda. The final piece will inspire collective action and stimulate conversations surrounding the transition to net zero digital research infrastructure (DRI).  
 
