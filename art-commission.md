@@ -10,14 +10,13 @@ From supercomputers to staff laptops, we are working towards making all the digi
 
 To meet the ambitious sustainability target - of reaching net zero digital research infrastructure by 2040 - a broad transformation will be required. The arts have a role in this transformation as a medium through which people can consider their values, shift attitudes, reflect on issues, and find connection. 
 
-
 Artist Paul Millhouse-Smith has been commissioned to inspire collective action on sustainable digital research infrastructure.
 
 Paul Millhouse-Smith, a multi-disciplinary artist and technologist who explores our relationship with the past and new technologies, has envisaged a physical and virtual artwork that will stimulate engaging conversations across the research community. 
 
 Paul’s work, and the workshops and processes by which it is created, will encourage people to look at the challenge of net zero for digital research infrastructure from a fresh perspective and inspire meaningful change.
 
-Through a series of creative workshops with people from across the UK digital research infrastructure community, Paul will facilitate making sessions and capture conversations related to the critical decisions around the work we do. 
+Through a series of creative workshops with people from across the UK digital research infrastructure community, Paul will facilitate making sessions and capture conversations related to the critical decisions around the work we do. [Registration is now open for the workshops, being held in January/February 2023.](https://forms.gle/2ZVcFWgo3RzrgJcb6)
 
 People will have the opportunity to explore with Paul what they hold important about research, digital infrastructure, and the world we live in - in the context of our rapidly changing climate and what we are set to lose. 
 
@@ -45,6 +44,8 @@ For the workshop participants, and for members of the UK digital research infras
 
 Commission timeline: November 2022 - June 2023
 
+[Register your interest in the participatory workshops.](https://forms.gle/2ZVcFWgo3RzrgJcb6)
+
 Contact the artist: [Paul Millhouse-Smith](mailto:paul@millhouse-smith.com)
 
-For media enquiries or questions about the Net Zero Digital Research Infrastructure programme contact [Poppy Townsend](mailto:poppy.townsend@stfc.ac.uk)
+For media enquiries or questions about the Net Zero Digital Research Infrastructure project contact [Poppy Townsend](mailto:poppy.townsend@stfc.ac.uk)
