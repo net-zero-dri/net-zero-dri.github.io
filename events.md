@@ -13,42 +13,23 @@ We are holding two webinars to share the outcomes of work undertaken by our proj
 
 The webinars have been divided according to two themes reflected in the findings and recommendations of the projects:  
 
-* Webinar 1 - Technical and Operational Challenges 
-* Webinar 2 - Community and Organisational Challenges 
+* Webinar 1 - Technical and Operational Challenges - Tuesday 31 January 2-4pm (UK time) 
+* Webinar 2 - Community and Organisational Challenges - Thursday 2 February, 1:30-3:30pm (UK time) 
 
+---
 
-Further details about the webinars below.  
+### Creative Workshops  
 
-#### Webinar 1: Technical and Operational Challenges, Tuesday 31 January 2-4pm (UK time) 
+We have [commissioned artist Paul Millhouse-Smith](https://net-zero-dri.ceda.ac.uk/art-commission/) to deliver a large-scale art-work in response to the core ambitions - and challenges - associated with the net zero agenda. The final piece will inspire collective action and stimulate conversations surrounding the transition to net zero digital research infrastructure (DRI).  
 
-This webinar will cover technical and operational challenges such as: hardware procurement, design and architecture of infrastructure, cloud platforms, consolidation, power management and efficiency, end-of-life, and carbon capture and offsetting. 
+As part of this commission, Paul is facilitating four creative workshops in January and February to gather information that will inspire his final artwork and facilitate discussion. Decarbonising the digital research infrastructure will require a reassessment of existing habits, values and methodologies across the research community. These workshops are therefore open to anyone working with DRI, including researchers within any and all disciplines and career stages. They offer an opportunity to engage critically and creatively with the environmental sustainability lively discussion! 
 
-Projects presenting are:  
+[For further information and to register your interest](https://forms.gle/2ZVcFWgo3RzrgJcb6). The online creative workshops will be held on the following dates, you only need to attend one: 
+* Friday 27 January 1-4pm 
+* Monday 30 January 1-4pm 
+* Friday 3 February 10am-1pm 
+* Tuesday 7 February 10am-1pm  
 
-* CarbonQuanDRI: developing a measurement trace capturing various sustainability aspects in the operation of a DRI service, including dependencies between different indicators (e.g. data flow, power consumption, and carbon intensity) 
-* IRISCAST: auditing energy usage of the IRIS DRI via snap-hot data capture  
-* Energetic: exploring energy-to-solution consumption in High Performance Computing (HPC)  
-* HPC-Jeep: informing efficient, environmentally conscientious use of HPC resources – ARCHER2 and DiRAC  
-* Mapping the DRI: collating a representative sample of the DRI using the UKRI InfraPortal  (tbc) 
-* Case studies update – detailed analysis for the following infrastructures: JASMIN, Archer2, Jade, Scafell Pike  
-
-#### Webinar 2: Community and Organisational Challenges, Thursday 2 February, 1:30-3:30pm (UK time) 
-
-This webinar will cover community and organisational challenges such as: user facing services, data management, behaviour change, training, proportionality of energy use, the risks of negative impacts, and monitoring and driving change. 
-
-Projects presenting are:  
-
-* Arinzrit: mapping the DRI policy and practice landscape  
-* Value: developing recommendations for evaluating carbon emissions vs output ‘value’ to support UKRI decision-making  
-* Go Zero: empowering the research community to take ownership of Net Zero  
-* DRI User Behaviour Survey: identifying implicit attitudes to environmental sustainability and gathered information about existing sustainable usage of DRI
-* Art to inspire collective action on sustainable digital research infrastructure: the progress so far and how you can get involved 
-
-The rough structure of each webinar will be:  
-
-* Introduction/recap from core project team 
-* ~10 minutes per talk, followed by Q&A and plenty of time for discussion  
-* A summary from the core project team about ‘what next’ 
     
 
 ---
