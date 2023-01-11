@@ -17,29 +17,25 @@ Are you involved in undertaking research or supporting research? Do you have a p
 **[Register your interest to attend a creative workshop.](https://forms.gle/DEg6DtjbgFJb2RAi6)** 
 
 ### Sustainable digital research infrastructure
-From supercomputers to staff laptops, we are working towards making all the digital tools and practices used for UK research carbon neutral. A roadmap towards carbon neutral digital research infrastructure will be developed, with involvement of UK researchers from across disciplines, and take an integrated and coordinated approach.
+From supercomputers to staff laptops, [we are working towards making all the digital tools and practices used for UK research carbon neutral] (https://net-zero-dri.ceda.ac.uk/). A roadmap towards carbon neutral digital research infrastructure will be developed, with involvement of UK researchers from across disciplines, and take an integrated and coordinated approach.
 
 To meet the ambitious sustainability target – of reaching net zero digital research infrastructure by 2040 – a broad transformation will be required. The arts have a role in this transformation as a medium through which people can consider their values, shift attitudes, reflect on issues, and find connection. 
 
 ### Art to inspire collective action
-Paul Millhouse-Smith, a multi-disciplinary artist and technologist who explores our relationship with the past and new technologies, has envisaged a physical and virtual artwork that will stimulate engaging conversations across the research community between November 2022 and June 2023 – and encourage people to look at the challenge of net zero for digital research infrastructure from a fresh perspective.
+[Paul Millhouse-Smith](https://cargocollective.com/millhouse-smith/)is a multi-disciplinary artist and technologist who explores our relationship with the past and new technologies. In response to our project, Paul has envisaged physical and virtual artworks that will stimulate engaging conversations across the research community – and encourage people to look at the challenge of net zero for digital research infrastructure from a fresh perspective.
 
-Inspired by some of the world’s earliest examples of narrative art and information sharing, via pottery, Paul will create six one-metre-high vases using cutting-edge 3D ceramic printing technology. They will be decorated in a way that reflects the digital research infrastructure transformation and the perspectives of the workshop participants. 
+Inspired by some of the world’s earliest examples of narrative art and information sharing via pottery, the physical artwork will combine researcher's experiences and perspectives on the Net Zero ambition with cutting-edge 3D ceramic printing technology to create six one-metre-high vases. As a sustainable material clay has the ability to change and take on different forms, whilst providing a canvas for designs derrived through the participatory workshop series. Using clay for this commission is a metaphor for lasting change – and the change that is required for reaching net zero digital research infrastructure. 
 
-As one of the oldest human inventions, the practice of pottery has developed alongside civilization. Ceramics is an ancient and enduring art-form, which is now being revolutionised by the latest printing technologies and digital design practices. 
+The virtual aspect of the commission will be a 3D playable virtual environment, to be experienced through a web browser, virtual reality headset, or film projections. Hologram-like versions of the vases will be displayed inside a re-imagined digital infrastructure. The virtual interface offers an alternate way for people to engage with the artworks in their own time and place. 
 
-Clay, as a sustainable material, has the ability to change and take on different forms. Using clay for this commission is a metaphor for lasting change – and the change that is required for reaching net zero digital research infrastructure. 
-
-A 3D playable virtual environment will also be designed by Paul, to be experienced through a web browser, virtual reality headset, or film projections. Hologram-like versions of the vases will be displayed inside a re-imagined digital infrastructure environment, for virtual visitors to explore and interact with. A way for people to experience the artwork in their own time and place. 
-
-The physical vases and virtual reality space will be combined, to form an immersive installation and visitor experience in summer 2023 at The Reel Store – the UK’s first permanent digital art gallery, in Coventry. 
+The development phase of the commission runs from November 2022 to June 2023, and will culminate in an immersive installation and visitor experience in summer 2023 at [The Reel Store](https://coventry2021.co.uk/the-reel-store/) – the UK’s first permanent digital art gallery, in Coventry. 
 
 ### Creative participatory workshops – register your interest to attend
-Through a series of creative workshops with people from across the UK digital research infrastructure community, Paul will facilitate making sessions and capture conversations related to the critical decisions around the work we do. 
+The creative workshops series is for people from across the UK digital research infrastructure community. Through making sessions facilitated by Paul the workshops are an opportunity to share and capture conversations related to critical decisions around the work we do. 
 
-People will have the opportunity to explore with Paul what they hold important about research, digital infrastructure, and the world we live in – in the context of our rapidly changing climate.
+The themes explored include our values and perceptions of the importance of: research, digital infrastructure, and the world we live in – in the context of our rapidly changing climate.
 
-Using a variety of techniques – like observational drawing, mark making and collage – workshop participants will think about the impressions we make and the legacy that we leave behind. 
+Using a variety of techniques – like observational drawing, mark making and collage – we will think about the impressions we make and the legacy that we leave behind. 
 
 Throughout the workshop, participants will be encouraged to think about existing or speculative contributions to the digital research infrastructure roadmap, and to contribute to lively and open discussion. 
 
