@@ -7,7 +7,7 @@ permalink: /events/
 
 ### Project Partner Webinars – January/February 2023
 
-We are holding two webinars to share the outcomes of work undertaken by our project partners. These pieces of work have been undertaken by over 40 researchers from 20 different institutions over the last ~6 months. Both webinars are intended to provide an opportunity for the wider research community to engage with and discuss the project outcomes.
+We are holding two webinars to share the outcomes of work undertaken by [our project partners](https://net-zero-dri.ceda.ac.uk/project-activities/). These pieces of work have been undertaken by over 40 researchers from 20 different institutions over the last ~6 months. Both webinars are intended to provide an opportunity for the wider research community to engage with and discuss the project outcomes.
 
 **Please [register to attend here](https://www.eventbrite.co.uk/e/net-zero-dri-project-partners-webinars-registration-490456527677)**. 
 
@@ -16,21 +16,26 @@ The webinars have been divided according to two themes reflected in the findings
 * Webinar 1 - Technical and Operational Challenges - Tuesday 31 January 2-4pm (UK time) 
 * Webinar 2 - Community and Organisational Challenges - Thursday 2 February, 1:30-3:30pm (UK time) 
 
+The webinars will be recorded. 
+
 ---
 
 ### Creative Workshops – January/February 2023
 
 We have [commissioned artist Paul Millhouse-Smith](https://net-zero-dri.ceda.ac.uk/art-commission/) to deliver a large-scale art-work in response to the core ambitions - and challenges - associated with the net zero agenda. The final piece will inspire collective action and stimulate conversations surrounding the transition to net zero digital research infrastructure (DRI).  
 
-As part of this commission, Paul is facilitating four creative workshops in January and February to gather information that will inspire his final artwork and facilitate discussion. Decarbonising the digital research infrastructure will require a reassessment of existing habits, values and methodologies across the research community. These workshops are therefore open to anyone working with DRI, including researchers within any and all disciplines and career stages. They offer an opportunity to engage critically and creatively with the environmental sustainability lively discussion! 
+As part of this commission, Paul is facilitating four creative workshops in January and February to gather information that will inspire his final artwork and facilitate discussion. Decarbonising the digital research infrastructure will require a reassessment of existing habits, values and methodologies across the research community. These workshops are therefore open to anyone working with DRI, including researchers within any and all disciplines and career stages. 
 
-[For further information and to register your interest](https://forms.gle/2ZVcFWgo3RzrgJcb6). The online creative workshops will be held on the following dates, you only need to attend one: 
+The workshops offer an opportunity to engage critically and creatively with the environmental sustainability discussion.
+
+The online creative workshops will be held on the following dates, you only need to attend one: 
 * Friday 27 January 1-4pm 
 * Monday 30 January 1-4pm 
 * Friday 3 February 10am-1pm 
 * Tuesday 7 February 10am-1pm  
+* There is also an option to participate offline
 
-    
+[For further information and to register your interest](https://forms.gle/2ZVcFWgo3RzrgJcb6). 
 
 ---
 ## 📅 Past events
