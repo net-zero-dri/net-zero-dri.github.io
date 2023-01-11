@@ -17,7 +17,7 @@ Are you involved in undertaking research or supporting research? Do you have a p
 **[Register your interest to attend a creative workshop.](https://forms.gle/DEg6DtjbgFJb2RAi6)** 
 
 ### Sustainable digital research infrastructure
-From supercomputers to staff laptops, [we are working towards making all the digital tools and practices used for UK research carbon neutral] (https://net-zero-dri.ceda.ac.uk/). A roadmap towards carbon neutral digital research infrastructure will be developed, with involvement of UK researchers from across disciplines, and take an integrated and coordinated approach.
+From supercomputers to staff laptops, [we are working towards making all the digital tools and practices used for UK research carbon neutral](https://net-zero-dri.ceda.ac.uk/). A roadmap towards carbon neutral digital research infrastructure will be developed, with involvement of UK researchers from across disciplines, and take an integrated and coordinated approach.
 
 To meet the ambitious sustainability target – of reaching net zero digital research infrastructure by 2040 – a broad transformation will be required. The arts have a role in this transformation as a medium through which people can consider their values, shift attitudes, reflect on issues, and find connection. 
 
@@ -26,7 +26,7 @@ To meet the ambitious sustainability target – of reaching net zero digital res
 
 Inspired by some of the world’s earliest examples of narrative art and information sharing via pottery, the physical artwork will combine researcher's experiences and perspectives on the Net Zero ambition with cutting-edge 3D ceramic printing technology to create six one-metre-high vases. As a sustainable material clay has the ability to change and take on different forms, whilst providing a canvas for designs derrived through the participatory workshop series. Using clay for this commission is a metaphor for lasting change – and the change that is required for reaching net zero digital research infrastructure. 
 
-The virtual aspect of the commission will be a 3D playable virtual environment, to be experienced through a web browser, virtual reality headset, or film projections. Hologram-like versions of the vases will be displayed inside a re-imagined digital infrastructure. The virtual interface offers an alternate way for people to engage with the artworks in their own time and place. 
+The virtual aspect of the commission will be a 3D playable virtual environment, to be experienced through a web browser, virtual reality headset, or film projections. Hologram-like versions of the vases will also be displayed inside a re-imagined digital infrastructure. This virtual interface offers an alternate way for people to engage with the artworks in their own time and place. 
 
 The development phase of the commission runs from November 2022 to June 2023, and will culminate in an immersive installation and visitor experience in summer 2023 at [The Reel Store](https://coventry2021.co.uk/the-reel-store/) – the UK’s first permanent digital art gallery, in Coventry. 
 
