@@ -5,18 +5,26 @@ permalink: /events/
 ---
 ## 📅 Upcoming events
 
+### Creative Workshops – offline option (complete before end of February)
+
+We have [commissioned artist Paul Millhouse-Smith](https://net-zero-dri.ceda.ac.uk/art-commission/) to deliver a large-scale art-work in response to the core ambitions - and challenges - associated with the net zero agenda. The final piece will inspire collective action and stimulate conversations surrounding the transition to net zero digital research infrastructure (DRI).  
+
+As part of this commission, Paul facilitated four creative workshops and an offline creative worksheet to gather information that will inspire his final artwork and facilitate discussion. Decarbonising the digital research infrastructure will require a reassessment of existing habits, values and methodologies across the research community. 
+
+This work is open to a wide range of people across UKRI who have an interest in digital research infrastructure and net zero. We want to bring different perspectives together and provide a space for people to be creative, and explore what they hold important in the context of a rapidly changing world. It offers an opportunity to engage critically and creatively with the environmental sustainability discussion.
+ 
+Your participation via the worksheet and what you submit to us will be incredibly valuable, and will help inspire Paul for his final artwork. 
+ 
+[Complete the offline creative worksheet, ideally by 5pm on Friday 24 February 2023](https://docs.google.com/document/d/1AgO--MDlmshAhY4LEhFgPFelx-vzTH9E_CeyFdPkzlA/edit?usp=sharing). You may want to complete all of it in order (taking ~60 minutes) or you could pick and choose which exercises to complete. 
+
+---
+## 📅 Past events
+
 ### Project Partner Webinars – January/February 2023
 
 We are holding two webinars to share the outcomes of work undertaken by [our project partners](https://net-zero-dri.ceda.ac.uk/project-activities/). These pieces of work have been undertaken by over 40 researchers from 20 different institutions over the last ~6 months. Both webinars are intended to provide an opportunity for the wider research community to engage with and discuss the project outcomes.
 
-**Please [register to attend here](https://www.eventbrite.co.uk/e/net-zero-dri-project-partners-webinars-registration-490456527677)**. 
-
-The webinars have been divided according to two themes reflected in the findings and recommendations of the projects:  
-
-* Webinar 1 - Technical and Operational Challenges - Tuesday 31 January 2-4pm (UK time) 
-* Webinar 2 - Community and Organisational Challenges - Thursday 2 February, 1:30-3:30pm (UK time) 
-
-The webinars will be recorded. 
+[Further details, including recordings and slides, click here.](https://net-zero-dri.ceda.ac.uk/news/partner-webinars)
 
 ---
 
@@ -35,10 +43,8 @@ The online creative workshops will be held on the following dates, you only need
 * Tuesday 7 February 10am-1pm  
 * There is also an option to participate offline
 
-[For further information and to register your interest](https://forms.gle/2ZVcFWgo3RzrgJcb6). 
 
 ---
-## 📅 Past events
     
 #### Progress webinar - Friday 9th September at 11:30am (GMT)
 We are hosting a webinar to share and discuss the findings of our first interim report.
