@@ -8,7 +8,7 @@ permalink: /events/
 ### Early career events: Environmental sustainability and the future of digital in research (March and April)
 We are hosting two workshops, aimed at early career researchers, which provide an opportunity to learn about environmental sustainability and the future of digital research.  
 
-We want to engage future researchers, who will be most impacted by climate change, with the net zero digital research infrastructure roadmap to ensure your voices are included and listened to. 
+We want to engage future researchers, who will be most impacted by climate change, with our net zero digital research infrastructure roadmap to ensure your voices are included and listened to. 
 
 [Further information and to register.](https://net-zero-dri.ceda.ac.uk/news/early-careers/)
 
