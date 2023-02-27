@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Early careers events: Environmental sustainability and the future of digital in research '
-date: '2023-02-27 08:00:00'
+date: '2023-02-26 08:00:00'
 categories: general
 permalink: /news/early-careers/
 ---
