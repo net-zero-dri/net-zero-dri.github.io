@@ -10,7 +10,7 @@ We are hosting two workshops, aimed at early career researchers, which provide a
 
 We want to engage future researchers, who will be most impacted by climate change, with the net zero digital research infrastructure roadmap to ensure your voices are included and listened to. 
 
-Further information and to register.
+[Further information and to register.](https://net-zero-dri.ceda.ac.uk/news/early-careers/)
 
 ### Creative Workshops – offline option (complete before end of February)
 
