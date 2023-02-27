@@ -12,6 +12,10 @@ We are hosting two workshops, aimed at early career researchers, which provide a
 
 Decarbonising our lives, and more specifically the [digital research infrastructure](https://www.ukri.org/what-we-offer/creating-world-class-research-and-innovation-infrastructure/digital-research-infrastructure/), will require a reassessment of existing habits, values and methodologies across the research community and wider society. We want to engage future researchers, who will be most impacted by climate change, with the net zero digital research infrastructure roadmap to ensure your voices are included and listened to.  
 
+Register at the following links: 
+* [Online event – Tuesday 28 March 2023, 14:00-16:00 BST on Zoom](https://www.eventbrite.co.uk/e/environmental-sustainability-and-the-future-of-digital-in-research-online-registration-559438875737)  
+* [London event - Tuesday 4 April 2023, 15:00 – 18:00 BST at the Science Gallery, London](https://www.eventbrite.co.uk/e/environmental-sustainability-and-the-future-of-digital-in-research-london-registration-556473767017)  
+
 ## Who can attend? 
 
 We welcome attendance from anyone in their early career (or within 10 working years of undergrad) who is either doing or supporting research.  
