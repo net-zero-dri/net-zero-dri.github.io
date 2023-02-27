@@ -5,6 +5,13 @@ permalink: /events/
 ---
 ## 📅 Upcoming events
 
+### Early career events: Environmental sustainability and the future of digital in research (March and April)
+We are hosting two workshops, aimed at early career researchers, which provide an opportunity to learn about environmental sustainability and the future of digital research.  
+
+We want to engage future researchers, who will be most impacted by climate change, with the net zero digital research infrastructure roadmap to ensure your voices are included and listened to. 
+
+Further information and to register.
+
 ### Creative Workshops – offline option (complete before end of February)
 
 We have [commissioned artist Paul Millhouse-Smith](https://net-zero-dri.ceda.ac.uk/art-commission/) to deliver a large-scale art-work in response to the core ambitions - and challenges - associated with the net zero agenda. The final piece will inspire collective action and stimulate conversations surrounding the transition to net zero digital research infrastructure (DRI).  
