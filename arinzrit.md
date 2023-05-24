@@ -23,4 +23,4 @@ Chris Preist, University of Bristol <br>
 Simon Lambert, STFC <br>
 Adrian Jackson, University of Edinburgh <br>
 
-**Project Report: [DOI: 10.5281/zenodo.7966424]([https://doi.org/10.5281/zenodo.7966424])**
+**Project Report: [DOI: 10.5281/zenodo.7966424]([(https://zenodo.org/record/7966424)])**
