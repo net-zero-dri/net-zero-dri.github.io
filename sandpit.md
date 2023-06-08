@@ -29,7 +29,7 @@ Sandpit A focused on **community and organisational challenges** such as: user f
 
 Sandpit B focused on **technical and operational challenges** such as: hardware procurement, design and architecture of infrastructure, cloud platforms, consolidation, power management and efficiency, end-of-life, and carbon capture and offsetting. 
 
-The sandpits will be online activities, taking place on Zoom.
+The sandpits were online activities, taking place on Zoom.
 
 Successful applicants were invited to collaboratively develop ideas for proposals during the sandpit and to submit outline proposals for the consideration of a panel of experts.
 
