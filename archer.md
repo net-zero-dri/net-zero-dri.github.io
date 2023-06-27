@@ -4,11 +4,13 @@ title: Archer Case Study
 permalink: /archer/
 ---
 
-A detailed analysis of ARCHER2 including its overall energy use, the type of electricity used and how this will impact on the carbon footprint of ARCHER2 over service lifetime, will be conducted. There will also be investigations into the embedded energy, e.g. from PAIA or empirical analysis based on area of printed circuits). 
+[ARCHER2](https://www.archer2.ac.uk/) is the UK’s National HPC service, funded by UKRI (via EPSRC and NERC) and operated by EPCC, the University of Edinburgh, at the Advanced Computing Facility. It offers a general-purpose service supporting a wide range of research communities and software with a corresponding wide range of technical requirements and use cases. 
 
-The team will contribute to the design of a questionnaire which will be used to gather information from other facility and service hosts (Tier 1, 2 and 3). We will also look at how ARCHER2 relates to research outputs and the methods used to optimise processes which impact on the energy footprint of users.  
- 
-Furthermore, the team may contribute to data gathering, by talking to service managers to fill in the questionnaire - this will provide input for the mapping activity. This analysis will also research plans for the future to improve the energy efficiency of this facility. 
+As part of the wider Net Zero DRI Scoping project, the ARCHER2 case study investigated the emissions associated with ARCHER2 and how to improve the energy efficiency of the service. A detailed analysis of ARCHER2 including its overall energy use, the type of electricity used and how this will impact on the carbon footprint of ARCHER2 over service lifetime, was conducted. ARCHER2 was also compared with other large HPC systems in terms of best practice for HPC data centres and power efficiency.
+
+The ARCHER2 case study produced a series of 13 recommendations under the headings: Societal value, Best Practice, Power and Energy Efficiency, Energy Consumption at the User Level, and Commissioning and Decommissioning. These recommendations are directed at a variety of stakeholders including service providers, data centre managers, vendors and end-users (researchers).
+
+The full report can be found here: **[DOI:10.5281/zenodo.7788498](https://doi.org/10.5281/zenodo.7788498)**
 
 ![TIER SYSTEM](/images/tier_system.png)
 
