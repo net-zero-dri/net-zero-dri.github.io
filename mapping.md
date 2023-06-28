@@ -4,10 +4,17 @@ title: Mapping the DRI
 permalink: /mapping/
 ---
 
-This work will develop plans for a database that will enable mapping of the entire UKRI DRI estate. The team will look into using the code base of the UKRI Infraportal, potentially extending the level of detail to support aggregation of some key capabilities (e.g. FLOP rating, transistor count, power consumption). They will also look for compatibility with the TOP 500 and Green 500 lists.
+The UKRI digital research infrastructure (DRI) represents a vast and diverse range of systems, people and activities that is inherently difficult to measure. In this project, a representative sample of DRI facilities were gathered with the aim of understanding what the DRI looks like, along with a range of properties that relate to its wider carbon footprint. It is expected that future activities within this remit will require a database of all significant UKRI DRI assets in terms of their technical specification, energy usage, efficiency measures and user communities. Capturing a timeline of this information will allow analysts to compare different systems in order to identify opportunities for positive change.
 
-The task of gathering a definitive list of all UKRI DRI facilities is beyond the means of our Scoping Project. Instead, we aim to gather a representative sample of the DRI which can be used as a baseline for future work in this area. 
+A comprehensive questionnaire was sent to each of the facility managers/contacts at 123 DRI facilities between November and January 2023, with recipients being contacted via e-mail, and in-person where they were known to the team. The results consisted of 44 valid records. An Expert Advisory Group (EAG) was created to help the project team decide on the most appropriate way of analysing and sharing the results of the survey. The key findings were extracted and mapped to a set of 20 recommendations, grouped into the following topics: <br>
+- Defining the DRI<br>
+- Engaging the community<br>
+- Disseminating knowledge and best practice<br>
+- Creating a database of DRI information<br>
+- Innovating and supporting the community<br>
+- Net Zero policy and strategy<br>
+- Undertaking further research<br>
 
-Having considered a number of approaches, we have gathered a spreadsheet of all the “E-Infrastructure and Data” contacts within the UKRI InfraPortal. We will engage with these contacts in order to gather a first list of DRI facilities/services and their managers. That list will be the core audience for the survey. Additionally, we will exploit contacts across the research councils to augment the list as much as is feasible within the timeframe of the work.
+The full report can be found here: **[DOI:10.5281/zenodo.7805988](https://doi.org/10.5281/zenodo.7805988)**
 
-Institutions involved: Scientific Computing Department within the Science and Technology Facilities Council (SCD STFC)
+The work was carried out by a team of Science and Technology Facilities Council (STFC) staff from the Scientific Computing and RAL Space Departments.
