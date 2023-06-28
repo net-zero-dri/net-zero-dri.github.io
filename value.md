@@ -20,7 +20,7 @@ These findings were used to provide recommendations to UKRI of a framework to ap
 
 The full report can be found here: **[DOI:10.5281/zenodo.7692856](https://doi.org/10.5281/zenodo.7692856)**
 
-![value](/images/6.png){:class="img-responsive"
+![value](/images/6.png){:class="img-responsive"}
 
 **Representatives:** <br>
 Susan Krumdieck, Heriot-Watt University <br>
