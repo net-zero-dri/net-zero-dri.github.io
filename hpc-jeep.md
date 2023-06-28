@@ -6,8 +6,6 @@ permalink: /hpc-jeep/
 
 ### HPC Jeep = High Performance Computing: Job Efficiency and Energy Usage, Monitoring & Reporting
 
-[DOI:10.5281/zenodo.7137390](https://doi.org/10.5281/zenodo.7137390)
-
 **What's the scope of this project?** <br>
 
 Traditionally, resources on high performance computing (HPC) services have been granted in units of compute time (core-hours, node-hours, etc.) with users not informed, nor paying much attention to their energy use; and services not generally reporting breakdowns of energy use other than for total electricity charges. Without an understanding of how research areas, projects and users use energy and how efficiently they use resources it is difficult to plan future procurements or service strategies towards a net zero goal. <br>
