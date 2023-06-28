@@ -6,8 +6,6 @@ permalink: /iriscast/
 
 ### IRISCAST = IRIS Carbon Audit SnapshoT
 
-[DOI: 10.5281/zenodo.7692451](https://doi.org/10.5281/zenodo.7692451)
-
 **What's the scope of this work?**
 
 Making good decisions around infrastructure procurement and provision requires understanding, as much as possible, the full carbon costs for operating, maintaining, and using the infrastructure; going beyond accounting for electricity and cooling, and including the full chain of costs embodied in the infrastructure. Enabling good decision making therefore requires a source of accurate real-world data on infrastructure climate impacts. <br>
