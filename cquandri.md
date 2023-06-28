@@ -5,8 +5,6 @@ permalink: /cquandri/
 ---
 ### CQuanDRI = Carbon Quandry with Digital Research Infrastructure (DRI)
 
-[DOI:10.5281/zenodo.7692133](https://doi.org/10.5281/zenodo.7692133)
-
 **What’s the scope of this work?** <br>
 This project provides a measurement trace that captures the sustainability aspects in the operation of a DRI service, including dependencies between different indicators (e.g. data flow, power consumption, and carbon intensity). 
 
