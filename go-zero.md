@@ -3,7 +3,7 @@ layout: page
 title: GO ZERO
 permalink: /go-zero/
 ---
-## Overview of scope of work
+**What’s the scope of this work?** <br>
 Different digital research infrastructure (DRI) stakeholders need help to understand and plan for meeting net zero challenges. Many of the skills and knowledge needed to solve net zero challenges are already in the community – but we lack the mechanisms for sharing them and enabling behaviour change. <br>
 
 Go Zero led a series of three participatory workshops with the aim to connect and enthuse the DRI community, empowering stakeholders to take ownership of the path to net zero. 
