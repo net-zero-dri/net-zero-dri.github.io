@@ -5,8 +5,6 @@ permalink: /energetic/
 ---
 ### Energetic = ENergy-aware hEteRoGenEous compuTIng at sCale
 
-[DOI: 10.5281/zenodo.7692272](https://doi.org/10.5281/zenodo.7692272)
-
 **What's the scope of the work?** <br>
 
 There is a natural heterogeneity between UKRI DRI resources used in high performance computing due to variations in design choices as well as a heterogeneity designed into individual DRI resources due to the use of  ‘accelerator’ special-purpose technologies (e.g graphics processing units [GPU] and field programmable gate array [FPGA] architectures). High performance computing is a significant contributor to energy usage. However, the energy-to-solution varies between these architectures. The ENERGETIC sandpit project set out to investigate whether the use of accelerators would give significant energy savings compared to CPU-only computations, and to determine which classes of code are most suited to accelerator technologies. 
