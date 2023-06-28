@@ -12,6 +12,4 @@ The ARCHER2 case study produced a series of 13 recommendations under the heading
 
 The full report can be found here: **[DOI:10.5281/zenodo.7788498](https://doi.org/10.5281/zenodo.7788498)**
 
-![TIER SYSTEM](/images/tier_system.png)
-
 Institutions involved: Edinburgh Parallel Computing Centre at Edinburgh University
