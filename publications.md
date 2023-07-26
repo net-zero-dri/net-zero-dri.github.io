@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 Bane, Michael K., Brown, Oliver, Bhowmik, Deepayan, Quinn, Jamie, Ali, Teymoor, Quinn, Jamie, & Stansby, David. (2023).
-ENERGETIC: Final Report. Zenodo. https://doi.org/10.5281/zenodo.7692272
+ENERGETIC: Final Report. Zenodo. [(https://doi.org/10.5281/zenodo.7692272)]
 
 Bird, Caroline, Preist, Chris, Lord, Carolynne, Friday, Adrian, Widdicks, Kelly, Jackson, Adrian, Kayumbi Kabeya, Gabin, & Lambert, Simon. (2023). 
 Applying Responsible Innovation to the Net Zero Research Infrastructure Transformation (ARINZRIT): 
