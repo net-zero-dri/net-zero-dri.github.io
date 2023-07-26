@@ -5,15 +5,15 @@ permalink: /publications/
 ---
 
 Bane, Michael K., Brown, Oliver, Bhowmik, Deepayan, Quinn, Jamie, Ali, Teymoor, Quinn, Jamie, & Stansby, David. (2023).
-ENERGETIC: Final Report. Zenodo. [(https://doi.org/10.5281/zenodo.7692272)]
+ENERGETIC: Final Report. Zenodo. [doi.org/10.5281/zenodo.7692272](https://doi.org/10.5281/zenodo.7692272)
 
 Bird, Caroline, Preist, Chris, Lord, Carolynne, Friday, Adrian, Widdicks, Kelly, Jackson, Adrian, Kayumbi Kabeya, Gabin, & Lambert, Simon. (2023). 
 Applying Responsible Innovation to the Net Zero Research Infrastructure Transformation (ARINZRIT): 
-Summary Briefing. Zenodo. https://doi.org/10.5281/zenodo.7689198
+Summary Briefing. Zenodo. [doi.org/10.5281/zenodo.7689198]9https://doi.org/10.5281/zenodo.7689198)
 
-Boulton, Jack. (2023). Value and NetZero Decision Making. Zenodo. https://doi.org/10.5281/zenodo.7692856
+Boulton, Jack. (2023). Value and NetZero Decision Making. Zenodo. [doi.org/10.5281/zenodo.7692856](https://doi.org/10.5281/zenodo.7692856)
 
-Hays, Jonathan, Walton, Nicola, Jackson, Adrian, Mudaraddi, A., Packer, A., & Owen, R.A. (2023). IRISCAST: Final Report. Zenodo. https://doi.org/10.5281/zenodo.7692451
+Hays, Jonathan, Walton, Nicola, Jackson, Adrian, Mudaraddi, A., Packer, A., & Owen, R.A. (2023). IRISCAST: Final Report. Zenodo. [doi.org/10.5281/zenodo.7692451](https://doi.org/10.5281/zenodo.7692451)
 
 Juckes, Martin, Pascoe, Charlotte, Woodward, Lucy, Vanderbauwhede, Wim, & Weiland, Michele. (2022). Interim Report: Complexity, Challenges and Opportunities for Carbon Neutral Digital Research. Zenodo. https://doi.org/10.5281/zenodo.7016952
 
