@@ -7,6 +7,7 @@ permalink: /resources/
 This page points towards further pages where you can learn more about the UKRI Net Zero DRI Scoping Project. <br><br>
 *Information on...*<br>
 
+* [Publications](/publications/)
 * [Project scope](/scope/)
 * [Proof-of-concept studies](/proof-of-concept/)
 * [Sandpit events](/sandpit/)
