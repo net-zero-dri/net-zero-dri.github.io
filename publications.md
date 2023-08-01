@@ -15,7 +15,7 @@ Boulton, Jack. (2023). Value and NetZero Decision Making. Zenodo. [doi.org/10.52
 
 Hays, Jonathan, Walton, Nicola, Jackson, Adrian, Mudaraddi, A., Packer, A., & Owen, R.A. (2023). IRISCAST: Final Report. Zenodo. [doi.org/10.5281/zenodo.7692451](https://doi.org/10.5281/zenodo.7692451)
 
-Juckes, Martin, Pascoe, Charlotte, Woodward, Lucy, Vanderbauwhede, Wim, & Weiland, Michele. (2022). Interim Report: Complexity, Challenges and Opportunities for Carbon Neutral Digital Research. Zenodo. https://doi.org/10.5281/zenodo.7016952
+Juckes, Martin, Pascoe, Charlotte, Woodward, Lucy, Vanderbauwhede, Wim, & Weiland, Michele. (2022). Interim Report: Complexity, Challenges and Opportunities for Carbon Neutral Digital Research. Zenodo. [doi.org/10.5281/zenodo.7016952](https://doi.org/10.5281/zenodo.7016952)
 
 Lambert, Simon, Stephens, Ag, & Kayumbi, Gabin. (2023). Net Zero DRI Case Studies Report. Zenodo. https://doi.org/10.5281/zenodo.7828052
 
@@ -23,7 +23,7 @@ Manika, Danae, McCarroll, Niall, Buck, Justin, Lopez, Alvaro Lorenzo, Geatches, 
 Giving Voice to, and Empowering Stakeholders of UKRI DRI: A Net Zero Workshop Series (Go Zero). Zenodo. https://doi.org/10.5281/zenodo.7692290
 
 Mazzucato, M. (2023). Public procurement for net-zero digital research infrastructure: A mission-oriented approach for UK Research and Innovation. 
-UCL Institute for Innovation and Public Purpose, Policy Report 2023/01. Available at: https://www.ucl.ac.uk/bartlett/public-purpose/pr2023-01
+UCL Institute for Innovation and Public Purpose, Policy Report 2023/01. Available at: [www.ucl.ac.uk/bartlett/public-purpose/publications/2023/jun/public-procurement-net-zero-digital-research-infrastructure-mission-oriented](https://www.ucl.ac.uk/bartlett/public-purpose/publications/2023/jun/public-procurement-net-zero-digital-research-infrastructure-mission-oriented)
 
 McGuire, Laura. (2023). User Behaviour Survey Final Report: The motivators/enablers, and barriers to sustainable Digital Research Infrastructure use. Zenodo. https://doi.org/10.5281/zenodo.7827919
 
