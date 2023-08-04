@@ -14,7 +14,7 @@ Dr Martin Juckes, Head of Atmospheric Science at CEDA, explains: “This scoping
 
 The scoping project has developed a toolkit, and roadmapped the initial steps required, for the decarbonisation of our national digital research infrastructure. This project was made possible by a £1.9 million investment from the Natural Environment Research Council (NERC) on behalf of UKRI.
 
-Over 180 evidence-based recommendations have been synthesised by the scoping project team - involving CEDA, over 40 UK researchers, and more than 20 nationwide research institutes.
+Over 180 evidence-based recommendations have been synthesised by the scoping project team - involving CEDA, over 90 UK researchers, and more than 20 nationwide research institutes.
 
 The recommendations recognise UKRI’s ambition for facilitating state-of-the-art computing tools and techniques, while playing a leading role in navigating the transition to an equitable and sustainable future. 
 
