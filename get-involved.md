@@ -14,4 +14,4 @@ During the active phase of the project we encouraged involvement by inviting peo
 * Subscribe to our email list.
 * Attend our events.
   
-Information about related future activities will be shared on the /News/ page.
+Information about related future activities will be shared on the [news](/news/) page.
