@@ -7,9 +7,11 @@ permalink: /publications/
 Bane, Michael K., Brown, Oliver, Bhowmik, Deepayan, Quinn, Jamie, Ali, Teymoor, Quinn, Jamie, & Stansby, David. (2023).
 ENERGETIC: Final Report. Zenodo. [doi.org/10.5281/zenodo.7692272](https://doi.org/10.5281/zenodo.7692272)
 
+Beard, N. (2023). Net zero computing: scoping UKRI's journey to sustainable digital research infrastructure. Zenodo. [https://doi.org/10.5281/zenodo.8203117](https://doi.org/10.5281/zenodo.8203117)
+
 Bird, Caroline, Preist, Chris, Lord, Carolynne, Friday, Adrian, Widdicks, Kelly, Jackson, Adrian, Kayumbi Kabeya, Gabin, & Lambert, Simon. (2023). 
 Applying Responsible Innovation to the Net Zero Research Infrastructure Transformation (ARINZRIT): 
-Summary Briefing. Zenodo. [doi.org/10.5281/zenodo.7689198]9https://doi.org/10.5281/zenodo.7689198)
+Summary Briefing. Zenodo. [doi.org/10.5281/zenodo.7689198](https://doi.org/10.5281/zenodo.7689198)
 
 Boulton, Jack. (2023). Value and NetZero Decision Making. Zenodo. [doi.org/10.5281/zenodo.7692856](https://doi.org/10.5281/zenodo.7692856)
 
@@ -17,7 +19,9 @@ Hays, Jonathan, Walton, Nicola, Jackson, Adrian, Mudaraddi, A., Packer, A., & Ow
 
 Juckes, Martin, Pascoe, Charlotte, Woodward, Lucy, Vanderbauwhede, Wim, & Weiland, Michele. (2022). Interim Report: Complexity, Challenges and Opportunities for Carbon Neutral Digital Research. Zenodo. [doi.org/10.5281/zenodo.7016952](https://doi.org/10.5281/zenodo.7016952)
 
-Lambert, Simon, Stephens, Ag, & Kayumbi, Gabin. (2023). Net Zero DRI Case Studies Report. Zenodo. https://doi.org/10.5281/zenodo.7828052
+Juckes, M., Bane, M., Bulpett, J., Cartmell, K., MacFarlane, M., MacRae, M., Owen, A., Pascoe, C., & Townsend, P. (2023). Sustainability in Digital Research Infrastructure: UKRI Net Zero DRI Scoping Project final technical report. Zenodo. [https://doi.org/10.5281/zenodo.8199984](https://doi.org/10.5281/zenodo.8199984)
+
+Lambert, Simon, Stephens, Ag, & Kayumbi, Gabin. (2023). Net Zero DRI Case Studies Report. Zenodo. [https://doi.org/10.5281/zenodo.7828052](https://doi.org/10.5281/zenodo.7828052)
 
 Manika, Danae, McCarroll, Niall, Buck, Justin, Lopez, Alvaro Lorenzo, Geatches, Dawn, Ahrens, Florian, Krumdieck, Susan, Keshtkar, Hossein, Fayyad, Nadine, & Hassanloo, Hamidreza. (2023). 
 Giving Voice to, and Empowering Stakeholders of UKRI DRI: A Net Zero Workshop Series (Go Zero). Zenodo. https://doi.org/10.5281/zenodo.7692290
