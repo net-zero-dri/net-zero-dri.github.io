@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sustainable computing: the UK’s journey to net zero digital research infrastructure by 2040'
+title: 'New funding opportunity and webinar: Net zero digital research infrastructure (NZ DRI) coordinator and network'
 date: '2024-03-06 08:00:00'
 categories: general
 permalink: /news/new-funding/
