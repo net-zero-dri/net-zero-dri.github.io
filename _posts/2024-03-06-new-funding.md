@@ -9,7 +9,7 @@ permalink: /news/new-funding/
 _New funding opportunity and updates from the scoping project_
  
 **Message from UKRI: New funding opportunity**  
-_We are sharing this announcement on behalf of the funders. Please attend their webinar on Friday 8th March to learn more._
+*Note: We are sharing this announcement on behalf of the funders. Please attend their webinar on Friday 8th March to learn more.*
 
 UKRI are pleased to announce a new £3.5m funding opportunity, [Net zero digital research infrastructure coordinator and network – UKRI](https://www.ukri.org/opportunity/net-zero-digital-research-infrastructure-coordinator-and-network/). The aim of this funding opportunity is to support a net zero digital research infrastructure (NZ DRI) coordinator to develop and lead an NZ DRI network, to build connectivity across different disciplines and ultimately accelerate the path towards NZ DRI in the UK.
 
